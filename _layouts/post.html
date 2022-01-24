@@ -1,0 +1,120 @@
+---
+layout: default
+---
+<div class="container">
+  <div class="row">
+    <div class="col-10 offset-1">
+
+      <!-- Post Content -->
+      <div class="post">
+        <h3 class="post-title">{{ page.title }}</h3>
+        <div class="row">
+          <div class="col-md-2">
+            <p><i class="fas fa-clock"></i> {{ page.date | date: "%Y-%m-%d" }}</p>
+          </div>
+          <div class="col-md-2">
+            <p><i class="fas fa-book-reader"></i> <span class="reading-time" title="Estimated read time">
+            {% assign words = include.content | strip_html | number_of_words %}
+            {{ words | divided_by: 180 | plus: 1 }} mion.
+            </span></p>
+          </div>
+          <div class="col-md-8">
+            <p style="display: inline-block"><i class="fa fa-tag"></i>
+              {% if post %}
+                {% assign categories = post.categories %}
+              {% else %}
+                {% assign categories = page.categories %}
+              {% endif %}
+              {% for category in categories %}
+                <a href="{{site.baseurl}}/roinn-seorsa/{{ category | downcase | url_escape | strip | replace: ' ', '-' | replace: 'à', 'a' |  replace: 'è', 'e' |  replace: 'ì', 'i' |  replace: 'ò', 'o' |  replace: 'ù', 'u'  }}">{{category}}</a>
+              {% unless forloop.last %}&nbsp;{% endunless %}
+              {% endfor %}
+            </p>
+          </div>
+        </div>
+        {% if page.image-caption %}
+        <figure>
+          <img src="{{ page.image }}" class="post-image">
+          <figcaption class="text-muted" style="text-align: right; margin-top: -25px"><small><a href="{{ page.image-licence }}">{{ page.image-caption }}</a></small></figcaption>
+        </figure>
+        {% else %}
+          <img src="{{ page.image }}" class="post-image">
+        {% endif %}
+        {{ content }}
+
+      <div class="section-divider"></div>
+
+      <!-- Comments -->
+      <div class="row">
+        <div class="col-md-12">
+          {% include comments.html %}
+        </div>
+      </div>
+
+      <div class="section-divider"></div>
+
+      <!-- Author Bio -->
+      <div class="row">
+        <div class="col-md-2">
+          <img src="{{ site.baseurl }}/images/author.jpg" style="display: block; margin: auto; border: solid 3px white; border-radius: 50%; height: 100px" />
+        </div>
+        <div class="col-md-10">
+          {% include bio.html %}
+        </div>
+      </div>
+
+      <div class="section-divider"></div>
+
+      <!-- Next/Previous Posts -->
+      <div class="PageNavigation">
+        {% for post in site.posts %}
+                {% if post.url == page.url %}
+                    {% assign post_index0 = forloop.index0 %}
+                    {% assign post_index1 = forloop.index %}
+                {% endif %}
+            {% endfor %}
+            {% for post in site.posts %}
+                {% if post_index0 == forloop.index %}
+                    {% assign next_post = post.url %}
+                {% endif %}
+                {% if post_index1 == forloop.index0 %}
+                    {% assign prev_post = post.url %}
+                {% endif %}
+            {% endfor %}
+            {% if prev_post %}
+                <a class="prev" href="{{ prev_post }}"><i class="fas fa-arrow-circle-left"></i> Am post roimhe</a>
+            {% endif %}
+            {% if next_post %}
+                <a class="next" href="{{ next_post }}">An ath phost <i class="fas fa-arrow-circle-right"></i></a>
+            {% endif %}
+      </div>
+
+      <div class="section-divider"></div>
+
+      <!-- Related Posts -->
+      <div class="related">
+        {% unless page.categories == null %}
+          {% capture pageCategory %}{{ page.categories[0] }}{% endcapture %}
+          {% unless site.categories[pageCategory].size == 1 %}
+            <h4>Postaichean Co-cheangailte</h4>
+            <ul class="related-posts">
+              {% for post in site.categories[pageCategory] limit:6 %}
+                {% unless post.title == page.title %}
+                  <li class="related-post">
+                    <p>
+                      <a class="related-post" href="{{ site.baseurl }}{{ post.url }}">
+                        {{ post.title }}
+                      </a>
+                    </p>
+                  </li>
+                {% endunless %}
+              {% endfor %}
+            </ul>
+          {% endunless %}
+        {% endunless %}
+      </div>
+
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,17 @@
+---
+layout: default
+---
+<div class="container">
+<h3 class="post-title">{{ page.title }}</h3>
+{% if page.image-caption %}
+<figure>
+  <img src="{{ page.image }}" class="post-image">
+  <figcaption class="text-muted" style="text-align: right; margin-top: -25px"><small><a href="{{ page.image-licence }}">{{ page.image-caption }}</a></small></figcaption>
+</figure>
+{% else %}
+  <img src="{{ page.image }}" class="post-image">
+{% endif %}
+<p>{{ page.event_date }}</p>
+<p>{{ page.event_time }}</p>
+<p>{{ page.address }}</p>
+</div>
