@@ -21,6 +21,8 @@ categories:
     - Lagh
     - Poileataigs
 
+summary: Tha Pàrlamaid Shealainn Nuadh air gabhail ri lagh ùr a chuireas bacadh air teiripe iompachaidh.
+
 instagram:
 
 twitter:
