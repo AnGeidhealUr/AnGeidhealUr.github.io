@@ -23,9 +23,9 @@ categories:
 
 summary: Tha Pàrlamaid Shealainn Nuadh air gabhail ri lagh ùr a chuireas bacadh air teiripe iompachaidh.
 
-instagram:
+instagram: https://www.instagram.com/p/CaNTzQIJ-YW/
 
-twitter:
+twitter: https://twitter.com/angeidhealur/status/1495416896820334605
 
 ---
 
