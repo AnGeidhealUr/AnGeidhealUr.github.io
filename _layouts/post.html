@@ -9,7 +9,7 @@ layout: default
       <div class="post">
         <h3 class="post-title">{{ page.title }}</h3>
         <div class="row">
-          <div class="col-md-2">
+          <div class="col-md-3">
             <p><i class="fas fa-clock"></i> {{ page.date | date: "%Y-%m-%d" }}</p>
           </div>
           <div class="col-md-2">
@@ -18,7 +18,7 @@ layout: default
             {{ words | divided_by: 180 | plus: 1 }} mion.
             </span></p>
           </div>
-          <div class="col-md-8">
+          <div class="col-md-7">
             <p style="display: inline-block"><i class="fa fa-tag"></i>
               {% if post %}
                 {% assign categories = post.categories %}
