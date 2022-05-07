@@ -18,7 +18,7 @@ comments: true
 
 categories:
     - Alba
-    - Lagh
+    
     
 
 instagram: https://www.instagram.com/p/CapQoxzsh3i

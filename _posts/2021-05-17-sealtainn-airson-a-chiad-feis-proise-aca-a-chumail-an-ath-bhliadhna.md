@@ -18,7 +18,7 @@ comments: true
 
 categories:
     - Alba
-    - Cultar
+    
 
 twitter: https://www.twitter.com/AnGeidhealUr/status/1394191813557297152
 

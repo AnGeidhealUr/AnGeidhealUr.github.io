@@ -19,7 +19,6 @@ comments: true
 featured: true
 
 categories:
-  - Ceanglaichean
   - Gàidhlig
 
 ---

@@ -18,8 +18,8 @@ comments: true
 
 categories:
   - Alba
-  - Creideamh
-  - Cultar
+  
+  
 
 ---
 

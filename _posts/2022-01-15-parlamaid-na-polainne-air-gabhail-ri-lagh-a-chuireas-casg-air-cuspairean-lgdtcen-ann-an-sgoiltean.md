@@ -18,8 +18,8 @@ comments: true
 
 categories:
     - An t-Saoghal
-    - Foghlam
-    - Lagh
+    
+    
     
 
 instagram:

@@ -19,7 +19,7 @@ comments: true
 categories:
   - An Rìoghachd Aonaichte
   - An t-Saoghal
-  - Foghlam
+  
 
 ---
 

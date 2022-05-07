@@ -18,7 +18,7 @@ comments: true
 
 categories:
     - Alba
-    - Foghlam
+    
 
 instagram: https://www.instagram.com/p/CUSIyLGAdCD/
 

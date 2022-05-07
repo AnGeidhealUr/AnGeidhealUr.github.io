@@ -19,7 +19,7 @@ comments: true
 categories:
   - Alba
   - An t-Saoghal
-  - Cultar
+  
 
 ---
 

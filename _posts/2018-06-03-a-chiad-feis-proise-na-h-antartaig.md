@@ -18,7 +18,7 @@ comments: true
 
 categories:
   - An t-Saoghal
-  - Cultar
+  
 
 ---
 

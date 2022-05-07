@@ -17,9 +17,9 @@ author: Crìstean MacMhìcheil
 comments: true
 
 categories:
-  - Creideamh
+  
   - Èirinn
-  - Foghlam
+  
   
 
 ---
