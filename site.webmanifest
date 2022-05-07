@@ -38,8 +38,8 @@
             "type": "image/png"
         }
     ],
-    "theme_color": "#7e3c8d",
-    "background_color": "#7e3c8d",
+    "theme_color": "#393a65",
+    "background_color": "#393a65",
     "start_url": "https://geidh.uk/",
     "display": "standalone"
 }
