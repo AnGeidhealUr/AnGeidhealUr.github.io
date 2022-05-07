@@ -17,8 +17,7 @@ author: Crìstean MacMhìcheil
 comments: true
 
 categories:
-    - An Roinn-Eòrpa
-    - Èirinn a Tuath
+    - An t-Saoghal
 
 instagram:
 

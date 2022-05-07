@@ -17,7 +17,7 @@ author: Crìstean MacMhìcheil
 comments: true
 
 categories:
-    - An Roinn-Eòrpa
+    - An t-Saoghal
     - Foghlam
     - Lagh
     
