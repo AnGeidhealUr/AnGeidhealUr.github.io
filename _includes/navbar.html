@@ -1,51 +1,27 @@
 <div style="background-color: {{ site.featured-color }}!important; padding-top: 25px; padding-bottom: 10px;">
   <a class="nav-link" href="{{ site.baseurl }}/">
-    <img src="{{ site.baseurl }}/images/header.png" style="display: block; margin: auto; max-width: 100%; height: auto" />
+    <img src="{{ site.baseurl }}/images/avatar.jpg" style="display: block; margin: auto; border: solid 3px white; border-radius: 50%; height: 100px" />
     <p style="margin-top: 10px; text-align: center; color: #ffffff">{{ site.description }}</p>
   </a>
+  <div class="container">
+    <nav class="nav justify-content-center">
+      {% for entry in site.data.navbar %}
+        <a class="nav-link" style="color: #ffffff" href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a>
+      {% endfor %}
+      <a class="nav-link" style="color: #ffffff" id="theme-toggle" onclick="modeSwitcher()" href="#"></a>
+    </nav>
+  </div>
 </div>
 
-<nav class="navbar navbar-expand-lg navbar-dark bg-light" style="background-color: {{ site.featured-color }}!important">
-  <!--<a href="{{ site.baseurl }}/"><img class="brand-image" src="{{ site.baseurl }}/images/header.png" width="200px"></a>
-  <a class="navbar-brand" href="#">Navbar</a>-->
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-  </button>
-  <div class="collapse navbar-collapse" id="navbarNavDropdown">
-    <ul class="navbar-nav nav-fill w-100">
-      <li class="nav-item">
-        <a class="nav-link" href="{{ site.baseurl }}/" title="Dhachaigh | Home">Naidheachdan</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="{{ site.baseurl }}/faclair-nan-geidheal" title="Liosta de bhriathrachas Gàidhlig LCDTQ+ | A list of Gaelic LGBTQ+ vocabulary">Faclair nan Gèidheal</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="{{ site.baseurl }}/dualchas" title="Geàrr-chunntas ghoirid de dh'eachdraidh LCDT na h-Alba | A short history of LGBT Scotland">Dualchas</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="{{ site.baseurl }}/comhairle/" title="Taghadh de chomhairle agus fiosrachadh feumail | A selection of helpful advice and information">Comhairle</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="{{ site.baseurl }}/tachartasan" title="Liosta de thachartasan LCDTQ+ a' tachairt air feadh na h-Alba | A list of LGBTQ+ events from around Scotland">Tachartasan</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="https://geidhuk.myspreadshop.co.uk" title="Bùth-bhathair | Merch store">Bùth-bhathair</a>
-      </li>
-      <li class="nav-item">
-          <a class="nav-link" href="{{ site.baseurl }}/roinn-seorsa/blog" title="Blog">Blog</a>
-      </li>
-      <li class="nav-item">
-          <a class="nav-link" href="{{ site.baseurl }}/ceanglaichean" title="">Ceanglaichean</a>
-      </li>
-      <li class="nav-item">
-          <a class="nav-link" href="{{ site.baseurl }}/mu-ar-deidhinn" title="Mu ar deidhinn | About Us">Mu ar deidhinn</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="{{ site.baseurl }}/lorg" title="Lorg sna postaichean | Search the posts">Lorg</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" style="color: #ffffff" id="theme-toggle" onclick="modeSwitcher()" href="#"></a>
-      </li>
-    </ul>
+<div style="background-color: whitesmoke">
+  <div class="container">
+    <div class="nav-scroller py-1 mb-2">
+      <nav class="nav d-flex justify-content-between">
+        {% for entry in site.data.categories %}
+          <a class="p-2" href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a>
+        {% endfor %}
+        <a class="p-2" href="{{ site.baseurl }}/lorg"><i class="fas fa-search"></i></a>
+      </nav>
+    </div>
   </div>
-</nav>
+</div>
