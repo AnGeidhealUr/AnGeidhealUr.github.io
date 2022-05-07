@@ -16,7 +16,7 @@ author: Crìstean MacMhìcheil
 
 categories:
   - An Rìoghachd Aonaichte
-  - An Roinn Eòrpa
+  - An t-Saoghal
   - An t-Saoghal
   
 
