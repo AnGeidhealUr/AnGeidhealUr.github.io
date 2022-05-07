@@ -6,20 +6,18 @@ title: An Gèidheal Ùr
 <div class="container">
     <h3><a href="{{ site.baseurl }}/roinn-seorsa/alba">Alba &#10132;</a></h3>
     <div class="row">
-        {% for post in site.categories.Alba limit: 3 %}
+        {% for post in paginator.posts %}
             <div class="col-md-4">
                 <p><a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ post.image }}" class="index-image"></a></p>
-                <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
-            </div>
-        {% endfor %}
-    </div>
-    <div class="section-divider"></div>
-    <h3><a href="{{ site.baseurl }}/roinn-seorsa/gaidhlig">Gàidhlig &#10132;</a></h3>
-    <div class="row">
-        {% for post in site.categories.Gàidhlig limit: 3 %}
-            <div class="col-md-4">
-                <p><a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ post.image }}" class="index-image"></a></p>
-                <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
+                <h5 class="post-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h5>
+                <p>
+                    <i class="fas fa-clock"></i> {{ post.date | date: "%Y-%m-%d" }}
+                    <i class="fas fa-book-reader" style="margin-left: 15px"></i>
+                    <span class="reading-time" title="Estimated read time">
+                        {% assign words = include.content | strip_html | number_of_words %}
+                        {{ words | divided_by: 180 | plus: 1 }} mion.
+                    </span>
+                </p>
             </div>
         {% endfor %}
     </div>
