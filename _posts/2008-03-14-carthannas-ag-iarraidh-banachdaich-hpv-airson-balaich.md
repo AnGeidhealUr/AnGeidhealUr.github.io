@@ -18,7 +18,6 @@ comments: true
 
 categories:
   - An t-Saoghal
-  - Slàinte
 
 ---
 

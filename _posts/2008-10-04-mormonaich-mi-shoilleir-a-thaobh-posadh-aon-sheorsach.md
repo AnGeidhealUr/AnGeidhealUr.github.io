@@ -17,7 +17,7 @@ author: Crìstean MacMhìcheil
 categories:
   - An t-Saoghal
   - Creideamh
-  - Poileataigs
+  
 
 ---
 

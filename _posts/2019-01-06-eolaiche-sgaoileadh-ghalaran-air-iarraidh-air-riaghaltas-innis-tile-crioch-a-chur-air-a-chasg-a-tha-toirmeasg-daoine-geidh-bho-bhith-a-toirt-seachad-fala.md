@@ -19,7 +19,7 @@ comments: true
 categories:
   - An Roinn Eòrpa
   - An t-Saoghal
-  - Slàinte
+
 
 ---
 Tha Þórólfur Guðnason, aon dhe na prìomh Eòlaichean Sgaoileadh-ghalaran (_Epidemiologist_) ann an Innis Tìle, air iarraidh air an riaghaltas crìoch a chur air a&#8217; chasg iomlan a th&#8217; air fireannaich co-sheòrsach agus dà-sheòrsach bho bhith a&#8217; toirt seachad fala.

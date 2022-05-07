@@ -16,8 +16,8 @@ author: Crìstean MacMhìcheil
 
 categories:
   - An t-Saoghal
-  - Poileataigs
-  - Slàinte
+  
+
 
 ---
 

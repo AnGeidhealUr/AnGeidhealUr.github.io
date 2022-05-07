@@ -19,7 +19,7 @@ comments: true
 categories:
     - An t-Saoghal
     - Lagh
-    - Poileataigs
+    
 
 summary: Tha Pàrlamaid Shealainn Nuadh air gabhail ri lagh ùr a chuireas bacadh air teiripe iompachaidh.
 

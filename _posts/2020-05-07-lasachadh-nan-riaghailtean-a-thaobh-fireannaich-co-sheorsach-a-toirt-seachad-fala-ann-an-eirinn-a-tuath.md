@@ -18,8 +18,6 @@ comments: true
 
 categories:
 - An Rìoghachd Aonaichte
-- Poileataigs
-- Slàinte
 
 ---
 

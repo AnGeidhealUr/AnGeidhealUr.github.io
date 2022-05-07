@@ -18,7 +18,7 @@ comments: true
 
 categories:
     - Alba
-    - Poileataigs
+    
 
 twitter: https://www.twitter.com/AnGeidhealUr/status/1285608615836098563
 

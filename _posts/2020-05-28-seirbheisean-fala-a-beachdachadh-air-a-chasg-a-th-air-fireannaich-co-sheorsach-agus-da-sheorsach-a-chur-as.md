@@ -18,8 +18,8 @@ comments: true
 
 categories:
     - An Rìoghachd Aonaichte
-    - Poileataigs
-    - Slàinte
+    
+  
 
 twitter: https://www.twitter.com/AnGeidhealUr/status/1266065947665805313
 

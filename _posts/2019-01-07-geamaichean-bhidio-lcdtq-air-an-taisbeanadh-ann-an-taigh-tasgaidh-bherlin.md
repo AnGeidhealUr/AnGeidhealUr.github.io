@@ -19,7 +19,7 @@ comments: true
 categories:
   - An Roinn Eòrpa
   - Cultar
-  - Teicneòlas
+  
 
 ---
 

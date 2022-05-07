@@ -19,7 +19,7 @@ comments: true
 categories:
   - An t-Saoghal
   - Creideamh
-  - Poileataigs
+  
 ---
 
 Tha neach-poileataigs à Oklahoma, a tha ainmeil airson ag ràdh gu bheil daoine co-sheòrsach nan bagairtean nas motha ris na Stàitean Aonaichte na tha ceannaircich, air a bhith a’ coinneachadh le buidheann PFLAG (_Parents & Friends of Lesbians & Gays_).

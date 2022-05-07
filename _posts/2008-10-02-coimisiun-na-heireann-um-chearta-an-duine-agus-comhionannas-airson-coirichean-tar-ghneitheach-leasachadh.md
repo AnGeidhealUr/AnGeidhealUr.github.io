@@ -18,7 +18,7 @@ comments: true
 
 categories:
   - Èirinn
-  - Poileataigs
+  
 
 ---
 

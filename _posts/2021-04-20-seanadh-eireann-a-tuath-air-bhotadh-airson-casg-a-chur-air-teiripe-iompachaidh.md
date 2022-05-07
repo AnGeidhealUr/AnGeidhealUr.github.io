@@ -18,7 +18,7 @@ comments: true
 
 categories:
     - An Rìoghachd Aonaichte
-    - Poileataigs
+    
 
 twitter: https://www.twitter.com/AnGeidhealUr/status/1384601670357688323
 

@@ -20,7 +20,7 @@ categories:
   - Alba
   - An Rìoghachd Aonaichte
   - Creideamh
-  - Poileataigs
+  
 
 ---
 

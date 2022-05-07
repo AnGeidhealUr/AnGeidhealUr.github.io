@@ -19,7 +19,7 @@ comments: true
 categories:
   - Alba
   - Cultar
-  - Poileataigs
+  
 
 ---
 

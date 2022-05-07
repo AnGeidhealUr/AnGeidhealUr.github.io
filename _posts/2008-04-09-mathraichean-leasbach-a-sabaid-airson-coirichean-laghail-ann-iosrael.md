@@ -17,8 +17,8 @@ author: Crìstean MacMhìcheil
 comments: true
 
 categories:
-  - Poileataigs
-  - Slàinte
+  
+
 
 ---
 

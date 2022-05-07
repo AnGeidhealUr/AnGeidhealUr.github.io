@@ -18,7 +18,7 @@ comments: true
 
 categories:
   - An t-Saoghal
-  - Slàinte
+
 ---
 
 Chaidh aithisg fhoillseachadh leis an [Ionad airson Smachd a chumail air Tinneasan][1] (an CDC) a tha a&#8217; sealltainn gu bheil cùisean HIV air àrdachadh le 48% anns na Stàitean Aonaichte eadar 2005-2006.

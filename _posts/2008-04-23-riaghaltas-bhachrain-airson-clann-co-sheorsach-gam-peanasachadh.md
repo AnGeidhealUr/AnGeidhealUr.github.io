@@ -20,7 +20,7 @@ categories:
   - An t-Saoghal
   - Creideamh
   - Foghlam
-  - Poileataigs
+  
 
 ---
 

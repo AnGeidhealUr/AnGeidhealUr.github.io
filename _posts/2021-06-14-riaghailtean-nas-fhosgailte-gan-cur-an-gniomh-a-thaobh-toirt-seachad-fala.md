@@ -19,7 +19,7 @@ comments: true
 categories:
     - Alba
     - An Rìoghachd Aonaichte
-    - Slàinte
+  
 
 twitter: https://www.twitter.com/AnGeidhealUr/status/1404443926707200000
 

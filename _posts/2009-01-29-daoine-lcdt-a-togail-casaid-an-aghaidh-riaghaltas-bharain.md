@@ -18,8 +18,8 @@ comments: true
 
 categories:
   - An t-Saoghal
-  - Poileataigs
-  - Teicneòlas
+  
+  
 
 ---
 
