@@ -5,6 +5,7 @@
   </a>
   <div class="container">
     <nav class="nav justify-content-center">
+      <a class="nav-link" style="color: #ffffff" href="{{ site.baseurl }}"><i class="fas fa-home"></i></a>
       {% for entry in site.data.navbar %}
         <a class="nav-link" style="color: #ffffff" href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a>
       {% endfor %}
