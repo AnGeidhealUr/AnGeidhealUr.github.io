@@ -48,7 +48,7 @@ plugins:
 #   - vendor/ruby/
 
 # Sets the color of the header and page links
-featured-color: "#7e3c8d"
+featured-color: "#393a65"
 
 # Separator to mark end of post excerpt
 excerpt_separator: <!--more-->
