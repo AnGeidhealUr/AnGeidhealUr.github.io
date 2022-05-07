@@ -7,11 +7,11 @@ title: An Gèidheal Ùr
   <ul>
     {% for category in site.categories %}
       <li><a name="{{ category | first }}">{{ category | first }}</a>
-        <ul>
+        <div class="row">
         {% for post in category.last limit: 3 %}
-          <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+          <div class="col-md-4"><h4><a href="{{ post.url }}">{{ post.title }}</a></h4></div>
         {% endfor %}
-        </ul>
+        </div>
       </li>
     {% endfor %}
   </ul>
