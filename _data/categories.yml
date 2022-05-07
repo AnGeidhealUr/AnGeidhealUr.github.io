@@ -6,44 +6,28 @@
   url: /roinn-seorsa/alba
   description:
 
+- title: Gàidhlig
+  url: /roinn-seorsa/gaidhlig
+  description:
+
 - title: An Rìoghachd Aonaichte
   url: /roinn-seorsa/an-rioghachd-aonaichte
+  description:
+    
+- title: Éirinn
+  url: /roinn-seorsa/eirinn
   description:
 
 - title: An t-Saoghal
   url: /roinn-seorsa/an-t-saoghal
   description:
-
-- title: Poilitigs
-  url: /roinn-seorsa/poilitigs
+    
+- title: An t-Eadar-lìon
+  url: /roinn-seorsa/an-t-eadar-lion
   description:
-
-- title: Cultar
-  url: /roinn-seorsa/cultar
-  description:
-
-- title: Foghlam
-  url: /roinn-seorsa/foghlam
-  description:
-
-- title: Gàidhlig
-  url: /roinn-seorsa/gaidhlig
-  description:
-
-- title: Creideamh
-  url: /roinn-seorsa/creideamh
-  description:
-
-- title: Gnìomhachas
-  url: /roinn-seorsa/gniomhachas
-  description:
-
-- title: Teicneòlas
-  url: /roinn-seorsa/teicneolas
-  description:
-
-- title: Slàinte
-  url: /roinn-seorsa/slainte
+    
+- title: Dibhearsan
+  url: /roinn-seorsa/dibearsan
   description:
 
 - title: Criomagan
