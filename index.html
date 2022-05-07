@@ -4,45 +4,15 @@ title: An Gèidheal Ùr
 ---
 
 <div class="container">
-  <div class="row">
-    <div class="col-md-8">
-      <p><a href="{{ site.baseurl }}/faclair-nan-geidheal/"><img src="{{ site.baseurl }}/images/briathrachas-lcdt.png" class="index-image"></a></p>
-    </div>
-    <div class="col-md-4">
-      <h5 class="post-title"><a href="{{ site.baseurl }}/faclair-nan-geidheal/">Faclair nan Gèidheal</a></h5>
-      <p>‘S e seo liosta dhen briathrachas LGDTCEN+ a bhios mi a’ cleachdadh air an làrach-lìn seo.</p>
-    </div>
-  </div>
-  <div class="section-divider"></div>
-  <h3 style="padding: 25px 0px"><a href="{{ site.baseurl }}/roinn-seorsa/alba">Alba &#10132;</a></h3>
-  {% for post in site.categories.Alba limit: 3 %}
-  <div class="col-md-4">
-    <p><a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ post.image }}" class="index-image"></a></p>
-    <h5 class="post-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h5>
-    <p>
-      <i class="fas fa-clock"></i> {{ post.date | date: "%Y-%m-%d" }}
-      <i class="fas fa-book-reader" style="margin-left: 15px"></i> <span class="reading-time" title="Estimated read time">
-      {% assign words = include.content | strip_html | number_of_words %}
-      {{ words | divided_by: 180 | plus: 1 }} mion.
-      </span>
-    </p>
-  </div>
-  {% endfor %}
-  <div class="section-divider"></div>
-  <h3 style="padding: 25px 0px">Gàidhlig <a href="{{ site.baseurl }}/roinn-seorsa/gaidhlig">&#10132;</a></h3>
-  {% for post in site.categories.gaidhlig limit: 3 %}
-  <div class="col-md-4">
-    <p><a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ post.image }}" class="index-image"></a></p>
-    <h5 class="post-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h5>
-    <p>
-      <i class="fas fa-clock"></i> {{ post.date | date: "%Y-%m-%d" }}
-      <i class="fas fa-book-reader" style="margin-left: 15px"></i> <span class="reading-time" title="Estimated read time">
-      {% assign words = include.content | strip_html | number_of_words %}
-      {{ words | divided_by: 180 | plus: 1 }} mion.
-      </span>
-    </p>
-  </div>
-  {% endfor %}
-  <!--{% include pagination.html %}-->
-
+  <ul>
+    {% for category in site.categories %}
+      <li><a name="{{ category | first }}">{{ category | first }}</a>
+        <ul>
+        {% for post in category.last %}
+          <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+        </ul>
+      </li>
+    {% endfor %}
+  </ul>
 </div>
