@@ -6,7 +6,7 @@ permalink: /ceanglaichean/
 
 Gu h-ìosal tha liosta de cheanglaichean eile a dh'fhaodadh a bhith feumail no inntinneach dhuibh. Leigibh fios thugainn air [Twitter](https://www.twitter.com/AnGeidhealUr/) ma tha sibh airson gun cuir sinn ceangal ris an liosta.
 
-{% include links.html %}
+
 
 #### Blogaichean
 
