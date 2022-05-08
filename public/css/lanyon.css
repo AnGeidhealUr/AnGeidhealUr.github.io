@@ -435,6 +435,18 @@ a.pagination-item:hover {
  * Apply custom color schemes by adding the appropriate class to the `body`.
  * Based on colors from Base16: http://chriskempson.github.io/base16/#default.
  */
+ 
+ /* AGU */
+ .theme-base-28 .sidebar,
+ .theme-base-28 .sidebar-toggle:active,
+ .theme-base-28 #sidebar-checkbox:checked ~ .sidebar-toggle {
+   background-color: #393a65;
+ }
+ .theme-base-28 .container a,
+ .theme-base-28 .sidebar-toggle,
+ .theme-base-28 .related-posts li a:hover {
+   color: #393a65;
+ }
 
 /* Red */
 .theme-base-08 .sidebar,
