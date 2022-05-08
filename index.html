@@ -5,37 +5,41 @@ title: An Gèidheal Ùr
 
 <div class="container">
 
-  <div class="row">
-      <p><a href="{{ site.baseurl }}/faclair-nan-geidheal/"><img src="{{ site.baseurl }}/images/FnanG.jpg" class="index-image"></a></p>
-  </div>
+    <div class="row">
+        <p><a href="{{ site.baseurl }}/faclair-nan-geidheal/"><img src="{{ site.baseurl }}/images/FnanG.jpg" class="index-image"></a></p>
+    </div>
 
-  <h3 style="padding: 25px 0px">Postaichean as ùire</h3>
+    <h3 style="padding: 25px 0px">Postaichean as ùire</h3>
 
-  <div class="row">
-    {% for post in paginator.posts %}
-      <div class="col-md-6">
+    <div class="row">
+        {% for post in paginator.posts %}
+            <div class="col-md-6">
 
-        <div class="row">
-          <div class="col-md-6">
-            <p><a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ post.image }}" class="index-image"></a></p>
-          </div>
-        </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <p><a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ post.image }}" class="index-image"></a></p>
+                    </div>
+                </div>
 
-        <div class="row">
-          <div class="col-md-6">
-            <h5 class="post-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h5>
-            <p>
-              <i class="fas fa-clock"></i> {{ post.date | date: "%Y-%m-%d" }}
-              <i class="fas fa-book-reader" style="margin-left: 15px"></i> <span class="reading-time" title="Estimated read time">
-              {% assign words = include.content | strip_html | number_of_words %}
-              {{ words | divided_by: 180 | plus: 1 }} mion.
-              </span>
-            </p>
-          </div>
-        </div>
-      </div>
-    {% endfor %}
-  </div>
-  <div class="section-divider"></div>
-  {% include pagination.html %}
+                <div class="row">
+                    <div class="col-md-6">
+                        <h5 class="post-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h5>
+                    </div>
+                    <div class="col-md-6">
+                        <p>
+                            <i class="fas fa-clock"></i> {{ post.date | date: "%Y-%m-%d" }}
+                            <i class="fas fa-book-reader" style="margin-left: 15px"></i>
+                            <span class="reading-time" title="Estimated read time">
+                            {% assign words = include.content | strip_html | number_of_words %}
+                            {{ words | divided_by: 180 | plus: 1 }} mion.
+                            </span>
+                        </p>
+                    </div>
+                </div>
+
+            </div>
+        {% endfor %}
+    </div>
+    <div class="section-divider"></div>
+    {% include pagination.html %}
 </div>
