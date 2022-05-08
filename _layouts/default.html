@@ -1,29 +1,31 @@
----
+<!DOCTYPE html>
+<html lang="en-us">
 
----
-<!doctype html>
-  <html lang="gd-GB">
-    <head>
-      <!-- Inserts Header (_includes/header.html) here -->
-      {% include header.html %}
+  {% include head.html %}
 
-    </head>
-
-    <!-- Inserts Navbar (_includes/navbar.html) here -->
-    {% include navbar.html %}
-    <a id="top"></a>
   <body>
 
-    <!-- Page Content -->
-    <div class="page-content">
-          {{ content }}
+    {% include sidebar.html %}
+
+    <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
+         content to avoid any CSS collisions with our real content. -->
+    <div class="wrap">
+      <div class="masthead">
+        <div class="container">
+          <h3 class="masthead-title">
+            <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
+            <small>{{ site.tagline }}</small>
+          </h3>
+        </div>
+      </div>
+
+      <div class="container content">
+        {{ content }}
+      </div>
     </div>
 
-    <!-- Insert Footer (_includes/footer.html) here -->
-    {% include footer.html %}
+    <label for="sidebar-checkbox" class="sidebar-toggle"></label>
 
-    <!-- Insert Dark Mode, Theme Preference & Bootstrap javascript (_includes/javascript.html) here -->
-    {% include javascript.html %}
-
+    <script src='{{ site.baseurl }}/public/js/script.js'></script>
   </body>
 </html>

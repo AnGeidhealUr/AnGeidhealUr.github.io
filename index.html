@@ -1,31 +1,37 @@
 ---
 layout: default
-title: An Gèidheal Ùr
+title: Home
 ---
 
-<div class="container">
-    <div class="row">
-        {% for post in paginator.posts %}
-            <div class="col-md-6">
-                <div class="row">
-                    <div class="col-md-6">
-                      <p><a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ post.image }}" class="index-image"></a></p>
-                    </div>
-                    <div class="col-md-6">
-                    <h5 class="post-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h5>
-                        <p>
-                            <i class="fas fa-clock"></i> {{ post.date | date: "%Y-%m-%d" }}
-                            <i class="fas fa-book-reader" style="margin-left: 15px"></i>
-                            <span class="reading-time" title="Estimated read time">
-                                {% assign words = include.content | strip_html | number_of_words %}
-                                {{ words | divided_by: 180 | plus: 1 }} mion.
-                            </span>
-                        </p>
-                    </div>
-                </div>
-            </div>
-        {% endfor %}
-    </div>
-    <div class="section-divider"></div>
-    {% include pagination.html %}
+<div class="posts">
+  {% for post in paginator.posts %}
+  <div class="post">
+    <h1 class="post-title">
+      <a href="{{ post.url | absolute_url }}">
+        {{ post.title }}
+      </a>
+    </h1>
+
+    <span class="post-date">{{ post.date | date_to_string }}</span>
+
+    {{ post.content }}
+  </div>
+  {% endfor %}
+</div>
+
+<div class="pagination">
+  {% if paginator.next_page %}
+    <a class="pagination-item older" href="{{ paginator.next_page_path | absolute_url }}">Older</a>
+  {% else %}
+    <span class="pagination-item older">Older</span>
+  {% endif %}
+  {% if paginator.previous_page %}
+    {% if paginator.page == 2 %}
+      <a class="pagination-item newer" href="{{ '/' | absolute_url }}">Newer</a>
+    {% else %}
+      <a class="pagination-item newer" href="{{ paginator.previous_page_path | absolute_url }}">Newer</a>
+    {% endif %}
+  {% else %}
+    <span class="pagination-item newer">Newer</span>
+  {% endif %}
 </div>
