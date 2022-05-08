@@ -21,6 +21,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/)
+
 Chaidh sgrùdadh ùr fhoillseachadh le _Stonewall_ a tha a&#8217; sealltainn gu bheil an coimhearsnachd LCDTE an còmhnaidh an dùil ri leth-bhreith anns a h-uile àite.
 
 <!--more-->

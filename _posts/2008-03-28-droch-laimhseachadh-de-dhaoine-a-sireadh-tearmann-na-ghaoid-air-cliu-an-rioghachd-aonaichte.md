@@ -23,6 +23,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/)
+
 Tha coimisean a chaidh a stèidheachadh gus poileasaidhean tèarmann anns an Rìoghachd Aonaichte sgrùdadh ag ràdh nach eil na poileasaidhean cho àrd ’s a bu chòir dhaibh a bhith airson dùthaich “sìobhaltach”.
 
 <!--more-->

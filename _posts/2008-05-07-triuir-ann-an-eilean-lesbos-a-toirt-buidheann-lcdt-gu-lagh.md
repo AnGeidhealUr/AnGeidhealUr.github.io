@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/)
+
 Tha triùir ann an Eilean Lesbos, a&#8217; Ghrèig, a&#8217; toirt buidheann LCDT gu lagh air sgàth &#8217;s gu bheil iad a&#8217; cleachdadh am facal &#8220;leasbach&#8221; anns an ainm aca.
 
 <!--more-->

@@ -23,6 +23,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/)
+
 Tha gnìomhaichean Nicolas Alexeyev agus Anna Komarova ann an Tambov, an Ruis, an dùil tagradh a chur a-steach gus caismeachd pròise a chumail sa bhaile.
 
 <!--more-->

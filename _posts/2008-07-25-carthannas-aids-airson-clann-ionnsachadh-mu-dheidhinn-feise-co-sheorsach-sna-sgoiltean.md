@@ -23,6 +23,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/)
+
 Tha an àireamh de bhalaich HIV+ air dùblachadh san 10 bliadhna mu dheireadh a-rèir figearan air fhoillseachadh le [Buidheann Dìon na Slàinte][1].
 
 <!--more-->

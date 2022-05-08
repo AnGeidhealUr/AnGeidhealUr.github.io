@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/)
+
 Cha tèid caismeachd-pròise Bhirmingham air adhart am-bliadhna air sgàth &#8217;s trioblaidean ionmhais.
 
 <!--more-->

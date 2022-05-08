@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/)
+
 Tha Riaghaltas na h-Astràilia air còrr &#8217;s 100 ath-leasachaidhean a dhèanamh gus còirichean co-ionann a thoirt do dhaoine LCDT.
 
 <!--more-->

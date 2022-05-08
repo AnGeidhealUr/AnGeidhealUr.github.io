@@ -28,6 +28,8 @@ twitter:
 
 ---
 
+![]({{ site.baseurl }}/images/2022-01-15-parlamaid-na-polainne-air-gabhail-ri-lagh-a-chuireas-casg-air-cuspairean-lgdtcen-ann-an-sgoiltean.jpg)
+
 Tha Pàrlamaid na Pòlainne air gabhail ri lagh a thathar an dùil ri casg a chur air teagaisg chuspairean LGDTCEN+ ann an sgoiltean.
 
 <!--more-->

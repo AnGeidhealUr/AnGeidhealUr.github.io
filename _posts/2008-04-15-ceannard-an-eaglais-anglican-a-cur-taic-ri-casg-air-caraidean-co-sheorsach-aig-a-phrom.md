@@ -23,6 +23,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/)
+
 Tha ceannard an Eaglais Anglach ann an Astràilia air taic a thoirt ri casg air càraidean co-sheòrsach aig a&#8217; Phrom.
 
 <!--more-->

@@ -21,6 +21,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/)
+
 Chaidh riaghailtean ùra fhoillseachadh le Seirbheis Casaid a’ Chrùin an-diugh airson stiùireadh a thoirt do luchd-casaid a’ dèiligeadh ri cùisean-lagha far a bheil daoine air HIV a sgaoileadh a dh’aona-ghnothach.
 
 <!--more-->

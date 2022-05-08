@@ -21,6 +21,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/)
+
 Tha Michael Stipe, seinneadair anns a’ chòmhlan-ciùil R.E.M. air ràdh gu bheil e co-sheòrsach.
 
 <!--more-->

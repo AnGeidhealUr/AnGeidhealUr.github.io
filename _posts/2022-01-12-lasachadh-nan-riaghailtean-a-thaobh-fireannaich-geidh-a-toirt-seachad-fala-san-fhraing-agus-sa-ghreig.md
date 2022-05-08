@@ -27,6 +27,8 @@ twitter:
 
 ---
 
+![]({{ site.baseurl }}/images/2022-01-12-lasachadh-nan-riaghailtean-a-thaobh-fireannaich-geidh-a-toirt-seachad-fala-san-fhraing-agus-sa-ghreig.jpg)
+
 Tha Riaghaltasan na Frainge agus na Grèige air casgan a bh’ air fireannaich gèidh is dà-sheòrsach bho bhith a’ toirt seachad fala a thogail.
 
 <!--more-->

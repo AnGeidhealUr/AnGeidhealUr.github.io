@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/)
+
 Tha fianais ùr air nochdadh gun do rinn boireannach tar-ghnèitheach gearan mus do chur à dhì fèin gun robh prìosanaich eile ga burraidheachd air sgàth &#8217;s an gnè aice.
 
 <!--more-->

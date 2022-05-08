@@ -23,6 +23,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/)
+
 Tha Easbaig Caitligeach a’ tagradh gu bheil daoine co-sheòrsach a’ dèanamh co-fheall an aghaidh dualchas Crìosdaidheachd.
 
 <!--more-->

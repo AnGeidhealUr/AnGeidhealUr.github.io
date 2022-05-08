@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/)
+
 A bharrachd air taghadh Ceann-suidhe nan Stàitean Aonaichte, bidh muinntir Chalifornia a&#8217; bhòtadh an-diugh air Proposition 8 an-diugh a tha a&#8217; feuchainn ri casg a chur air pòsadh aon-sheòrsach le bhith ag atharrachadh bun-reachd Chalifornia le earrann ùr ag ràdh gur ann eadar fear agus boireannach a-mhàin a th&#8217; ann am pòsadh.
 
 <!--more-->

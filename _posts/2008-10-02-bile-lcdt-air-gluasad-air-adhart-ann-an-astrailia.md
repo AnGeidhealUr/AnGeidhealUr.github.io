@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/)
+
 Chaidh bile ùr a bhios a&#8217; toirt co-ionannachd do dhaoine LCDT ann an Astràilia aontachadh leis a&#8217; Phàrlamaid.
 
 <!--more-->

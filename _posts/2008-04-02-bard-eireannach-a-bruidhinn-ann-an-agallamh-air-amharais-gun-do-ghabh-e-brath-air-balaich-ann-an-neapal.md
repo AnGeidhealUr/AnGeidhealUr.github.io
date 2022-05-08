@@ -23,6 +23,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/)
+
 Tha bàrd Èireannach, a tha fo amharas gun do ghabh e brath air balaich ann an Neapàl, air agallamh a dhèanamh air _Raidio na Gaeltachta_.
 
 <!--more-->

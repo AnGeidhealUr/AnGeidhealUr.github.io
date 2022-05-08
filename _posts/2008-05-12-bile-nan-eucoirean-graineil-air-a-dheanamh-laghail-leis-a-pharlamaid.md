@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/)
+
 Tha Taigh nam Morairean air _the Criminal Justice and Immigration Bill_ a dhèanamh na lagh a&#8217; ciallachadh gum bi eucoirean gràineil an-aghaidh daoine LCDT mì-laghail.
 
 <!--more-->

@@ -23,6 +23,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/)
+
 Chaidh ceannard LCDT a mhurt ann am Baghdad, Ioràc an-dè.
 
 <!--more-->

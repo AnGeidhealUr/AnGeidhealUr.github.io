@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/)
+
 Tha [Associated Press][1] ag ràdh gu bheil luchd-bhòtaidh ann an Arizona air bhòtadh airson casg a chur air pòsadh aon-sheòrsach.
 
 <!--more-->

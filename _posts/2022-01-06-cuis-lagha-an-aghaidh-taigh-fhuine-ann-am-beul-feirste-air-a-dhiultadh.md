@@ -25,6 +25,8 @@ twitter:
 
 ---
 
+![]({{ site.baseurl }}/images/2022-01-06-cuis-lagha-an-aghaidh-taigh-fhuine-ann-am-beul-feirste-air-a-dhiultadh.jpg)
+
 Tha Cùirt Eòrpach nan Còraichean Daonna air cùis-lagha an-aghaidh taigh-fhuine ann am Beul Feirste a dhiùltadh.
 
 <!--more-->

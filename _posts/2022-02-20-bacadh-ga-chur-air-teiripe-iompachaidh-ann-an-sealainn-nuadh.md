@@ -29,6 +29,8 @@ twitter: https://twitter.com/angeidhealur/status/1495416896820334605
 
 ---
 
+![]({{ site.baseurl }}/images/2022-02-20-bacadh-ga-chur-air-teiripe-iompachaidh-ann-an-sealainn-nuadh.jpg)
+
 Tha Pàrlamaid Shealainn Nuadh air gabhail ri lagh ùr a chuireas bacadh air teiripe iompachaidh.
 
 <!--more-->

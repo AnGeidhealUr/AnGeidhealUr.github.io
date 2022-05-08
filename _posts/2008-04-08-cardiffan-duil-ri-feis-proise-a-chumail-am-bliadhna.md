@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/)
+
 Thèid coinneamh a chumail an seachdain seo gus deasbad a dhèanamh air fèis-pròise a chumail ann an Cardiff.
 
 <!--more-->

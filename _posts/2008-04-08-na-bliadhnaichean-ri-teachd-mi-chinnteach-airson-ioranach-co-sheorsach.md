@@ -24,6 +24,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/)
+
 Tha Medhi Kazemi air tilleadh ris an Rìoghachd Aonaichte.
 
 <!--more-->

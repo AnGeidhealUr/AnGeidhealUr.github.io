@@ -23,6 +23,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/)
+
 Tha Riochdaire Sally Kern air tionndadh an aghaidh PFLAG an dèidh coinneamh dòchasach còmhla riutha seachdain seo chaidh.
 
 <!--more-->

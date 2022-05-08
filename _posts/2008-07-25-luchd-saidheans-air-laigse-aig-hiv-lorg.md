@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/)
+
 Tha luchd-rannsachaidh ag obair aig Sgoil Slàinte Oilthigh Texas ag ràdh gu bheil iad air laigse aig HIV (Bhioras Dìon-slàinte Daonna) a lorg.
 
 <!--more-->

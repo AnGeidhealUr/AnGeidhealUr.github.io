@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/)
+
 Chaidh dùilean a briseadh ann an Èirinn as dèidh dhan Riaghaltas a dhearbhadh nach tèid còirichean co-ionann a thoirt ri pàrantan LCDT mar phàirt de lagh ùr a bhios ag aithneachadh companasan-catharra.
 
 <!--more-->

@@ -23,6 +23,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/)
+
 Tha clèir Èireannach air am bhidio-ciùil ùr aig Boyzone a chàineadh agus e ag ràdh gu bheil iad a&#8217; sgaoileadh teachdaireachd marbhtach.
 
 <!--more-->

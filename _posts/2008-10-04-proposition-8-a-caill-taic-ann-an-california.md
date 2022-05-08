@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/)
+
 Tha cunntas-bheachd ùr a&#8217; sealltainn gu bheil Proposition 8 a&#8217; caill taic ann an California.
 
 <!--more-->

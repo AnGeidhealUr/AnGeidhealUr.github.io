@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/)
+
 Air sgàth &#8217;s gearanan bhon a&#8217; Ghearmailt agus eile tha an t-Aonadh Eòrpach air òrdugh a bhiodh a&#8217; dìon daoine LCDT bho leth-bhreith a thrèigsinn.
 
 <!--more-->

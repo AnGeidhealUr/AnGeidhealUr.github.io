@@ -26,6 +26,8 @@ twitter: https://twitter.com/AnGeidhealUr/status/1495881257561083904
 
 ---
 
+![]({{ site.baseurl }}/images/2022-02-21-cead-ga-thoirt-do-gach-neach-an-gnè-fhèin-a-thaghadh-ann-an-cunntas-sluaigh-na-h-alba.jpg)
+
 Tha britheamh air riaghladh gum faod gach neach an gnè fhèin a thaghadh ann an cunntas-sluaigh na h-Alba gun feum air teisteanas aithneachadh gnè.
 
 <!--more-->

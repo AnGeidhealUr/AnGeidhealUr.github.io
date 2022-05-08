@@ -23,6 +23,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/)
+
 Tha gnìomhaichean LCDTE anns a’ Ghrèig a’ dèanamh subhachas an dèidh dhan Riaghaltas tèarmann a thoirt ri Iorànach co-sheòrsach a bha gu bhith a’ fuadach a-mach.
 
 <!--more-->

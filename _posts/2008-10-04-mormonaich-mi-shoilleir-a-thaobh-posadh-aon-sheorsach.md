@@ -21,6 +21,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/)
+
 Tha an Eaglais Mhormonach air bileag fhoillseachadh mu phòsadh aon-sheòrsach.
 
 <!--more-->

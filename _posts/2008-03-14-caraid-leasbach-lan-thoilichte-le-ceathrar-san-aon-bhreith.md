@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/)
+
 Tha càraid leasbach a tha ag obair airson Roinn Poileas Irvine ann an Siorrachd Orains, California làn-thoilichte le ceathrar san aon bhreith, dithis bhalach agus dithis nighean.
 
 <!--more-->

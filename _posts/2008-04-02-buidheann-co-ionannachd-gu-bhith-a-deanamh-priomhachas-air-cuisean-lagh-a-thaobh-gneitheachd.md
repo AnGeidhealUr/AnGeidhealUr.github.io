@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/)
+
 Chaidh sgeama stèidheachadh le Coimisean nan Còirichean Daonna agus Co-ionannachd (EHRC) a bhios a’ dèanamh prìomhachas air cùisean-lagha a-thaobh gnèitheachd.
 
 <!--more-->

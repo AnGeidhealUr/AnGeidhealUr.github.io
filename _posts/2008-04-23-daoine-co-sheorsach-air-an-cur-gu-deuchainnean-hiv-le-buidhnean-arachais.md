@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/)
+
 Chaidh sgrùdadh a dhèanamh le [Compass IFA][1], buidheann a tha a&#8217; toirt comhairle do dhaoine co-sheòrsach a thaobh ionmhais, a tha a&#8217; sealltainn gu bheil na buidhnean àrachais [Legal & General][2] agus [AEGON][3] fhathast a&#8217; cur daoine co-sheòrsach gu deuchainnean HIV mus faigh iad àrachas slàinte.
 
 <!--more-->

@@ -24,6 +24,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/)
+
 Bidh an iomairt [NUS LGBT][1] agus _Gay Rights Uganda_ a&#8217; togail fianais an-aghaidh Riaghaltas Uganda nach eil a&#8217; cur stad air geur-leanmhainn agus cràdh an daoine LCDT san dùthaich.
 
 <!--more-->

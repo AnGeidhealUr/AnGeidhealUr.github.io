@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/)
+
 Chaidh lìon-sòisealta ùr do phàrantan LCDT a chruthachadh le càraid co-sheòrsach gus taic a thoirt ri càraidean LCDT eile a tha airson leanabh uchd-mhacachadh.
 
 <!--more-->

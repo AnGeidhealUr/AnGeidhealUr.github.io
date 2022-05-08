@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/)
+
 Tha Edwina Hart, Ministear Slàinte na Cuimrigh air stiùireadh ùr a thoirt ris an NHS anns an dùthaich.
 
 <!--more-->

@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/)
+
 Tha cùirt air Riaghaltas na h-Eadailt òrdachadh gus €100,000 (£80,000) a thoirt gu daoine co-sheòrsach a chiall an cead-dràibhidh aige o chionn &#8217;s an gnèitheachd aige.
 
 <!--more-->

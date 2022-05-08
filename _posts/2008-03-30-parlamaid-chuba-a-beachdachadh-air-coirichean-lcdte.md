@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/)
+
 Tha luchd-lagha anns a’ Chùba a’ beachdachadh air laghan ùra a dhèanamh gus còirichean co-ionann a thoirt ris a’ choimhearsnachd LCDTE.
 
 <!--more-->

@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/)
+
 Tha Poileas ann an Istanbul, An Tuirc, air ionnsaigh a thoirt air buidheann LCDT agus tha iad air ràdh gun robh adhbhar aca air sgàth &#8217;s cho tric &#8217;s a bhios daoine tar-ghnèitheach a&#8217; tadhal air na h-oifisean aca.
 
 <!--more-->

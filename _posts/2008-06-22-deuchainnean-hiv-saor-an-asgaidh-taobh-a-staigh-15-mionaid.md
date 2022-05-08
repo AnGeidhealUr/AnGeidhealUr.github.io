@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/)
+
 Tha clionaig ann am meadhan a&#8217; choimhearsnachd LCDT ann an Lunnainn a&#8217; toirt seachad deuchainnean airson HIV do dhaoine co-sheòrsach saor an-asgaidh agus tha toraidhean ri fhaotainn taobh a-staigh 15 mionaid.
 
 <!--more-->

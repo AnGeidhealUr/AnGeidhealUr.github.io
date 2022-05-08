@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/)
+
 Chaidh deasbad a chumail ann an Taigh nam Morairean seachdain seo chaidh mu dheidhinn lagh ùr a bhios a’ ciallachadh gum bi gràin-co-sheòrsachd (_Homophobia_) mì-laghail.
 
 <!--more-->

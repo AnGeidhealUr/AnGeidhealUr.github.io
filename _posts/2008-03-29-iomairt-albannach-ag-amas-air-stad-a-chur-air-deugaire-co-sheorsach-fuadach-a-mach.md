@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/)
+
 Chaidh iomairt a stèidheachadh gus deugaire co-sheòrsach, a tha gu bhith a’ fuadach a-mach às an Rìoghachd Aonaichte, a shàbhaladh.
 
 <!--more-->

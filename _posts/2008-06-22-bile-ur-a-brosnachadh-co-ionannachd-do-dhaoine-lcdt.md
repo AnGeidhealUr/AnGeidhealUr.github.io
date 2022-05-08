@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/)
+
 Thèid bile ùr a bhios a&#8217; brosnachadh co-ionannachd do dhaoine LCDT ainmeachadh gu h-oifigeil leis a&#8217; Bhanrigh anns an òraid aice san t-Samhain.
 
 <!--more-->

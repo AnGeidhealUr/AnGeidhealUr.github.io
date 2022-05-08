@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/)
+
 Chaochail Del Martin, gnìomhaiche leasbach air leth cudromach, aois 87, ann an San Francisco aig dheireadh an Lùnastal.
 
 <!--more-->

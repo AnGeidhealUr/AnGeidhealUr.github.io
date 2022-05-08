@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/)
+
 Tha ball pàrlamaid ann an Canada air leisgeul a dhèanamh as dèidh bhidio fhoillseachadh anns a thuirt e gun robh daoine co-sheòrsach &#8220;galarach&#8221;.
 
 <!--more-->
