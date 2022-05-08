@@ -1,0 +1,28 @@
+<div style="background-color: {{ site.featured-color }}!important; padding-top: 25px; padding-bottom: 10px;">
+  <a class="nav-link" href="{{ site.baseurl }}/">
+    <img src="{{ site.baseurl }}/images/header.png" style="display: block; margin: auto; max-width: 100%"; />
+    <p style="margin-top: 10px; text-align: center; color: #ffffff">{{ site.description }}</p>
+  </a>
+  <div class="container">
+    <nav class="nav justify-content-center">
+      <a class="nav-link" style="color: #ffffff" href="{{ site.baseurl }}/"><i class="fas fa-home"></i></a>
+      {% for entry in site.data.navbar %}
+        <a class="nav-link" style="color: #ffffff" href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a>
+      {% endfor %}
+      <a class="nav-link" style="color: #ffffff" id="theme-toggle" onclick="modeSwitcher()" href="#"></a>
+    </nav>
+  </div>
+</div>
+
+<div style="background-color: whitesmoke">
+  <div class="container">
+    <div class="nav-scroller py-1 mb-2">
+      <nav class="nav d-flex justify-content-between">
+        {% for entry in site.data.categories %}
+          <a class="p-2" href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a>
+        {% endfor %}
+        <a class="p-2" href="{{ site.baseurl }}/lorg"><i class="fas fa-search"></i></a>
+      </nav>
+    </div>
+  </div>
+</div>
