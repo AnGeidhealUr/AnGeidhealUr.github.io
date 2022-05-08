@@ -9,7 +9,7 @@ category: Criomagan
 
 Geàrr-chunntas sgrìobhte air cinn-naidheachd na seachdain.
 
-#### Safe to Be Me
+## Safe to Be Me
 
 Chuir Riaghaltas na Rìoghachd Aonaichte dheth a’ cho‑labhairt LGDT+ aca as dèidh do chòrr is 100 buidheann ainmeachadh nach biodh iad an làthair air sàilleibh co‑dhùnadh na Riaghaltas gus pearsachan tar‑ghnèitheach fhàgail a‑mach à phlanaichean gus casg a chur air teiripe iompachaidh.
 
@@ -21,7 +21,7 @@ __Barrachd fhiosrachaidh__
 
 * Openly: [UK cancels global LGBT+ conference over trans conversion therapy dispute](https://www.openlynews.com/i/?id=2c223120-a2b9-4c8a-9c52-5c086c7dfa58)
 
-#### Spòrs nam Ban
+## Spòrs nam Ban
 
 Thuirt am Prìomhaire, Boris Johnson, nach bu chòir do thar‑bhoireannaich fharpais ann an spòrs nam ban.
 
@@ -33,7 +33,7 @@ __Barrachd fhiosrachaidh__
 
 * Openly: [Transgender women should not compete in female events – British PM](https://www.openlynews.com/i/?id=13ac469c-cffc-4270-abaa-72cbae2ad7b6)
 
-#### Rothaireachd Bhreatainn
+## Rothaireachd Bhreatainn
 
 Tha Rothaireachd Bhreatainn, buidheann‑riaghlaidh rothaireachd Bhreatainn, air casg a chur air pearsachan tar‑ghnèitheach is neo‑bhìnearaidh bho fharpaisean gus an dèanar ath‑sgrùdadh air na poileasaidhean aca.
 
@@ -43,7 +43,7 @@ __Barrachd fhiosrachaidh__
 
 * Attitude: [British Cycling stops trans and non-binary athletes from competing pending a review](https://attitude.co.uk/article/british-cycling-stops-trans-and-non-binary-athletes-from-competing-pending-a-review/26916/)
 
-#### San Marino
+## San Marino
 
 Ann an San Marino, chaidh Paolo Rondelli a thaghadh mar a’ chiad cheann-stàite LGDT+ san t‑saoghal.
 
