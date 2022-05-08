@@ -2,7 +2,7 @@
 title:               An Gèidheal ùr
 tagline:             'A' toirt thugaibh nan naidheachdan LGDTCEN+ as ùire'
 description:         ''
-url:                 http://angeidhealur.scot
+url:                 https://angeidhealur.github.io
 baseurl:             ''
 paginate:            5
 permalink:           pretty
