@@ -1,9 +1,0 @@
-{
-  "name": "Geidh.uk",
-  "short_name": "Geidh.uk",
-  "theme_color": "#393a65",
-  "background_color": "#ffffff",
-  "display": "minimal-ui",
-  "scope": "/",
-  "start_url": "/"
-}
