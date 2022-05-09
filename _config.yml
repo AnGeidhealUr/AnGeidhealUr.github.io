@@ -1,5 +1,5 @@
-title:               Celeste
-url:                 https://nicoelayda.github.io
+title:               An Gèidheal Ùr
+url:                 
 baseurl:             ""
 
 markdown:            kramdown
@@ -19,9 +19,9 @@ sass:
   style:             :compressed
 
 author:
-  name:              Nico Elayda
-  url:               nicoelayda.github.io
-  email:             nico@elayda.com
+  name:              Crìstean MacMhìcheil
+  url:               https://macmhicheil.scot/
+  email:             chris@macmhicheil.scot
 
 plugins:
   - jekyll-coffeescript
