@@ -1,37 +1,21 @@
 <!DOCTYPE html>
-<html lang="en">
 
-  {% include head.html %}
+<html>
 
-  <body>
-    <nav class="nav-main">
-      <ul>
-        <li class="hvr-underline-reveal"><a href="{{ site.baseurl }}/">blog</a></li>
-        <li class="hvr-underline-reveal"><a href="{{ site.baseurl }}/faclair-nan-geidheal">faclair nan gèidheal</a></li>
-        <li class="hvr-underline-reveal"><a href="{{ site.baseurl }}/dualchas/">dualchas</a></li>
-        <li class="logo"><a class="hvr-ripple-out" href="{{ site.baseurl }}/mu-ar-deidhinn"><i class="fa fa-home" aria-hidden="true"></i></a></li>
-        <li class="hvr-underline-reveal"><a href="{{ site.baseurl }}/tachartasan/">tachartasan</a></li>
-        <li class="hvr-underline-reveal"><a href="{{ site.baseurl }}/comhairle/">comhairle</a></li>
-        <li class="hvr-underline-reveal"><a href="{{ site.baseurl }}/cuir-fios/">cuir fios</a></li>
-      </ul>
-    </nav>
+{% include head.html %}
 
-    <div class="container content">
-      <main>
-        {{ content }}
-      </main>
+<body>
 
-      <footer class="footer">
-        <small>
-            <span class="copyright"><i class="fa fa-copyright"></i> <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time> {{ site.author.name }}</span> &middot;
-            <span>Le cumhachd <a href="http://jekyllrb.com/">Jekyll</a></span>
-        </small>
-        <div class="ftr-links">
-          <a href="https://instagram.com/angeidhealur"><i class="fa fa-instagram"></i></a>
-          <a href="https://twitter.com/angeidhealur"><i class="fa fa-twitter"></i></a>
-        </div>
-      </footer>
-    </div>
+  {% include navbar.html %}
 
-  </body>
+  {{ content }}
+
+  {% include footer.html %}
+
+  {% include scripts.html %}
+
+  {% include google-analytics.html %}
+
+</body>
+
 </html>
