@@ -3,6 +3,7 @@ layout: post
 title: Criomagan Naidheachd na Seachdain
 date: 2022-04-22
 category: Criomagan
+image: /images/criomagan.webp
 ---
 
 ![Criomagan Naidheachd na Seachdain]({{ site.baseurl }}/images/criomagan.webp)
