@@ -28,7 +28,7 @@ copyright:
 
 # Build settings
 markdown: kramdown
-permalink: /:year/:month/:day/:title/
+permalink: /:year-:month-:day-:title/
 paginate: 6
 paginate_path: /duilleag-:num/
 
