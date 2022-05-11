@@ -28,9 +28,9 @@ copyright:
 
 # Build settings
 markdown: kramdown
-permalink: /:title/
+permalink: /:year/:month/:day/:title/
 paginate: 6
-paginate_path: /page:num/
+paginate_path: /duilleag-:num/
 
 # Tracker
 analytics: 
@@ -61,3 +61,8 @@ plugins:
   - jekyll-paginate
   - jekyll-seo-tag
 
+collections:
+  events:
+    output: true
+    permalink: /tachartasan/:path/
+    title: Tachartasan
