@@ -35,7 +35,6 @@ img {
   padding: 20px 0;
 }
 .navbar-brand {
-  color: #ffffff;
   font-weight: 900;
   font-size: 1.85em;
   padding: 10px;
@@ -43,6 +42,9 @@ img {
   @media screen and (max-width: $on-palm) {
     font-size: 1.5em;
   }
+}
+.navbar-light .navbar-brand{
+  color: #ffffff;
 }
 .post-meta {
   color: $grey-color;
