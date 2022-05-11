@@ -9,7 +9,7 @@
 title: An Gèidheal Ùr
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Webjeda Cards is a Bootstrap based jekyll theme for portfolio, photography or any kind of blog.
+  A' toirt thugaibh na naidheachdan LGDTCEN+ as ùire
   
   
 #baseurl: "/cards" # the subpath of your site, e.g. /blog
@@ -23,8 +23,8 @@ default-image: webjeda-logo-big.jpg # If there is no featured image in a post th
 built-by: webjeda
 
 copyright:
-   name: webjeda
-   link: 'http://blog.webjeda.com'
+   name: An Gèidheal Ùr
+   link: 'https://angeidhealur.scot/'
 
 # Build settings
 markdown: kramdown
@@ -41,9 +41,9 @@ disqus-shortname: webjeda-demo
 
 #social
 facebook: 
-quora: 
-twitter: http://twitter.com/angeidhealur
-github: 
+instagram: https://www.instagram.com/angeidhealur
+twitter: https://www.twitter.com/angeidhealur
+github: https://github.com/MacMhicheil
 email: chris@macmhicheil.scot
 
 #facebook like box
