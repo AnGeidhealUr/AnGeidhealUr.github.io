@@ -31,15 +31,15 @@ layout: default
         <ul class="pagination">
           {% if paginator.previous_page %}
             <li class="page-item active">
-              <a class="page-link" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Nas sìne</a>
+              <a class="page-link" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Nas ùire</a>
             </li>
           {% else %}
             <li class="page-item disabled">
-              <span class="page-link">Nas sìne</span>
+              <span class="page-link">Nas ùire</span>
             </li>
           {% endif %}
 
-          {% for page in (1..paginator.total_pages) %}
+          <!--{% for page in (1..paginator.total_pages) %}
             {% if page == paginator.page %}
               <li class="page-item active">
                 <span class="page-link">{{ page }}</span>
@@ -52,15 +52,15 @@ layout: default
               <li class="page-item">
                 <a class="page-link" href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></li>
             {% endif %}
-          {% endfor %}
+          {% endfor %}-->
 
           {% if paginator.next_page %}
             <li class="page-item active">
-              <a class="page-link" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Nas ùire &raquo;</a>
+              <a class="page-link" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Nas sìne &raquo;</a>
             </li>
           {% else %}
             <li class="page-item">
-              <span class="page-link">Nas ùire</span>
+              <span class="page-link">Nas sìne</span>
             </li>
           {% endif %}
           </ul>
