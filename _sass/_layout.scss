@@ -153,3 +153,12 @@ footer {
 article.post {
   margin-bottom: 5em;
 }
+
+.page-link {
+  color: #393a65;
+}
+  
+.page-item.active .page-link {
+  background-color: #393a65;
+  border-color: #393a65;
+}
