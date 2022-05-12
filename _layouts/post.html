@@ -25,7 +25,7 @@ layout: default
 
     <div class="next-previous-articles">
       <nav aria-label="">
-        <ul class="pagination">
+        <ul class="pagination justify-content-center">
         {% for post in site.posts %}
               {% if post.url == page.url %}
                   {% assign post_index0 = forloop.index0 %}
