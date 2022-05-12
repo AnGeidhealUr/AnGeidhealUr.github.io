@@ -26,16 +26,29 @@ layout: default
     <div class="next-previous-articles">
       <nav aria-label="">
         <ul class="pagination">
-          {% if page.next.url %}
-          <li class="page-item">
-            <a class="page-link" href="#" tabindex="-1"
-              >An ath phost &raquo;</a
-            >
-          </li>
-          {% endif %} {% if page.previous.url %}
-          <li class="page-item">
-            <a class="page-link" href="#">&laquo; Am post roimhe</a>
-          </li>
+        {% for post in site.posts %}
+              {% if post.url == page.url %}
+                  {% assign post_index0 = forloop.index0 %}
+                  {% assign post_index1 = forloop.index %}
+              {% endif %}
+          {% endfor %}
+          {% for post in site.posts %}
+              {% if post_index0 == forloop.index %}
+                  {% assign next_post = post.url %}
+              {% endif %}
+              {% if post_index1 == forloop.index0 %}
+                  {% assign prev_post = post.url %}
+              {% endif %}
+          {% endfor %}
+          {% if prev_post %}
+        <li class="page-item">
+              <a class="page-link" href="{{ prev_post }}"><i class="fas fa-arrow-circle-left"></i> Am post roimhe</a>
+        </li>
+          {% endif %}
+          {% if next_post %}
+        <li class="page-item">
+              <a class="page-link" href="{{ next_post }}">An ath phost <i class="fas fa-arrow-circle-right"></i></a>
+        </li>
           {% endif %}
         </ul>
       </nav>
