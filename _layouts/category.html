@@ -9,21 +9,25 @@ layout: page
   <p>Chan eil post sam bith anns an roinn-seòrsa seo.</p>
 {% endunless %}
 
+<div class="home py-4 py-md-5">
 <div class="row">
-{% for post in site.categories[page.category] %}
-  <div class="col-md-4">
-    <p><a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ post.image }}" class="index-image"></a></p>
-    <h5 class="post-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h5>
-    <p>
-      <i class="fas fa-clock"></i> {{ post.date | date: "%Y-%m-%d" }}
-      <i class="fas fa-book-reader" style="margin-left: 15px"></i> <span class="reading-time" title="Estimated read time">
-        {% assign words = include.content | strip_html | number_of_words %}
-        {{ words | divided_by: 180 | plus: 1 }} mion.
-      </span>
-    </p>
-    {{ post.excerpt }}
-    <p><a href="{{ site.baseurl }}{{ post.url }}">Leugh an-còrr</a></p>
+{% for post in site.categories[page.category] %}   
+<div class="col-md-4">
+ <a href="{{ post.url | prepend: site.baseurl }}" class="index-anchor">
+  <div class="card rounded overflow-hidden">  
+    <div class="image">
+      {% if post.image %}
+      <img src="{{post.image | relative_url}}" alt="{{post.title}}">
+      {% endif %}
+      <div class="card-body">
+        <h3 class="panel-title font-weight-bold">{{ post.title }}</h3>
+        <p class="p-0 my-1 mx-0"><span class="post-meta"><small>{{ post.date | date: "%b %-d, %Y" }}</small></span></p>
+         <p>{{ post.excerpt | strip_html | strip_newlines | truncate: 150 }}</p>
+      </div>
+    </div>
   </div>
+</a>
+</div>
 {% endfor %}
 </div>
-<div class="section-divider"></div>
+</div>
