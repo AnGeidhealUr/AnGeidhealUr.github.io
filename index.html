@@ -30,12 +30,12 @@ layout: default
         {% if paginator.total_pages > 1 %}
         <ul class="pagination">
           {% if paginator.next_page %}
-            <li class="page-item">
+          <li class="page-item">
               <a class="page-link" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Nas sìne</a>
             </li>
           {% else %}
-            <li class="page-item">
-              <span class="page-link">Nas sìne</span>
+            <li class="page-item disabled">
+              <span class="page-link">&laquo; Nas sìne</span>
             </li>
           {% endif %}
           
@@ -55,12 +55,12 @@ layout: default
          {% endfor %}       
           
           {% if paginator.previous_page %}
-            <li class="page-item active">
+            <li class="page-item">
               <a class="page-link" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">Nas ùire &raquo;</a>
             </li>
           {% else %}
             <li class="page-item disabled">
-              <span class="page-link">Nas ùire</span>
+              <span class="page-link">Nas ùire &raquo;</span>
             </li>
           {% endif %}
 
