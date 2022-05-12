@@ -30,7 +30,7 @@ layout: default
         {% if paginator.total_pages > 1 %}
         <ul class="pagination">
           {% if paginator.next_page %}
-            <li class="page-item active">
+            <li class="page-item">
               <a class="page-link" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Nas sìne</a>
             </li>
           {% else %}
