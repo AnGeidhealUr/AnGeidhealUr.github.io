@@ -3,10 +3,10 @@ layout: post
 title: Criomagan Naidheachd na Seachdain
 date: 2022-04-22
 category: Criomagan
-image: /images/criomagan.webp
+image: /images/posts/criomagan.webp
 ---
 
-![Criomagan Naidheachd na Seachdain]({{ site.baseurl }}/images/criomagan.webp)
+![Criomagan Naidheachd na Seachdain]({{ site.baseurl }}/images/posts/criomagan.webp)
 
 Geàrr-chunntas sgrìobhte air cinn-naidheachd na seachdain.
 
