@@ -7,21 +7,15 @@ layout: default
     {% for post in paginator.posts %}   
       <div class="col-md-8 offset-md-2">
        <a href="{{ post.url | prepend: site.baseurl }}" class="index-anchor">
-        <div class="card rounded overflow-hidden">
-          <div class="row">
-            <div class="col-md-3">
-              <div class="image">
-                {% if post.image %}
-                <img src="{{post.image | relative_url}}" alt="{{post.title}}">
-                {% endif %}
-              </div>
-              <div class="col-md-9">
-                <div class="card-body">
-                  <h3 class="panel-title font-weight-bold">{{ post.title }}</h3>
-                  <p class="p-0 my-1 mx-0"><span class="post-meta"><small>{{ post.date | date: "%b %-d, %Y" }}</small></span></p>
-                   <p>{{ post.excerpt | strip_html | strip_newlines | truncate: 150 }}</p>
-                </div>
-              </div>
+        <div class="card rounded overflow-hidden">  
+          <div class="image">
+            {% if post.image %}
+            <img src="{{post.image | relative_url}}" alt="{{post.title}}">
+            {% endif %}
+            <div class="card-body">
+              <h3 class="panel-title font-weight-bold">{{ post.title }}</h3>
+              <p class="p-0 my-1 mx-0"><span class="post-meta"><small>{{ post.date | date: "%b %-d, %Y" }}</small></span></p>
+               <p>{{ post.excerpt | strip_html | strip_newlines | truncate: 150 }}</p>
             </div>
           </div>
         </div>
