@@ -6,33 +6,28 @@ permalink: /tachartasan/
 <div class="container">
   <h3>Tachartasan</h3>
   <div class="row">
-  {% for event in site.events %}
-      <div class="col-md-4">
-        <p><img src="{{ event.image }}" class="index-image"><p>
-        <h5 class="post-title">{{ event.title }}</h5>
-        <p>
-          <i class="fas fa-calendar"></i> {{ event.event_date | date: "%Y-%m-%d" }}
-        </p>
-        <p>
-          <i class="fas fa-clock"></i> {{ event.event_time }}
-        </p>
-        {% if event.address %}
-        <p>
-          <i class="fas fa-map-marker"></i> {{ event.address }}
-        </p>
-        {% endif %}
-        {% if event.website %}
-        <p>
-          <i class="fas fa-external-link-alt"></i> <a href="{{ event.website }}">{{ event.website }}</a>
-        </p>
-        {% endif %}
-        {% if event.email %}
-        <p>
-          <i class="fas fa-envelope"></i> <a href="mailto:{{ event.email }}">{{ event.email }}</a>
-        </p>
-        {% endif %}
-      </div>
-
+   {% for event in site.events %}
+  <div class="col-md-4">
+    <p class="p-0 my-1 mx-0"><span class="post-meta"><small>{{ event.event_date | date: "%Y-%m-%d" }} @ {{ event.event_time }}</small></span></p>
+  </div>
+  <div class="col-md-8">
+    <h5 class="post-title">{{ event.title }}</h5>
+    {% if event.address %}
+    <p>
+      <i class="fas fa-map-marker"></i> {{ event.address }}
+    </p>
+    {% endif %}
+    {% if event.website %}
+    <p>
+      <i class="fas fa-external-link-alt"></i> <a href="{{ event.website }}">{{ event.website }}</a>
+    </p>
+    {% endif %}
+    {% if event.email %}
+    <p>
+      <i class="fas fa-envelope"></i> <a href="mailto:{{ event.email }}">{{ event.email }}</a>
+    </p>
+    {% endif %}
+  </div>
   {% endfor %}
 </div>
 <div class="section-divider"></div>
