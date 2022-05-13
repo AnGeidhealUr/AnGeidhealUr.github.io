@@ -5,7 +5,6 @@ permalink: /tachartasan/
 ---
 <div class="container">
  {% for event in site.events %}
-   <div class="row" style="border solid 1px whitesmoke; padding: 10px;">
   <div class="col-md-4">
     <p class="p-0 my-1 mx-0"><span class="post-meta"><small>{{ event.event_date | date: "%Y-%m-%d" }} @ {{ event.event_time }}</small></span></p>
   </div>
@@ -27,7 +26,6 @@ permalink: /tachartasan/
     </p>
     {% endif %}
   </div>
-</div>
 {% endfor %}
 <div class="section-divider"></div>
 </div>
