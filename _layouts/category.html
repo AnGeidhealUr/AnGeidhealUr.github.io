@@ -9,15 +9,13 @@ layout: page
   <p>Chan eil post sam bith anns an roinn-seòrsa seo.</p>
 {% endunless %}
 
-<div class="home py-4 py-md-5">
-  <div class="row">
-    {% for post in site.categories[page.category] %}   
-      <div class="col-md-4">
-        <p class="p-0 my-1 mx-0"><span class="post-meta"><small>{{ post.date | date: "%b %-d, %Y" }}</small></span></p>
-      </div>
-      <div class="col-md-8">
-        <p><a href="{{site.baseurk}}{{ post.url }}">{{ post.title }}</a></p>
-      </div>
-    {% endfor %}
-  </div>
+<div class="row">
+  {% for post in site.categories[page.category] %}   
+    <div class="col-md-4">
+      <p class="p-0 my-1 mx-0"><span class="post-meta"><small>{{ post.date | date: "%b %-d, %Y" }}</small></span></p>
+    </div>
+    <div class="col-md-8">
+      <p><a href="{{site.baseurk}}{{ post.url }}">{{ post.title }}</a></p>
+    </div>
+  {% endfor %}
 </div>
