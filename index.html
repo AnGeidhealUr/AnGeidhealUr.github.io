@@ -8,13 +8,23 @@ layout: default
     {% for post in paginator.posts %}   
       <div class="col-md-2">
         <p class="p-0 my-1 mx-0" style="text-align: right"><span class="post-meta"><small>
-          {% assign month_index = page.date | date: "%-m" | minus: 1 %}
-          {% assign month = site.data.gaelic.months[month_index] %}
-          
-          <time datetime="{{ page.date | date_to_xmlschema }}">
-              {{ page.date | date: "%-d" }} {{ month }} {{ page.date | date: "%Y" }}
-          </time>
-          
+          {% assign m = page.date | date: "%-m" %}
+          {{ page.date | date: "%-d" }}
+          {% case m %}
+            {% when '1' %}Am Faoilleach
+            {% when '2' %}An Gearran
+            {% when '3' %}Am Màrt
+            {% when '4' %}An Giblean
+            {% when '5' %}An Cèitean
+            {% when '6' %}An t-Ògmhios
+            {% when '7' %}An t-Iuchar
+            {% when '8' %}An Lùnastal
+            {% when '9' %}An t-Sultain
+            {% when '10' %}An Dàmhair
+            {% when '11' %}An t-Samhain
+            {% when '12' %}An Dùbhlachd
+          {% endcase %}
+          {{ page.date | date: "%Y" }}
           </small></span></p>
       </div>
       <div class="col-md-10">
