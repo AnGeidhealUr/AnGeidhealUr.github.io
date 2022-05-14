@@ -2,8 +2,6 @@
 
 layout: post
 
-date: 2022-04-22
-
 title: Criomagan Naidheachd na Seachdain
 
 image: /images/posts/criomagan.webp
