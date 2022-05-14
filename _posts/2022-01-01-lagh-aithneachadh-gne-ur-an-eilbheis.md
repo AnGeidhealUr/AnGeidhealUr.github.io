@@ -6,16 +6,25 @@ date: 2022-01-01
 
 title: Lagh aithneachadh gnè ùr an Eilbheis
 
-image: /images/posts/2022-01-01-lagh-aithneachadh-gne-ur-an-eilbheis.webp
+image: /images/2022-01-01-lagh-aithneachadh-gne-ur-an-eilbheis.jpg
+
+image-caption:
+
+image-licence:
 
 author: Crìstean MacMhìcheil
 
+comments: true
+
 categories:
-	- An t-Saoghal
+    - An t-Saoghal
+    
+
+instagram:
+
+twitter:
 
 ---
-
-![]({{ site.baseurl }}/images/posts/2022-01-01-lagh-aithneachadh-gne-ur-an-eilbheis.webp)
 
 Chaidh lagh ùr a chur an-gnìomh an Eilbheis an-diugh a leigeas le pearsachan an gnè aca atharrachadh gu sìmplidh.
 
