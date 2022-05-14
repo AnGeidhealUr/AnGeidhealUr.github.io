@@ -27,6 +27,9 @@ layout: default
             {% when '12' %}An Dùbhlachd
           {% endcase %}
           {{ page.date | date: "%Y" }}
+          {% if page.author %} •
+          {{ page.author }}
+          {% endif %}
         </p>
       </header>
       <div class="post-content" itemprop="articleBody">{{ content }}</div>
