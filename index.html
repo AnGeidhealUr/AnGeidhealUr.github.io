@@ -14,7 +14,7 @@ layout: default
           <img src="{{post.image | relative_url}}" alt="{{post.title}}">
           {% endif %}
           <div class="card-body">
-            <h3 class="panel-title font-weight-bold">{{ post.title | truncate: 25 }}</h3>
+            <p class="panel-title" style="font-family: Lemonada">{{ post.title }}</p>
             <p class="p-0 my-1 mx-0"><span class="post-meta"><small>{{ post.date | date: "%b %-d, %Y" }}</small></span></p>
           </div>
         </div>
