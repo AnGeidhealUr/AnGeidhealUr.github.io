@@ -6,18 +6,28 @@ date: 2022-01-06
 
 title: Cùis-lagha an-aghaidh taigh-fhuine ann am Beul Feirste air a dhiùltadh
 
-image: /images/posts/2022-01-06-cuis-lagha-an-aghaidh-taigh-fhuine-ann-am-beul-feirste-air-a-dhiultadh.webp
+image: /images/2022-01-06-cuis-lagha-an-aghaidh-taigh-fhuine-ann-am-beul-feirste-air-a-dhiultadh.jpg
+
+image-caption:
+
+image-licence:
 
 author: Crìstean MacMhìcheil
 
+comments: true
+
 categories:
-	- An t-Saoghal
+    - An t-Saoghal
+
+instagram:
+
+twitter:
 
 ---
 
-![]({{ site.baseurl }}/images/posts/2022-01-06-cuis-lagha-an-aghaidh-taigh-fhuine-ann-am-beul-feirste-air-a-dhiultadh.webp)
-
 Tha Cùirt Eòrpach nan Còraichean Daonna air cùis-lagha an-aghaidh taigh-fhuine ann am Beul Feirste a dhiùltadh.
+
+<!--more-->
 
 Chaidh Ashers Baking a dhìteadh ann an 2015 airson leth-breith nuair a dhiùlt iad cèic le “Support Gay Marriage” sgrìobhte air a dhèanamh do neach-ceannaich, Gareth Lee.
 
