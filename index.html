@@ -3,8 +3,8 @@ layout: page
 title: Naidheachdan
 ---
 
-<div class="row">
   {% for post in paginator.posts %}   
+  <div class="row" style="border-bottom: 1px solid whitesmoke; margin-bottom: 15px;">
     <div class="col-md-3">
       <p class="p-0 my-1 mx-0" style="text-align: right"><span class="post-meta"><small>
         {% assign m = post.date | date: "%-m" %}
@@ -29,8 +29,9 @@ title: Naidheachdan
     <div class="col-md-9">
       <p style="font-family: Lemonada"><a href="{{site.baseurk}}{{ post.url }}">{{ post.title }}</a></p>
     </div>
+  </div>
   {% endfor %}
-</div>
+
     
   <div class="row">
     <div class="col-md-12">
