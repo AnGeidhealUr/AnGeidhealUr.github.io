@@ -6,12 +6,12 @@ date: 2018-06-08 12:27:20
 
 title: Bhidio ùr a’ soilleireachadh an casg a th’ air daoine co-sheòrsach agus dà-sheòrsach bho bhith a’ toirt seachad fala
 
-image: /images/posts/2018-06-08-bhidio-ur-a-soilleireachadh-an-casg-a-th-air-daoine-co-sheorsach-agus-da-sheorsach-bho-bhith-a-toirt-seachad-fala.webp
+image: /images/posts/2018-06-08-bhidio-ur-a-soilleireachadh-an-casg-a-th-air-daoine-co-sheorsach-agus-da-sheorsach-bho-bhith-a-toirt-seachad-fala.jpg
 
 author: Crìstean MacMhìcheil
 
 categories:
-	- Dibhearsan
+	- Slàinte
 
 ---
 
