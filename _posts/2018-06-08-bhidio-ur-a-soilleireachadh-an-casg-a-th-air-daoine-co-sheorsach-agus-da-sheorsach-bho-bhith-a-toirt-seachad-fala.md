@@ -35,4 +35,5 @@ Thuirt Peter Tatchell ri PhinkNews:
 
 “Tha e gòrach gu bheil casgan gun fheum air daoine co-sheòrsach agus dà-sheòrsach bho bhith a’ toirt seachad fala air feadh uiread de dhùthchannan. Tha cuid de dhaoine a tha ri fèise le daoine eile ann an cunnart HIV. Tha feadhainn eile nach eil. Feumaidh sinn stad a chur air gnàth-ìomhaighean a sparradh air na coimhearsnachdan co-sheòrsach agus dà-sheòrsach agus am putadh chun nan oirean agus tòiseachadh air barrachd fuil a ghlacadh gus barrachd beathannan a shàbhaladh. Feuch leam tòiseachadh air giùlan-fèise agus am fuil fhèin a sgrìonadh seach an taobhadh-fèise.”
 
-<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/DSTlwPgeu_E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+<div class="youtube-wrapper"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/DSTlwPgeu_E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
