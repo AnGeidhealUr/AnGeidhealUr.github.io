@@ -10,8 +10,8 @@ layout: default
           {{ page.title }}
         </h1>
         <p class="post-meta">
-          {% assign m = post.date | date: "%-m" %}
-          {{ post.date | date: "%d" }}
+          {% assign m = page.date | date: "%-m" %}
+          {{ page.date | date: "%d" }}
           {% case m %}
             {% when '1' %}Am Faoilleach
             {% when '2' %}An Gearran
@@ -26,7 +26,7 @@ layout: default
             {% when '11' %}An t-Samhain
             {% when '12' %}An Dùbhlachd
           {% endcase %}
-          {{ post.date | date: "%Y" }}
+          {{ page.date | date: "%Y" }}
         </p>
       </header>
       <div class="post-content" itemprop="articleBody">{{ content }}</div>
