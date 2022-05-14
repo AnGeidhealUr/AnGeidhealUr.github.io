@@ -6,18 +6,29 @@ date: 2022-02-21 22:00
 
 title: Cead ga thoirt do gach neach an gnè fhèin a thaghadh ann an Cunntas-sluaigh na h-Alba
 
-image: /images/posts/2022-02-21-cead-ga-thoirt-do-gach-neach-an-gnè-fhèin-a-thaghadh-ann-an-cunntas-sluaigh-na-h-alba.webp
+image: /images/2022-02-21-cead-ga-thoirt-do-gach-neach-an-gnè-fhèin-a-thaghadh-ann-an-cunntas-sluaigh-na-h-alba.jpg
+
+image-caption:
+
+image-licence:
 
 author: Crìstean MacMhìcheil
 
+comments: true
+
 categories:
-	- Alba
+    - Alba
+    
+
+instagram: https://www.instagram.com/p/CaQVPx8LIx4/
+
+twitter: https://twitter.com/AnGeidhealUr/status/1495881257561083904
 
 ---
 
-![]({{ site.baseurl }}/images/posts/2022-02-21-cead-ga-thoirt-do-gach-neach-an-gnè-fhèin-a-thaghadh-ann-an-cunntas-sluaigh-na-h-alba.webp)
-
 Tha britheamh air riaghladh gum faod gach neach an gnè fhèin a thaghadh ann an cunntas-sluaigh na h-Alba gun feum air teisteanas aithneachadh gnè.
+
+<!--more-->
 
 Tha teisteanas aithneachadh gnè aig nas lugha na aon sa cheud de phearsachan tar-ghnèitheach san Rìoghachd Aonaichte agus tha am pròiseas airson fear fhaighinn fada, sàithteach, agus doirbh.
 
