@@ -6,29 +6,14 @@ date: 2022-01-15
 
 title: Pàrlamaid na Pòlainne air gabhail ri lagh a chuireas casg air cuspairean LGDTCEN+ ann an sgoiltean
 
-image: /images/2022-01-15-parlamaid-na-polainne-air-gabhail-ri-lagh-a-chuireas-casg-air-cuspairean-lgdtcen-ann-an-sgoiltean.webp
-
-image-caption:
-
-image-licence:
-
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
     - An t-Saoghal
     
-    
-    
-
-instagram:
-
-twitter:
-
 ---
 
-![]({{ site.baseurl }}{{ page.image }})
+![]({{ site.baseurl }}/images/posts/2022-01-15-parlamaid-na-polainne-air-gabhail-ri-lagh-a-chuireas-casg-air-cuspairean-lgdtcen-ann-an-sgoiltean.webp)
 
 Tha Pàrlamaid na Pòlainne air gabhail ri lagh a thathar an dùil ri casg a chur air teagaisg chuspairean LGDTCEN+ ann an sgoiltean.
 
