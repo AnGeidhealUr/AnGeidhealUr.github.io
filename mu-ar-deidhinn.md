@@ -15,15 +15,6 @@ Chaidh a stèidheachadh ann an 2008 mar Naidheachdan Pinc le Crìstean MacMhìch
 * a’ brosnachadh  co-ionnanachd agus iomadachd;
 * a’ lughdachadh iomallachd sa choimhearsnachd LGDTCEN+ Gàidhealach le bhith a’ cruthachadh cheanglaichean brìoghmhor agus luachmhor.
 
-### Lean sinn
-
-{% include social.html %}
-
-### Cuir post-d thugainn
-
-'S e Twitter no Instagram an dòigh as fheàrr airson brath a chur thugainn ach mura h-eil thu airson an cleachdadh, 's urrainn dhut post-d a chur thugainn le bhith a' lìonadh [an fhoirm seo]({{ site.baseurl }}/cuir-fios).
-
-
 ### Làraichean-lìn eile againn
 
 {% include network.html %}
