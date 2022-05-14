@@ -23,9 +23,7 @@ Dh&#8217;ainmich Comhairliche Gregor Murray air Facebook gum biodh iad* a&#8217;
 
 Ann an litir gu Ceannard na Comhairle, John Alexander, thug Murray iomradh air an droch dhìol a dh&#8217;fhuiling iad thairis air na mìosan a dh&#8217;fhalbh agus thuirt iad gur e seo an co-dhùnadh as fheàrr airson an slàinte-inntinn a tha air tuiteam fon ìre far am bu chòir dha bhith.
 
-<div style="text-align: center">
-  <a href="https://www.facebook.com/CllrGregorMurray/posts/2121515251420019"><img class="aligncenter" title="Litir a sgrìobh Comhairliche Murray ri Comhairliche Alexander" src="https://i2.wp.com/geidh.uk/wp-content/uploads/2018/08/Screenshot-2018-08-14-at-19.40.28-527x1024.webp?resize=527%2C1024" alt="Litir a sgrìobh Comhairliche Murray ri Comhairliche Alexander" width="527" height="1024" data-recalc-dims="1" /></a>
-</div>
+![](/images/posts/2018-08-15-comhairliche-tar-ghneitheach-albannach-a-leigeil-as-an-dreuchd-mar-thoradh-air-droch-dhiol.webp){:class="post-image"}
 
 Chaidh Comhairliche Murray a chàineadh airson cànan a chleachd iad ann am brathan air-loidhne le buidhnean boireannaich.
 
