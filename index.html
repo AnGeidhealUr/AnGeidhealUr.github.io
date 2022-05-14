@@ -3,36 +3,34 @@ layout: page
 title: Naidheachdan
 ---
 
-<div class="home py-4 py-md-5">
-  <div class="row">
-    {% for post in paginator.posts %}   
-      <div class="col-md-3">
-        <p class="p-0 my-1 mx-0" style="text-align: right"><span class="post-meta"><small>
-          {% assign m = post.date | date: "%-m" %}
-          {{ post.date | date: "%d" }}
-          {% case m %}
-            {% when '1' %}Am Faoilleach
-            {% when '2' %}An Gearran
-            {% when '3' %}Am Màrt
-            {% when '4' %}An Giblean
-            {% when '5' %}An Cèitean
-            {% when '6' %}An t-Ògmhios
-            {% when '7' %}An t-Iuchar
-            {% when '8' %}An Lùnastal
-            {% when '9' %}An t-Sultain
-            {% when '10' %}An Dàmhair
-            {% when '11' %}An t-Samhain
-            {% when '12' %}An Dùbhlachd
-          {% endcase %}
-          {{ post.date | date: "%Y" }}
-          </small></span></p>
-      </div>
-      <div class="col-md-9">
-        <p style="font-family: Lemonada"><a href="{{site.baseurk}}{{ post.url }}">{{ post.title }}</a></p>
-      </div>
-    {% endfor %}
-  </div>
-</div> 
+<div class="row">
+  {% for post in paginator.posts %}   
+    <div class="col-md-3">
+      <p class="p-0 my-1 mx-0" style="text-align: right"><span class="post-meta"><small>
+        {% assign m = post.date | date: "%-m" %}
+        {{ post.date | date: "%d" }}
+        {% case m %}
+          {% when '1' %}Am Faoilleach
+          {% when '2' %}An Gearran
+          {% when '3' %}Am Màrt
+          {% when '4' %}An Giblean
+          {% when '5' %}An Cèitean
+          {% when '6' %}An t-Ògmhios
+          {% when '7' %}An t-Iuchar
+          {% when '8' %}An Lùnastal
+          {% when '9' %}An t-Sultain
+          {% when '10' %}An Dàmhair
+          {% when '11' %}An t-Samhain
+          {% when '12' %}An Dùbhlachd
+        {% endcase %}
+        {{ post.date | date: "%Y" }}
+        </small></span></p>
+    </div>
+    <div class="col-md-9">
+      <p style="font-family: Lemonada"><a href="{{site.baseurk}}{{ post.url }}">{{ post.title }}</a></p>
+    </div>
+  {% endfor %}
+</div>
     
   <div class="row">
     <div class="col-md-12">
