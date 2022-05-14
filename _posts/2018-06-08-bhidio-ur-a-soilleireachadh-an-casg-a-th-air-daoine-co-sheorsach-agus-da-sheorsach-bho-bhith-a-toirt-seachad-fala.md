@@ -2,7 +2,7 @@
 
 layout: post
 
-date: 2018-06-08 12:27:20
+date: 2018-06-08 12:27
 
 title: Bhidio ùr a’ soilleireachadh an casg a th’ air daoine co-sheòrsach agus dà-sheòrsach bho bhith a’ toirt seachad fala
 
