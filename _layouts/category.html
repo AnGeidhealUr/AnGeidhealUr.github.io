@@ -9,8 +9,8 @@ layout: page
   <p>Chan eil post sam bith anns an roinn-seòrsa seo.</p>
 {% endunless %}
 
-<div class="row">
   {% for post in site.categories[page.category] %}   
+  <div class="row" style="border-bottom: 1px solid whitesmoke; margin-bottom: 15px;">
     <div class="col-md-3">
       <p class="p-0 my-1 mx-0" style="text-align: right"><span class="post-meta"><small>
         {% assign m = post.date | date: "%-m" %}
@@ -34,5 +34,5 @@ layout: page
     <div class="col-md-9" style="font-family: Lemonada">
       <p><a href="{{site.baseurk}}{{ post.url }}">{{ post.title }}</a></p>
     </div>
+  </div>
   {% endfor %}
-</div>
