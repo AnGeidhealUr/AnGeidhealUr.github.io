@@ -22,15 +22,15 @@ Nam measg chaidh Tim Farron a chàineadh o chionn &#8217;s gun robh a&#8217; dè
 
 A-rèir prògram an tachartais bha Mgr Fallon gu bhith bruidhinn air na h-oidhirpean a rinn na meadhanan gus faighinn a-mach ma tha e dhen bheachd ma tha fèise co-sheòrsach co-chòrdail ri creideis Crìosdail:
 
-<p style="margin-left: 15px; padding-left: 15px; border-left: 5px solid #fb135b;">
+<p style="margin-left: 15px; padding-left: 15px; border-left: 5px solid #393a65;">
   <span style="color: #808080;"><em>&#8220;Tim Farron MP made the headlines during the 2017 general election campaign as leader of the Liberal Democrat party, although it was not, in fact, politics that generated the headlines but repeated attempts by the mainstream media to get him to express an opinion on whether gay sex was compatible with Christian faith.</em></span>
 </p>
 
-<p style="margin-left: 15px; padding-left: 15px; border-left: 5px solid #fb135b;">
+<p style="margin-left: 15px; padding-left: 15px; border-left: 5px solid #393a65;">
   <span style="color: #808080;"><em>He announced he would step down as party leader following the election, stating that he had become “torn between living as a faithful Christian and serving as a political leader.</em></span>
 </p>
 
-<p style="margin-left: 15px; padding-left: 15px; border-left: 5px solid #fb135b;">
+<p style="margin-left: 15px; padding-left: 15px; border-left: 5px solid #393a65;">
   <span style="color: #808080;"><em>Many hold strong opinions on the issue but it raised an even more important question: What happens when my truth is not yours?&#8221;</em></span>
 </p>
 
@@ -56,7 +56,7 @@ Bha tòrr duine gan càineadh air Twitter.
 
 Nam measg sgrìobh Stephen Kinnock, BP airson Aberavon:
 
-<blockquote class="twitter-tweet" style="margin-left: 15px; padding-left: 15px; border-left: 5px solid #fb135b;" data-lang="en-gb">
+<blockquote class="twitter-tweet" style="margin-left: 15px; padding-left: 15px; border-left: 5px solid #393a65;" data-lang="en-gb">
   <p dir="ltr" lang="en">
     Last night two Brextremist-driven amendments were carried by a whisker &#8211; 3 and 4 votes, respectively. 14 Tories rebelled. Tim Farron and Vince Cable (those doughty, fearless crusaders against a hard Brexit) didn’t vote. This was how Tim spent his evening: <a href="https://t.co/Iz5dHz9RHL">https://t.co/Iz5dHz9RHL</a>
   </p>
@@ -68,7 +68,7 @@ Nam measg sgrìobh Stephen Kinnock, BP airson Aberavon:
 
 Agus sgrìobh Richard Burgon BP airson Leeds an Ear:
 
-<blockquote class="twitter-tweet" style="margin-left: 15px; padding-left: 15px; border-left: 5px solid #fb135b;" data-lang="en-gb">
+<blockquote class="twitter-tweet" style="margin-left: 15px; padding-left: 15px; border-left: 5px solid #393a65;" data-lang="en-gb">
   <p dir="ltr" lang="en">
     Journalists reporting current Lib Dem Leader Vince Cable and last Lib Dem Leader Tim Farron didn’t vote in one of tonight’s votes in which Tory Government only survived by 3 votes.
   </p>
@@ -84,7 +84,7 @@ Agus sgrìobh Richard Burgon BP airson Leeds an Ear:
 
 Agus sgrìobh an cleachdaiche Twitter @gmai_sutton:
 
-<blockquote class="twitter-tweet" style="margin-left: 15px; padding-left: 15px; border-left: 5px solid #fb135b;" data-lang="en-gb">
+<blockquote class="twitter-tweet" style="margin-left: 15px; padding-left: 15px; border-left: 5px solid #393a65;" data-lang="en-gb">
   <p dir="ltr" lang="en">
     Why was Vince Cable and Tim Fallon not in Westminster to vote yesterday? Only party claiming to support Remain and they don’t turn up for such an important vote! It’s a genuine Q! Can someone from Lib Dems ( who I was prepared to vote for having been life long LP) explain please?
   </p>
