@@ -19,9 +19,17 @@ categories:
 
  Tha mi air leth toilichte a bhith ag obair comhla ri Pink Saltire gus barrachd den t-susbaint aca a thabhann tro mheadhan na Gàidhlig!
 
-## Leanaibh Pink Saltire Làrach-lìn: 
+## Leanaibh Pink Saltire
 
-<https://pinksaltire.com> Twitter: [@PinkSaltire][1] Facebook: [@PinkSaltire][2] Snapchat: PinkSaltire Post-d: <info@pinksaltire.com>
+Làrach-lìn: <https://pinksaltire.com>
+
+Twitter: [@PinkSaltire][1]
+
+Facebook: [@PinkSaltire][2]
+
+Snapchat: PinkSaltire
+
+Post-d: <info@pinksaltire.com>
 
 ## Mu Phink Saltire
 
