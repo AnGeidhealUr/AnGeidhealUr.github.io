@@ -32,7 +32,10 @@ layout: default
           {% endif %}
         </p>
       </header>
-      <div class="post-content" itemprop="articleBody">{{ content }}</div>
+      <div class="post-content" itemprop="articleBody">
+        <img src="{{ page.image }}" class="post-image">
+        {{ content }}
+      </div>
     </article>
 
     <div class="next-previous-articles">
