@@ -6,7 +6,7 @@ date: 2008-04-25 11:22:52
 
 title: Oileanaich air feadh nan Stàitean Aonaichte nan tost
 
-image: /images/2008-04-25-oileanaich-air-feadh-nan-staitean-aonaichte-nan-tost.jpg
+image: /images/2008-04-25-oileanaich-air-feadh-nan-staitean-aonaichte-nan-tost.webp
 
 image-caption:
 

@@ -6,7 +6,7 @@ date: 2008-03-30 10:26:22
 
 title: Reachd Ameireaganach ag ràdh gu bheil ainm pòsta co-sheòrsach mì-laghail
 
-image: /images/2008-03-30-reachd-ameireaganach-ag-radh-gu-bheil-ainm-posta-co-sheorsach-mi-laghail.jpg
+image: /images/2008-03-30-reachd-ameireaganach-ag-radh-gu-bheil-ainm-posta-co-sheorsach-mi-laghail.webp
 
 image-caption:
 

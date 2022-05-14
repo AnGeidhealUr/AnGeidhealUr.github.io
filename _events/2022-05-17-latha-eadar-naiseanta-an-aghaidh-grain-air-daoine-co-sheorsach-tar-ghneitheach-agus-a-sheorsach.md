@@ -4,7 +4,7 @@ title: Latha Eadar-nàiseanta an-aghaidh Gràin air Daoine Co-sheòrsach, Tar-gh
 event_date: 2022-05-17
 event_time: Fad an latha
 address: Air feadh an t-saoghal
-image: /images/2022-05-17-latha-eadar-naiseanta-an-aghaidh-grain-air-daoine-co-sheorsach-tar-ghneitheach-agus-a-sheorsach.jpg
+image: /images/2022-05-17-latha-eadar-naiseanta-an-aghaidh-grain-air-daoine-co-sheorsach-tar-ghneitheach-agus-a-sheorsach.webp
 website:
 email:
 ---

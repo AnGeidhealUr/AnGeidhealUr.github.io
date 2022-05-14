@@ -6,7 +6,7 @@ date: 2020-05-04
 
 title: Derek Ogg air bàsachadh
 
-image: /images/2020-05-04-derek-ogg-air-basachadh.jpg
+image: /images/2020-05-04-derek-ogg-air-basachadh.webp
 
 image-caption:
 

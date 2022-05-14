@@ -6,7 +6,7 @@ date: 2008-11-04 10:17:35
 
 title: Muinntir Chalifornia gu bhith a’ bhòtadh air Proposition 8 an-diugh
 
-image: /images/2008-11-04-muinntir-chalifornia-gu-bhith-a-bhotadh-air-proposition-8-an-diugh.jpg
+image: /images/2008-11-04-muinntir-chalifornia-gu-bhith-a-bhotadh-air-proposition-8-an-diugh.webp
 
 image-caption:
 

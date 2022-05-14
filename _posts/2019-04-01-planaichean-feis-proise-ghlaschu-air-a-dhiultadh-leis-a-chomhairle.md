@@ -6,7 +6,7 @@ date: 2019-04-01 21:30:00
 
 title: Planaichean Fèis-pròise Ghlaschu air a dhiùltadh leis a' chomhairle
 
-image: /images/2019-04-01-planaichean-feis-proise-ghlaschu-air-a-dhiultadh-leis-a-chomhairle.jpg
+image: /images/2019-04-01-planaichean-feis-proise-ghlaschu-air-a-dhiultadh-leis-a-chomhairle.webp
 
 image-caption:
 

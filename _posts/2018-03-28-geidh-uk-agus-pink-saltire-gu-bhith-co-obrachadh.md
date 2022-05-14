@@ -6,7 +6,7 @@ date: 2018-03-28 21:36:21
 
 title: Gèidh.uk agus Pink Saltire gu bhith co-obrachadh air sèirbheis-naidheachd LGBT do Ghàidheil
 
-image: /images/2018-03-28-geidh-uk-agus-pink-saltire-gu-bhith-co-obrachadh.jpg
+image: /images/2018-03-28-geidh-uk-agus-pink-saltire-gu-bhith-co-obrachadh.webp
 
 image-caption:
 

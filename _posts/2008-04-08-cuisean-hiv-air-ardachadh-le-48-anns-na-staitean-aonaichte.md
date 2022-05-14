@@ -6,7 +6,7 @@ date: 2008-04-08 18:01:37
 
 title: 'Cùisean HIV air àrdachadh le 48% anns na Stàitean Aonaichte'
 
-image: /images/2008-04-08-cuisean-hiv-air-ardachadh-le-48-anns-na-staitean-aonaichte.jpg
+image: /images/2008-04-08-cuisean-hiv-air-ardachadh-le-48-anns-na-staitean-aonaichte.webp
 
 image-caption:
 

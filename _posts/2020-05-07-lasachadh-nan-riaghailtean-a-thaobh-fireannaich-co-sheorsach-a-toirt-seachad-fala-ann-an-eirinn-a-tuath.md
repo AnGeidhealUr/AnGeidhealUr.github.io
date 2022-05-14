@@ -6,7 +6,7 @@ date: 2020-05-07 08:00:00
 
 title: Lasachadh nan riaghailtean a thaobh fireannaich co-sheòrsach a’ toirt seachad fala ann an Èirinn a Tuath
 
-image: /images/2020-05-07-lasachadh-nan-riaghailtean-a-thaobh-fireannaich-co-sheorsach-a-toirt-seachad-fala-ann-an-eirinn-a-tuath.JPG
+image: /images/2020-05-07-lasachadh-nan-riaghailtean-a-thaobh-fireannaich-co-sheorsach-a-toirt-seachad-fala-ann-an-eirinn-a-tuath.webp
 
 image-caption:
 

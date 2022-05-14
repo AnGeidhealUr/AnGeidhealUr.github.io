@@ -6,7 +6,7 @@ date: 2020-12-14
 
 title: Fireannaich gèidh agus dà-sheòrsach gu bhith comasach air fuil a thoirt seachad gun a bhith a' seachnadh feise
 
-image: /images/2020-12-14-fireannaich-geidh-agus-da-sheorsach-gu-bhith-comasach-air-fuil-a-thoirt-seachad-gun-a-bhith-a-seachnadh-feise.jpg
+image: /images/2020-12-14-fireannaich-geidh-agus-da-sheorsach-gu-bhith-comasach-air-fuil-a-thoirt-seachad-gun-a-bhith-a-seachnadh-feise.webp
 
 image-caption:
 

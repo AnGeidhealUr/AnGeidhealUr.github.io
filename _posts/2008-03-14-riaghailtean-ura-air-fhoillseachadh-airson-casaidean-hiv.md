@@ -6,7 +6,7 @@ date: 2008-03-14 14:01:28
 
 title: Riaghailtean ùra air fhoillseachadh airson casaidean HIV
 
-image: /images/2008-03-14-riaghailtean-ura-air-fhoillseachadh-airson-casaidean-hiv.jpg
+image: /images/2008-03-14-riaghailtean-ura-air-fhoillseachadh-airson-casaidean-hiv.webp
 
 image-caption:
 

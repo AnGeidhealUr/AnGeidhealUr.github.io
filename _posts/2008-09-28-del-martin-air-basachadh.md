@@ -6,7 +6,7 @@ date: 2008-09-28 11:45:00
 
 title: Del Martin air bàsachadh
 
-image: /images/2008-09-28-del-martin-air-basachadh.jpg
+image: /images/2008-09-28-del-martin-air-basachadh.webp
 
 image-caption:
 

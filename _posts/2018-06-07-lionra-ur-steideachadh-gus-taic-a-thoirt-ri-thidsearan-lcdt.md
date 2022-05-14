@@ -6,7 +6,7 @@ date: 2018-06-07 21:30:35
 
 title: Lìonra ùr stèideachadh gus taic a thoirt ri thidsearan LCDT+
 
-image: /images/2018-06-07-lionra-ur-steideachadh-gus-taic-a-thoirt-ri-thidsearan-lcdt.jpg
+image: /images/2018-06-07-lionra-ur-steideachadh-gus-taic-a-thoirt-ri-thidsearan-lcdt.webp
 
 image-caption:
 

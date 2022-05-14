@@ -6,7 +6,7 @@ date: 2008-03-14 09:33:41
 
 title: Carthannas ag iarraidh banachdaich HPV airson balaich
 
-image: /images/2008-03-14-carthannas-ag-iarraidh-banachdaich-hpv-airson-balaich.jpg
+image: /images/2008-03-14-carthannas-ag-iarraidh-banachdaich-hpv-airson-balaich.webp
 
 image-caption:
 

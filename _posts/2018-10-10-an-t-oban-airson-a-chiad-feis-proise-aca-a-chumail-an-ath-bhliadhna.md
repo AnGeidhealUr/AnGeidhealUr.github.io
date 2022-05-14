@@ -6,7 +6,7 @@ date: 2018-10-10 13:17:32
 
 title: An t-Òban airson a’ chiad fèis-pròise aca a chumail an ath-bhliadhna
 
-image: /images/2018-10-10-an-t-oban-airson-a-chiad-feis-proise-aca-a-chumail-an-ath-bhliadhna.jpg
+image: /images/2018-10-10-an-t-oban-airson-a-chiad-feis-proise-aca-a-chumail-an-ath-bhliadhna.webp
 
 image-caption:
 

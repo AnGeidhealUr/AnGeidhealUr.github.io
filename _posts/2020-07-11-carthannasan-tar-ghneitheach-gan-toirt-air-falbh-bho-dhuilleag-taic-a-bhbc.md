@@ -6,7 +6,7 @@ date: 2020-07-11
 
 title: Carthannasan tar-ghnèitheach gan toirt air falbh bho dhuilleag taic a’ BhBC
 
-image: /images/2020-07-11-carthannasan-tar-ghneitheach-gan-toirt-air-falbh-bho-dhuilleag-taic-a-bhbc.JPG
+image: /images/2020-07-11-carthannasan-tar-ghneitheach-gan-toirt-air-falbh-bho-dhuilleag-taic-a-bhbc.webp
 
 image-caption:
 

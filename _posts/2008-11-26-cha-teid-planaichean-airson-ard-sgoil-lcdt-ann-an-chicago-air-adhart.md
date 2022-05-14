@@ -6,7 +6,7 @@ date: 2008-11-26 16:37:18
 
 title: Cha tèid planaichean airson àrd-sgoil LCDT ann an Chicago air adhart
 
-image: /images/2008-11-26-cha-teid-planaichean-airson-ard-sgoil-lcdt-ann-an-chicago-air-adhart.jpg
+image: /images/2008-11-26-cha-teid-planaichean-airson-ard-sgoil-lcdt-ann-an-chicago-air-adhart.webp
 
 image-caption:
 

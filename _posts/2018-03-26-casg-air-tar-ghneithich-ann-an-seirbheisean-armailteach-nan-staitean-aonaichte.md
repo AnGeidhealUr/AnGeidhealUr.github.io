@@ -6,7 +6,7 @@ date: 2018-03-26 20:41:08
 
 title: Casg air tar-ghnèithich ann an seirbheisean armailteach nan Stàitean Aonaichte
 
-image: /images/2018-03-26-casg-air-tar-ghneithich-ann-an-seirbheisean-armailteach-nan-staitean-aonaichte.jpg
+image: /images/2018-03-26-casg-air-tar-ghneithich-ann-an-seirbheisean-armailteach-nan-staitean-aonaichte.webp
 
 image-caption:
 

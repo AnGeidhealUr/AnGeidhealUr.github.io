@@ -6,7 +6,7 @@ date: 2008-03-18 16:20:59
 
 title: Co-dhùnadh uchd-mhacachaidh mar eisimpleir ann an Iosrael
 
-image: /images/2008-03-18-co-dhunadh-uchd-mhacachaidh-mar-eisimpleir-ann-an-iosrael.jpg
+image: /images/2008-03-18-co-dhunadh-uchd-mhacachaidh-mar-eisimpleir-ann-an-iosrael.webp
 
 image-caption:
 

@@ -6,7 +6,7 @@ date: 2008-11-26 16:15:39
 
 title: Rionnagan Ameireaganach an-sàs ann an iomairt an-aghaidh cànan oilbheumach
 
-image: /images/2008-11-26-rionnagan-ameireaganach-an-sas-ann-an-iomairt-an-aghaidh-canan-oilbheumach.jpg
+image: /images/2008-11-26-rionnagan-ameireaganach-an-sas-ann-an-iomairt-an-aghaidh-canan-oilbheumach.webp
 
 image-caption:
 

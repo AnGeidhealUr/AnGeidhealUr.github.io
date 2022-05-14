@@ -6,7 +6,7 @@ date: 2008-04-30 18:52:49
 
 title: Caismeachd-pròise Bhirmingham air a chur dheth
 
-image: /images/2008-04-30-caismeachd-proise-bhirmingham-air-a-chur-dheth.jpg
+image: /images/2008-04-30-caismeachd-proise-bhirmingham-air-a-chur-dheth.webp
 
 image-caption:
 

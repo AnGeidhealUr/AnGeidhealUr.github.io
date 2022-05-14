@@ -6,7 +6,7 @@ date: 2018-07-15 20:47:50
 
 title: Nicola Sturgeon na h-Àrd-Mharasgal na Caismeachd aig Fèis-pròise Ghlaschu
 
-image: /images/2018-07-15-nicola-sturgeon-na-h-ard-mharasgal-na-caismeachd-aig-feis-proise-ghlaschu.jpg
+image: /images/2018-07-15-nicola-sturgeon-na-h-ard-mharasgal-na-caismeachd-aig-feis-proise-ghlaschu.webp
 
 image-caption:
 
@@ -38,7 +38,7 @@ Air thoiseach air an tachartas, thuirt Ms Sturgeon:
 <!--<div id='gallery-3' class='gallery galleryid-2522 gallery-columns-1 gallery-size-large'>
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <img width="906" height="400" src="https://i2.wp.com/geidh.uk/wp-content/uploads/2018/07/Pride_Glasgow_2018-1.jpeg?resize=906%2C400&#038;ssl=1" class="attachment-large size-large" alt="" aria-describedby="gallery-3-2534" srcset="https://i2.wp.com/geidh.uk/wp-content/uploads/2018/07/Pride_Glasgow_2018-1.jpeg?resize=1024%2C452&ssl=1 1024w, https://i2.wp.com/geidh.uk/wp-content/uploads/2018/07/Pride_Glasgow_2018-1.jpeg?resize=300%2C132&ssl=1 300w, https://i2.wp.com/geidh.uk/wp-content/uploads/2018/07/Pride_Glasgow_2018-1.jpeg?resize=768%2C339&ssl=1 768w, https://i2.wp.com/geidh.uk/wp-content/uploads/2018/07/Pride_Glasgow_2018-1.jpeg?w=1280&ssl=1 1280w" sizes="(max-width: 906px) 100vw, 906px" data-recalc-dims="1" />
+      <img width="906" height="400" src="https://i2.wp.com/geidh.uk/wp-content/uploads/2018/07/Pride_Glasgow_2018-1.webp?resize=906%2C400&#038;ssl=1" class="attachment-large size-large" alt="" aria-describedby="gallery-3-2534" srcset="https://i2.wp.com/geidh.uk/wp-content/uploads/2018/07/Pride_Glasgow_2018-1.webp?resize=1024%2C452&ssl=1 1024w, https://i2.wp.com/geidh.uk/wp-content/uploads/2018/07/Pride_Glasgow_2018-1.webp?resize=300%2C132&ssl=1 300w, https://i2.wp.com/geidh.uk/wp-content/uploads/2018/07/Pride_Glasgow_2018-1.webp?resize=768%2C339&ssl=1 768w, https://i2.wp.com/geidh.uk/wp-content/uploads/2018/07/Pride_Glasgow_2018-1.webp?w=1280&ssl=1 1280w" sizes="(max-width: 906px) 100vw, 906px" data-recalc-dims="1" />
     </dt>
 
     <dd class='wp-caption-text gallery-caption' id='gallery-3-2534'>
@@ -66,7 +66,7 @@ Cuideachd mhol i Blair Wilson, duine à Baile Nèill, Siorrachd Rinn Friù an Ea
 <!--<div id='gallery-4' class='gallery galleryid-2522 gallery-columns-1 gallery-size-large'>
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <img width="640" height="345" src="https://i1.wp.com/geidh.uk/wp-content/uploads/2018/07/Blair_Wilson.jpg?resize=640%2C345&#038;ssl=1" class="attachment-large size-large" alt="" aria-describedby="gallery-4-2543" srcset="https://i1.wp.com/geidh.uk/wp-content/uploads/2018/07/Blair_Wilson.jpg?w=640&ssl=1 640w, https://i1.wp.com/geidh.uk/wp-content/uploads/2018/07/Blair_Wilson.jpg?resize=300%2C162&ssl=1 300w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" />
+      <img width="640" height="345" src="https://i1.wp.com/geidh.uk/wp-content/uploads/2018/07/Blair_Wilson.webp?resize=640%2C345&#038;ssl=1" class="attachment-large size-large" alt="" aria-describedby="gallery-4-2543" srcset="https://i1.wp.com/geidh.uk/wp-content/uploads/2018/07/Blair_Wilson.webp?w=640&ssl=1 640w, https://i1.wp.com/geidh.uk/wp-content/uploads/2018/07/Blair_Wilson.webp?resize=300%2C162&ssl=1 300w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" />
     </dt>
 
     <dd class='wp-caption-text gallery-caption' id='gallery-4-2543'>

@@ -6,7 +6,7 @@ date: 2008-03-19 07:31:44
 
 title: An Èipheit air a chàineadh airson an iomairt an aghaidh AIDS lagachadh
 
-image: /images/2008-03-19-an-eipheit-air-a-chaineadh-airson-an-iomairt-an-aghaidh-aids-lagachadh.jpg
+image: /images/2008-03-19-an-eipheit-air-a-chaineadh-airson-an-iomairt-an-aghaidh-aids-lagachadh.webp
 
 image-caption:
 

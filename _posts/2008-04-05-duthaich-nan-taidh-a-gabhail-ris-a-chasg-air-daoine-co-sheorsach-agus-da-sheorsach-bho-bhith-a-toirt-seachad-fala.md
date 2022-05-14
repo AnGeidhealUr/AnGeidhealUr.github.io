@@ -6,7 +6,7 @@ date: 2008-04-05 18:35:16
 
 title: Dùthaich nan Tàidh a’ gabhail ris a’ chasg air daoine co-sheòrsach agus dà-sheòrsach bho bhith a’ toirt seachad fala
 
-image: /images/2008-04-05-duthaich-nan-taidh-a-gabhail-ris-a-chasg-air-daoine-co-sheorsach-agus-da-sheorsach-bho-bhith-a-toirt-seachad-fala.jpg
+image: /images/2008-04-05-duthaich-nan-taidh-a-gabhail-ris-a-chasg-air-daoine-co-sheorsach-agus-da-sheorsach-bho-bhith-a-toirt-seachad-fala.webp
 
 image-caption:
 

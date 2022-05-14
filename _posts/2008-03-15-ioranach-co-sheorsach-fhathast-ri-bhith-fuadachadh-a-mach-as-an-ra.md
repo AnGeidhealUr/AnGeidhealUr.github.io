@@ -6,7 +6,7 @@ date: 2008-03-15 11:17:37
 
 title: Iorànach co-sheòrsach fhathast ri bhith fuadachadh a-mach às an RA
 
-image: /images/2008-03-15-ioranach-co-sheorsach-fhathast-ri-bhith-fuadachadh-a-mach-as-an-ra.jpg
+image: /images/2008-03-15-ioranach-co-sheorsach-fhathast-ri-bhith-fuadachadh-a-mach-as-an-ra.webp
 
 image-caption:
 

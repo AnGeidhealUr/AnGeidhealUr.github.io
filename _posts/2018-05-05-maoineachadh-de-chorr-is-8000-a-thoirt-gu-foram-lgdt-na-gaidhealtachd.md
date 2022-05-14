@@ -6,7 +6,7 @@ date: 2018-05-05 11:31:54
 
 title: Maoineachadh de chòrr is £8000 a thoirt gu Fòram LCDT na Gàidhealtachd
 
-image: /images/2018-05-05-maoineachadh-de-chorr-is-8000-a-thoirt-gu-foram-lgdt-na-gaidhealtachd.jpg
+image: /images/2018-05-05-maoineachadh-de-chorr-is-8000-a-thoirt-gu-foram-lgdt-na-gaidhealtachd.webp
 
 image-caption:
 

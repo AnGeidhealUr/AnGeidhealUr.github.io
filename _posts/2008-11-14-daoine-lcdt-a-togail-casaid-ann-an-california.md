@@ -6,7 +6,7 @@ date: 2008-11-14 14:23:20
 
 title: Daoine LCDT a’ togail casaid ann an California
 
-image: /images/2008-11-14-daoine-lcdt-a-togail-casaid-ann-an-california.jpg
+image: /images/2008-11-14-daoine-lcdt-a-togail-casaid-ann-an-california.webp
 
 image-caption:
 

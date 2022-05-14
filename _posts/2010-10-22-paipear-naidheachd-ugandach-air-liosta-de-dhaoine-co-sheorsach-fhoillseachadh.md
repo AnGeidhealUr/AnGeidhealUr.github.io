@@ -6,7 +6,7 @@ date: 2010-10-22 09:59:38
 
 title: Pàipear-naidheachd Ugandach air liosta de dhaoine co-sheòrsach fhoillseachadh
 
-image: /images/2010-10-22-paipear-naidheachd-ugandach-air-liosta-de-dhaoine-co-sheorsach-fhoillseachadh.jpg
+image: /images/2010-10-22-paipear-naidheachd-ugandach-air-liosta-de-dhaoine-co-sheorsach-fhoillseachadh.webp
 
 image-caption:
 

@@ -6,7 +6,7 @@ date: 2020-04-05
 
 title: Stad air a chur air an obair gus Achd Aithneachadh Gnè na h-Alba ath-leasachadh
 
-image: /images/2020-04-05-stad-air-a-chur-air-an-obair-gus-achd-aithneachadh-gne-na-h-alba-ath-leasachadh.jpg
+image: /images/2020-04-05-stad-air-a-chur-air-an-obair-gus-achd-aithneachadh-gne-na-h-alba-ath-leasachadh.webp
 
 image-caption:
 

@@ -6,7 +6,7 @@ date: 2018-06-06 21:02:49
 
 title: Pàrlamaid na h-Alba air bhòtadh gus Lagh Thuring a chur an gnìomh
 
-image: /images/2018-06-06-parlamaid-na-h-alba-air-bhotadh-gus-lagh-thuring-a-chur-an-gniomh.jpg
+image: /images/2018-06-06-parlamaid-na-h-alba-air-bhotadh-gus-lagh-thuring-a-chur-an-gniomh.webp
 
 image-caption:
 

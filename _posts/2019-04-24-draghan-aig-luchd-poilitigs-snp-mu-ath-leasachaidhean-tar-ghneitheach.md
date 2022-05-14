@@ -6,7 +6,7 @@ date: 2019-04-24 21:30
 
 title: Draghan aig luchd-poilitigs SNP mu ath-leasachaidhean tar-ghnèitheach
 
-image: /images/2019-04-24-draghan-aig-luchd-poilitigs-snp-mu-ath-leasachaidhean-tar-ghneitheach.jpg
+image: /images/2019-04-24-draghan-aig-luchd-poilitigs-snp-mu-ath-leasachaidhean-tar-ghneitheach.webp
 
 image-caption:
 

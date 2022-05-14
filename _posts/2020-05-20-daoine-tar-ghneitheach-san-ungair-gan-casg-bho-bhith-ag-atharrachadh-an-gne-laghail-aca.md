@@ -6,7 +6,7 @@ date: 2020-5-20
 
 title: Daoine tar-ghnèitheach san Ungair gan casg bho bhith ag atharrachadh an gnè laghail aca
 
-image: /images/2020-5-20-daoine-tar-ghneitheach-san-ungair-gan-casg-bho-bhith-ag-atharrachadh-an-gne-laghail-aca.png
+image: /images/2020-5-20-daoine-tar-ghneitheach-san-ungair-gan-casg-bho-bhith-ag-atharrachadh-an-gne-laghail-aca.webp
 
 image-caption:
 

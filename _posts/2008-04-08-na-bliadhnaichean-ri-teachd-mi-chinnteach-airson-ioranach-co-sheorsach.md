@@ -6,7 +6,7 @@ date: 2008-04-08 17:36:21
 
 title: Na bliadhnaichean ri teachd mì-chinnteach airson Iorànach co-sheòrsach
 
-image: /images/2008-04-08-na-bliadhnaichean-ri-teachd-mi-chinnteach-airson-ioranach-co-sheorsach.jpg
+image: /images/2008-04-08-na-bliadhnaichean-ri-teachd-mi-chinnteach-airson-ioranach-co-sheorsach.webp
 
 image-caption:
 

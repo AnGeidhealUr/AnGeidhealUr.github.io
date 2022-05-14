@@ -6,7 +6,7 @@ date: 2019-01-07 16:12:28
 
 title: Geamaichean-bhidio LCDTQ air an taisbeanadh ann an taigh-tasgaidh Bherlin
 
-image: /images/2019-01-07-geamaichean-bhidio-lcdtq-air-an-taisbeanadh-ann-an-taigh-tasgaidh-bherlin.jpg
+image: /images/2019-01-07-geamaichean-bhidio-lcdtq-air-an-taisbeanadh-ann-an-taigh-tasgaidh-bherlin.webp
 
 image-caption:
 

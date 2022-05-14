@@ -6,7 +6,7 @@ date: 2017-06-01 13:13:34
 
 title: Prìomhaire co-sheòrsach gu bhith aig Èirinn?
 
-image: /images/2017-06-01-priomhaire-co-sheorsach-gu-bhith-aig-eirinn.jpg
+image: /images/2017-06-01-priomhaire-co-sheorsach-gu-bhith-aig-eirinn.webp
 
 image-caption:
 

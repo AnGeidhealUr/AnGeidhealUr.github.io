@@ -6,7 +6,7 @@ date: 2008-04-09 09:08:35
 
 title: Buidheann God Hates Fags gu bhith a’ caill na h-eaglais aca
 
-image: /images/2008-04-09-buidheann-god-hates-fags-gu-bhith-a-caill-na-h-eaglais-aca.jpg
+image: /images/2008-04-09-buidheann-god-hates-fags-gu-bhith-a-caill-na-h-eaglais-aca.webp
 
 image-caption:
 

@@ -6,7 +6,7 @@ date: 2008-04-09 08:30:36
 
 title: Làrach-lìn air a chàineadh airson faighneachd dhan luchd-cleachdaidh mun gnèitheachd aca
 
-image: /images/2008-04-09-larach-lin-air-a-chaineadh-airson-faighneachd-dhan-luchd-cleachdaidh-mun-gneitheachd-aca.jpg
+image: /images/2008-04-09-larach-lin-air-a-chaineadh-airson-faighneachd-dhan-luchd-cleachdaidh-mun-gneitheachd-aca.webp
 
 image-caption:
 

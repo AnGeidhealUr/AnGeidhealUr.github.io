@@ -6,7 +6,7 @@ date: 2008-04-23 14:53:03
 
 title: Coimisean Eòrpach air òrdugh leth-bhreith a thrèigsinn
 
-image: /images/2008-04-23-coimisean-eorpach-air-ordugh-leth-bhreith-a-threigsinn.jpg
+image: /images/2008-04-23-coimisean-eorpach-air-ordugh-leth-bhreith-a-threigsinn.webp
 
 image-caption:
 

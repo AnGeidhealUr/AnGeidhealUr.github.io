@@ -6,7 +6,7 @@ date: 2008-05-21 11:19:46
 
 title: Pòsadh… ‘the Final Frontier’
 
-image: /images/2008-05-21-posadh-the-final-frontier.jpg
+image: /images/2008-05-21-posadh-the-final-frontier.webp
 
 image-caption:
 

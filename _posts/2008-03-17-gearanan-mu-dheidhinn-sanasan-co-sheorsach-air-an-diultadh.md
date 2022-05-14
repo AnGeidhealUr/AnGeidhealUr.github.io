@@ -6,7 +6,7 @@ date: 2008-03-17 11:56:45
 
 title: Gearanan mu dheidhinn sanasan co-sheòrsach air an diùltadh
 
-image: /images/2008-03-17-gearanan-mu-dheidhinn-sanasan-co-sheorsach-air-an-diultadh.jpg
+image: /images/2008-03-17-gearanan-mu-dheidhinn-sanasan-co-sheorsach-air-an-diultadh.webp
 
 image-caption:
 

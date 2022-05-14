@@ -6,7 +6,7 @@ date: 2008-05-08 16:56:56
 
 title: “Homosexuality” 140 bliadhna a dh’aois
 
-image: /images/2008-05-08-homosexuality-140-bliadhna-a-dhaois.jpg
+image: /images/2008-05-08-homosexuality-140-bliadhna-a-dhaois.webp
 
 image-caption:
 

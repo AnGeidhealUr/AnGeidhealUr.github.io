@@ -6,7 +6,7 @@ date: 2018-11-08 10:26:17
 
 title: Aonar anns gach triùir de dhaoine LCD a’ fulang burraidheachd ann an sgoil agus san àite-obrach
 
-image: /images/2018-11-08-aonar-anns-gach-triuir-de-dhaoine-lcd-a-fulang-burraidheachd-ann-an-sgoil-agus-san-aite-obrach.jpg
+image: /images/2018-11-08-aonar-anns-gach-triuir-de-dhaoine-lcd-a-fulang-burraidheachd-ann-an-sgoil-agus-san-aite-obrach.webp
 
 image-caption:
 

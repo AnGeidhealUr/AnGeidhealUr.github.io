@@ -6,7 +6,7 @@ date: 2020-05-17
 
 title: A’ chiad chàraid cho-sheòrsach gus leigheasadh IVF fhaighinn tro NHS na h-Alba an dùil ri leanabh
 
-image: /images/2020-05-17-a-chiad-charaid-cho-sheorsach-gus-leigheasadh-ivf-fhaighinn-tro-nhs-na-h-alba-an-duil-ri-leanabh.jpg
+image: /images/2020-05-17-a-chiad-charaid-cho-sheorsach-gus-leigheasadh-ivf-fhaighinn-tro-nhs-na-h-alba-an-duil-ri-leanabh.webp
 
 image-caption:
 

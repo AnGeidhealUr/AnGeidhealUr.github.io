@@ -6,7 +6,7 @@ date: 2008-03-14 17:44:38
 
 title: Càraid leasbach làn-thoilichte le ceathrar san aon bhreith
 
-image: /images/2008-03-14-caraid-leasbach-lan-thoilichte-le-ceathrar-san-aon-bhreith.jpg
+image: /images/2008-03-14-caraid-leasbach-lan-thoilichte-le-ceathrar-san-aon-bhreith.webp
 
 image-caption:
 

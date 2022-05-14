@@ -6,7 +6,7 @@ date: 2008-04-22 16:50:10
 
 title: Iomairt “ex-gay” gu bhith stèidheachadh anns a’ Chuimrigh
 
-image: /images/2008-04-22-iomairt-ex-gay-gu-bhith-steidheachadh-anns-a-chuimrigh.jpg
+image: /images/2008-04-22-iomairt-ex-gay-gu-bhith-steidheachadh-anns-a-chuimrigh.webp
 
 image-caption:
 

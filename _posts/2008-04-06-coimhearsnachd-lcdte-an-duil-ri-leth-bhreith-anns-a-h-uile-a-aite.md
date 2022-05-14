@@ -6,7 +6,7 @@ date: 2008-04-06 21:21:39
 
 title: Coimhearsnachd LCDTE an dùil ri leth-bhreith anns a h-uile àite
 
-image: /images/2008-04-06-coimhearsnachd-lcdte-an-duil-ri-leth-bhreith-anns-a-h-uile-a-aite.jpg
+image: /images/2008-04-06-coimhearsnachd-lcdte-an-duil-ri-leth-bhreith-anns-a-h-uile-a-aite.webp
 
 image-caption:
 

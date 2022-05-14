@@ -6,7 +6,7 @@ date: 2018-11-26 12:33:21
 
 title: Riaghailtean ùra gus dèiligeadh ri gràin-tar-ghnèitheachd air Twitter
 
-image: /images/2018-11-26-riaghailtean-ura-gus-deiligeadh-ri-grain-tar-ghneitheachd-air-twitter.jpg
+image: /images/2018-11-26-riaghailtean-ura-gus-deiligeadh-ri-grain-tar-ghneitheachd-air-twitter.webp
 
 image-caption:
 

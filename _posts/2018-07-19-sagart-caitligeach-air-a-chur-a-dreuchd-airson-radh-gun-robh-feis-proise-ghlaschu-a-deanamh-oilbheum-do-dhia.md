@@ -6,7 +6,7 @@ date: 2018-07-19 21:15:00
 
 title: Sagart Caitligeach air a chur à dreuchd airson ràdh gun robh fèis-pròise Ghlaschu a’ dèanamh oilbheum do Dhia
 
-image: /images/2018-07-19-sagart-caitligeach-air-a-chur-a-dreuchd-airson-radh-gun-robh-feis-proise-ghlaschu-a-deanamh-oilbheum-do-dhia.jpg
+image: /images/2018-07-19-sagart-caitligeach-air-a-chur-a-dreuchd-airson-radh-gun-robh-feis-proise-ghlaschu-a-deanamh-oilbheum-do-dhia.webp
 
 image-caption:
 

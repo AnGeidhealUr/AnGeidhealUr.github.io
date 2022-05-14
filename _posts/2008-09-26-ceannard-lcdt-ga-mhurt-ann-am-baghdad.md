@@ -6,7 +6,7 @@ date: 2008-09-26 16:25:42
 
 title: Ceannard LCDT ga mhurt ann am Baghdad
 
-image: /images/2008-09-26-ceannard-lcdt-ga-mhurt-ann-am-baghdad.jpg
+image: /images/2008-09-26-ceannard-lcdt-ga-mhurt-ann-am-baghdad.webp
 
 image-caption:
 

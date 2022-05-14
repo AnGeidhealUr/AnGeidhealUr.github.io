@@ -6,7 +6,7 @@ date: 2009-03-13 22:11:34
 
 title: Deasbad mu dhaoine co-sheòrsach a’ toirt seachad fala
 
-image: /images/2009-03-13-deasbad-mu-dhaoine-co-sheorsach-a-toirt-seachad-fala.jpg
+image: /images/2009-03-13-deasbad-mu-dhaoine-co-sheorsach-a-toirt-seachad-fala.webp
 
 image-caption:
 

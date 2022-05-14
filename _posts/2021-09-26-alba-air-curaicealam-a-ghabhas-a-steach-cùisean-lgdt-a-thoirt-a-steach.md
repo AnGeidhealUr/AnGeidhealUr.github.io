@@ -6,7 +6,7 @@ date: 2021-09-26 12:53
 
 title: Alba air curaicealam a ghabhas a-steach cùisean LGDT+ a thoirt a-steach
 
-image: /images/2021-09-26-alba-air-curaicealam-a-ghabhas-a-steach-cùisean-lgdt-a-thoirt-a-steach.jpg
+image: /images/2021-09-26-alba-air-curaicealam-a-ghabhas-a-steach-cùisean-lgdt-a-thoirt-a-steach.webp
 
 image-caption:
 

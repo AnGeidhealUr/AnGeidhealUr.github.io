@@ -6,7 +6,7 @@ date: 2008-06-12 14:46:11
 
 title: Buidheann Ameireaganach a’ toirt dòchas ùr do fhireannaich le HIV
 
-image: /images/2008-06-12-buidheann-ameireaganach-a-toirt-dochas-ur-do-fireannaich-le-hiv.jpg
+image: /images/2008-06-12-buidheann-ameireaganach-a-toirt-dochas-ur-do-fireannaich-le-hiv.webp
 
 image-caption:
 

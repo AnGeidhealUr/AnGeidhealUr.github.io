@@ -6,7 +6,7 @@ date: 2019-01-04 20:55:27
 
 title: Riaghaltas Bhreatainn air a chàineadh airson droch-làimhseachadh a dhèanamh air còirichean tar-ghnèitheach
 
-image: /images/2019-01-04-riaghaltas-bhreatainn-air-a-chaineadh-airson-droch-laimhseachadh-a-dheanamh-air-coirichean-tar-ghneitheach.jpg
+image: /images/2019-01-04-riaghaltas-bhreatainn-air-a-chaineadh-airson-droch-laimhseachadh-a-dheanamh-air-coirichean-tar-ghneitheach.webp
 
 image-caption:
 

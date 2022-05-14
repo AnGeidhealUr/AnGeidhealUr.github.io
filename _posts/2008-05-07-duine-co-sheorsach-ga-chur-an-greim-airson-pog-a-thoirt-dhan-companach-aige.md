@@ -6,7 +6,7 @@ date: 2008-05-07 10:10:52
 
 title: Duine co-sheòrsach ga chur an grèim airson pòg a thoirt dhan companach aige
 
-image: /images/2008-05-07-duine-co-sheorsach-ga-chur-an-greim-airson-pog-a-thoirt-dhan-companach-aige.jpg
+image: /images/2008-05-07-duine-co-sheorsach-ga-chur-an-greim-airson-pog-a-thoirt-dhan-companach-aige.webp
 
 image-caption:
 

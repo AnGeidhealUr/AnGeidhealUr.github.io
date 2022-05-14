@@ -6,7 +6,7 @@ date: 2011-01-01 15:45:17
 
 title: Sgoilearan Sussex a’ dèanamh sabaid air gràin-co-sheòrsachd le iomairt GRIN
 
-image: /images/2011-01-01-sgoilearan-sussex-a-deanamh-sabaid-air-grain-co-sheorsachd-le-iomairt-grin.jpg
+image: /images/2011-01-01-sgoilearan-sussex-a-deanamh-sabaid-air-grain-co-sheorsachd-le-iomairt-grin.webp
 
 image-caption:
 

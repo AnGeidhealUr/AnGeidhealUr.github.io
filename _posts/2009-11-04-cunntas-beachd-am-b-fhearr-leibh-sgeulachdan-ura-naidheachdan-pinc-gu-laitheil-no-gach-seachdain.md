@@ -6,7 +6,7 @@ date: 2009-11-04 17:05:17
 
 title: 'CUNNTAS-BEACHD: Am b’ fheàrr leibh sgeulachdan ùra Naidheachdan Pinc gu làitheil no gach seachdain?'
 
-image: /images/2009-11-04-cunntas-beachd-am-b-fhearr-leibh-sgeulachdan-ura-naidheachdan-pinc-gu-laitheil-no-gach-seachdain.jpg
+image: /images/2009-11-04-cunntas-beachd-am-b-fhearr-leibh-sgeulachdan-ura-naidheachdan-pinc-gu-laitheil-no-gach-seachdain.webp
 
 image-caption:
 

@@ -6,7 +6,7 @@ date: 2010-10-22 10:35:55
 
 title: Iomairt Facebook airson a’ chiad ceann-suidhe co-sheòrsach aig na h-Èirinn
 
-image: /images/2010-10-22-iomairt-facebook-airson-a-chiad-ceann-suidhe-co-sheorsach-aig-na-h-eirinn.jpg
+image: /images/2010-10-22-iomairt-facebook-airson-a-chiad-ceann-suidhe-co-sheorsach-aig-na-h-eirinn.webp
 
 image-caption:
 

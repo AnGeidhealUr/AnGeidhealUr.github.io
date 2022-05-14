@@ -6,7 +6,7 @@ date: 2008-10-02 21:10:55
 
 title: Google an aghaidh a’ chaisg air pòsadh aon-sheòrsach
 
-image: /images/2008-10-02-google-an-aghaidh-a-chaisg-air-posadh-aon-sheorsach.jpg
+image: /images/2008-10-02-google-an-aghaidh-a-chaisg-air-posadh-aon-sheorsach.webp
 
 image-caption:
 

@@ -6,7 +6,7 @@ date: 2009-05-26 19:11:45
 
 title: Àrd-chùirt Chalifornia a’ cumail ri Prop 8
 
-image: /images/2009-05-26-ard-chuirt-chalifornia-a-cumail-ri-prop-8.jpg
+image: /images/2009-05-26-ard-chuirt-chalifornia-a-cumail-ri-prop-8.webp
 
 image-caption:
 

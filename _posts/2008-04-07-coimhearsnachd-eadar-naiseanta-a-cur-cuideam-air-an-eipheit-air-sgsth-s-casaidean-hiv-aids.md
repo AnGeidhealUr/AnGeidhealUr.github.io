@@ -6,7 +6,7 @@ date: 2008-04-07 19:55:23
 
 title: Coimhearsnachd eadar-nàiseanta a’ cur cuideam air an Èipheit air sgàth casaidean HIV/AIDS
 
-image: /images/2008-04-07-coimhearsnachd-eadar-naiseanta-a-cur-cuideam-air-an-eipheit-air-sgsth-s-casaidean-hiv-aids.jpg
+image: /images/2008-04-07-coimhearsnachd-eadar-naiseanta-a-cur-cuideam-air-an-eipheit-air-sgsth-s-casaidean-hiv-aids.webp
 
 image-caption:
 

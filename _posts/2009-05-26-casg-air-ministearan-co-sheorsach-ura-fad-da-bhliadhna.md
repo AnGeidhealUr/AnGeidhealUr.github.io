@@ -6,7 +6,7 @@ date: 2009-05-26 19:29:09
 
 title: Casg air ministearan co-sheòrsach ùra fad dà bhliadhna
 
-image: /images/2009-05-26-casg-air-ministearan-co-sheorsach-ura-fad-da-bhliadhna.jpg
+image: /images/2009-05-26-casg-air-ministearan-co-sheorsach-ura-fad-da-bhliadhna.webp
 
 image-caption:
 

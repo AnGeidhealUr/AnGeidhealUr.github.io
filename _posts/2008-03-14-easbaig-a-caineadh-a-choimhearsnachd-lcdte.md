@@ -6,7 +6,7 @@ date: 2008-03-14 10:19:44
 
 title: Easbaig a’ càineadh a’ choimhearsnachd LCDTE
 
-image: /images/2008-03-14-easbaig-a-caineadh-a-choimhearsnachd-lcdte.jpg
+image: /images/2008-03-14-easbaig-a-caineadh-a-choimhearsnachd-lcdte.webp
 
 image-caption:
 

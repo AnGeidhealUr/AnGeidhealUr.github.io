@@ -6,7 +6,7 @@ date: 2019-09-27 16:00:00
 
 title: Inbhe athair air a dhiùltadh do thar-fhireannach
 
-image: /images/2019-09-27-inbhe-athair-air-a-dhiultadh-do-thar-fhireannach.jpg
+image: /images/2019-09-27-inbhe-athair-air-a-dhiultadh-do-thar-fhireannach.webp
 
 image-caption:
 

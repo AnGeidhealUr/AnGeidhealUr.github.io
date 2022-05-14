@@ -6,7 +6,7 @@ date: 2020-05-28
 
 title: Seirbheisean fala a’ beachdachadh air a’ chasg a th’ air fireannaich co-sheòrsach agus dà-sheòrsach a chur às
 
-image: /images/2020-05-28-seirbheisean-fala-a-beachdachadh-air-a-chasg-a-th-air-fireannaich-co-sheorsach-agus-da-sheorsach-a-chur-as.jpg
+image: /images/2020-05-28-seirbheisean-fala-a-beachdachadh-air-a-chasg-a-th-air-fireannaich-co-sheorsach-agus-da-sheorsach-a-chur-as.webp
 
 image-caption:
 

@@ -6,7 +6,7 @@ date: 2008-03-14 10:30:13
 
 title: Lagh an-aghaidh gràin-co-sheòrsachd a’ gluasad air adhart
 
-image: /images/2008-03-14-lagh-an-aghaidh-grain-co-sheorsachd-a-gluasad-air-adhart.jpg
+image: /images/2008-03-14-lagh-an-aghaidh-grain-co-sheorsachd-a-gluasad-air-adhart.webp
 
 image-caption:
 

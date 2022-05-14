@@ -6,7 +6,7 @@ date: 2021-12-01
 
 title: Casg air daoine le HIV san arm ga thogail
 
-image: /images/2021-12-01-casg-air-daoine-le-hiv-san-arm-ga-thogail.jpg
+image: /images/2021-12-01-casg-air-daoine-le-hiv-san-arm-ga-thogail.webp
 
 image-caption:
 

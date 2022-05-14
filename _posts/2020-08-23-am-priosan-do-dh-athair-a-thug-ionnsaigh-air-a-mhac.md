@@ -6,7 +6,7 @@ date: 2020-08-23
 
 title: Am prìosan do dh'athair a thug ionnsaigh air a mhac
 
-image: /images/2020-08-23-am-priosan-do-dh-athair-a-thug-ionnsaigh-air-a-mhac.jpg
+image: /images/2020-08-23-am-priosan-do-dh-athair-a-thug-ionnsaigh-air-a-mhac.webp
 
 image-caption:
 

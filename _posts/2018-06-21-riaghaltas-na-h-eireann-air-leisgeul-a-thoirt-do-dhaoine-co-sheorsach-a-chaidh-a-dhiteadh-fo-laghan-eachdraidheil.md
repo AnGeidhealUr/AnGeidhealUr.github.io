@@ -6,7 +6,7 @@ date: 2018-06-21 13:58:34
 
 title: Riaghaltas na h-Èireann air leisgeul a thoirt do dhaoine co-sheòrsach a chaidh a dhìteadh fo laghan eachdraidheil
 
-image: /images/2018-06-21-riaghaltas-na-h-eireann-air-leisgeul-a-thoirt-do-dhaoine-co-sheorsach-a-chaidh-a-dhiteadh-fo-laghan-eachdraidheil.jpg
+image: /images/2018-06-21-riaghaltas-na-h-eireann-air-leisgeul-a-thoirt-do-dhaoine-co-sheorsach-a-chaidh-a-dhiteadh-fo-laghan-eachdraidheil.webp
 
 image-caption:
 

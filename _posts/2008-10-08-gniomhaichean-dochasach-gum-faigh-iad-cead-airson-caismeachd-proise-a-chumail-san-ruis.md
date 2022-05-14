@@ -6,7 +6,7 @@ date: 2008-10-08 18:42:49
 
 title: Gnìomhaichean dòchasach gum faigh iad cead airson caismeachd pròise a chumail san Ruis
 
-image: /images/2008-10-08-gniomhaichean-dochasach-gum-faigh-iad-cead-airson-caismeachd-proise-a-chumail-san-ruis.jpg
+image: /images/2008-10-08-gniomhaichean-dochasach-gum-faigh-iad-cead-airson-caismeachd-proise-a-chumail-san-ruis.webp
 
 image-caption:
 

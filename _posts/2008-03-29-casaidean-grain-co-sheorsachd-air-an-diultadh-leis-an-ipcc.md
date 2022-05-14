@@ -6,7 +6,7 @@ date: 2008-03-29 10:30:36
 
 title: Casaidean gràin-co-sheòrsachd air an diùltadh leis an IPCC
 
-image: /images/2008-03-29-casaidean-grain-co-sheorsachd-air-an-diultadh-leis-an-ipcc.jpg
+image: /images/2008-03-29-casaidean-grain-co-sheorsachd-air-an-diultadh-leis-an-ipcc.webp
 
 image-caption:
 

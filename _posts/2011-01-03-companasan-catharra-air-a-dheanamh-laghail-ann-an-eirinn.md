@@ -6,7 +6,7 @@ date: 2011-01-03 13:09:22
 
 title: Companasan-catharra air a dhèanamh laghail ann an Èirinn
 
-image: /images/2011-01-03-companasan-catharra-air-a-dheanamh-laghail-ann-an-eirinn.jpg
+image: /images/2011-01-03-companasan-catharra-air-a-dheanamh-laghail-ann-an-eirinn.webp
 
 image-caption:
 

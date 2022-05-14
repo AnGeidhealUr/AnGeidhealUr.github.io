@@ -3,11 +3,11 @@ layout: post
 title: Lasachadh nan riaghailtean a thaobh fireannaich gèidh a’ toirt seachad fala san Fhraing agus sa’ Ghrèig
 date: 2022-01-12
 category: An t-Saoghal
-image: /images/posts/2022-01-12-lasachadh-nan-riaghailtean-a-thaobh-fireannaich-geidh-a-toirt-seachad-fala-san-fhraing-agus-sa-ghreig.jpg
+image: /images/posts/2022-01-12-lasachadh-nan-riaghailtean-a-thaobh-fireannaich-geidh-a-toirt-seachad-fala-san-fhraing-agus-sa-ghreig.webp
 author: Crìstean MacMhìcheil
 ---
 
-![]({{ site.baseurl }}/images/posts/2022-01-12-lasachadh-nan-riaghailtean-a-thaobh-fireannaich-geidh-a-toirt-seachad-fala-san-fhraing-agus-sa-ghreig.jpg)
+![]({{ site.baseurl }}/images/posts/2022-01-12-lasachadh-nan-riaghailtean-a-thaobh-fireannaich-geidh-a-toirt-seachad-fala-san-fhraing-agus-sa-ghreig.webp)
 
 Tha Riaghaltasan na Frainge agus na Grèige air casgan a bh’ air fireannaich gèidh is dà-sheòrsach bho bhith a’ toirt seachad fala a thogail.
 

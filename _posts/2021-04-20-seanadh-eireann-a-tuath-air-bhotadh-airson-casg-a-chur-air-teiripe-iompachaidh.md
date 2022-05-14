@@ -6,7 +6,7 @@ date: 2021-04-20
 
 title: Seanadh Èireann a Tuath air bhòtadh airson casg a chur air teiripe iompachaidh
 
-image: /images/2021-04-20-seanadh-eireann-a-tuath-air-bhotadh-airson-casg-a-chur-air-teiripe-iompachaidh.jpg
+image: /images/2021-04-20-seanadh-eireann-a-tuath-air-bhotadh-airson-casg-a-chur-air-teiripe-iompachaidh.webp
 
 image-caption:
 

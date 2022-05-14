@@ -6,7 +6,7 @@ date: 2009-05-25 12:25:09
 
 title: 'BBC Alba: Deasbad a’ leantainn mu Mhinistearan gèidh'
 
-image: /images/2009-05-25-bbc-alba-deasbad-a-leantainn-mu-mhinistearan-geidh.jpg
+image: /images/2009-05-25-bbc-alba-deasbad-a-leantainn-mu-mhinistearan-geidh.webp
 
 image-caption:
 

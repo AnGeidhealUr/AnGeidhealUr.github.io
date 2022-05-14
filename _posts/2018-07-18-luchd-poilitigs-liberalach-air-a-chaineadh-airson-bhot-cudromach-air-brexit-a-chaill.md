@@ -6,7 +6,7 @@ date: 2018-07-18 21:45:04
 
 title: Luchd-poilitigs Liberalach air a chàineadh airson bhòt cudromach air Brexit a chaill
 
-image: /images/2018-07-18-luchd-poilitigs-liberalach-air-a-chaineadh-airson-bhot-cudromach-air-brexit-a-chaill.jpg
+image: /images/2018-07-18-luchd-poilitigs-liberalach-air-a-chaineadh-airson-bhot-cudromach-air-brexit-a-chaill.webp
 
 image-caption:
 

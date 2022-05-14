@@ -6,7 +6,7 @@ date: 2008-04-02 10:59:53
 
 title: Neach-poileataigs air tionndadh an aghaidh PFLAG
 
-image: /images/2008-04-02-neach-poileataigs-air-tionndadh-an-aghaidh-pflag.jpg
+image: /images/2008-04-02-neach-poileataigs-air-tionndadh-an-aghaidh-pflag.webp
 
 image-caption:
 

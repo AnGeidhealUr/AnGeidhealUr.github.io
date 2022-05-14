@@ -6,7 +6,7 @@ date: 2018-07-24 12:46:59
 
 title: Juice1038 na chiad stèisean rèidio LCDTE ann an Èirinn a Tuath
 
-image: /images/2018-07-24-juice1038-na-chiad-steisean-reidio-lcdte-ann-an-eirinn-a-tuath.jpg
+image: /images/2018-07-24-juice1038-na-chiad-steisean-reidio-lcdte-ann-an-eirinn-a-tuath.webp
 
 image-caption:
 

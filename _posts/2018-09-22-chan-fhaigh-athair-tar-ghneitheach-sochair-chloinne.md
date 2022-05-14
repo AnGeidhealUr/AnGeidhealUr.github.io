@@ -6,7 +6,7 @@ date: 2018-09-22 07:59:45
 
 title: Chan fhaigh athair tar-ghnèitheach sochair-chloinne
 
-image: /images/2018-09-22-chan-fhaigh-athair-tar-ghneitheach-sochair-chloinne.jpg
+image: /images/2018-09-22-chan-fhaigh-athair-tar-ghneitheach-sochair-chloinne.webp
 
 image-caption:
 

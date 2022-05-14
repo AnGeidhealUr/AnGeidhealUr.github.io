@@ -6,7 +6,7 @@ date: 2008-04-08 18:10:07
 
 title: Cardiff an dùil ri fèis-pròise a chumail am bliadhna
 
-image: /images/2008-04-08-cardiffan-duil-ri-feis-proise-a-chumail-am-bliadhna.jpg
+image: /images/2008-04-08-cardiffan-duil-ri-feis-proise-a-chumail-am-bliadhna.webp
 
 image-caption:
 

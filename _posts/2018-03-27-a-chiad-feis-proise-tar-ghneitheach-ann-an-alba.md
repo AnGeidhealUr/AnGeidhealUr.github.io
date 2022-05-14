@@ -6,7 +6,7 @@ date: 2018-03-27 19:57:22
 
 title: A’ Chiad Fèis-pròise Tar-ghnèitheach ann an Alba
 
-image: /images/2018-03-27-a-chiad-feis-proise-tar-ghneitheach-ann-an-alba.jpg
+image: /images/2018-03-27-a-chiad-feis-proise-tar-ghneitheach-ann-an-alba.webp
 
 image-caption:
 

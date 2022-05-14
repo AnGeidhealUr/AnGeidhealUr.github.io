@@ -6,7 +6,7 @@ date: 2018-11-09 14:36:50
 
 title: Cùisean LCDTE ri theagaisg ann an sgoiltean Albannach airson a’ chiad turas
 
-image: /images/2018-11-09-cuisean-lcdte-ri-theagaisg-ann-an-sgoiltean-albannach-airson-a-chiad-turas.jpg
+image: /images/2018-11-09-cuisean-lcdte-ri-theagaisg-ann-an-sgoiltean-albannach-airson-a-chiad-turas.webp
 
 image-caption:
 

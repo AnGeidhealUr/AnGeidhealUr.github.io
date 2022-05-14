@@ -6,7 +6,7 @@ date: 2019-01-04 15:57:05
 
 title: Dìreach dà chàraid aon-sheòrsach air leanabh uchd-mhacachadh ann an Èirinn a Tuath o chionn 2013
 
-image: /images/2019-01-04-direach-da-charaid-aon-sheorsach-air-leanabh-uchd-mhacachadh-ann-an-eirinn-a-tuath-o-chionn-2013.jpg
+image: /images/2019-01-04-direach-da-charaid-aon-sheorsach-air-leanabh-uchd-mhacachadh-ann-an-eirinn-a-tuath-o-chionn-2013.webp
 
 image-caption:
 

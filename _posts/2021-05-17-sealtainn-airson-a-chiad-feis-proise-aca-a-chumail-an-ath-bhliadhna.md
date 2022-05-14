@@ -6,7 +6,7 @@ date: 2021-05-17
 
 title: Sealtainn airson a' chiad fèis-pròise aca a chumail an ath-bhliadhna
 
-image: /images/2021-05-17-sealtainn-airson-a-chiad-feis-proise-aca-a-chumail-an-ath-bhliadhna.jpg
+image: /images/2021-05-17-sealtainn-airson-a-chiad-feis-proise-aca-a-chumail-an-ath-bhliadhna.webp
 
 image-caption:
 

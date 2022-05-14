@@ -6,7 +6,7 @@ date: 2019-04-16 14:32
 
 title: Prògram aithriseach ùr a’ soillseachadh beathannan banrighrean-draga Ghlaschu
 
-image: /images/2019-04-16-program-aithriseach-a-soillseachadh-beathannan-banrighrean-draga-ghlaschu.jpg
+image: /images/2019-04-16-program-aithriseach-a-soillseachadh-beathannan-banrighrean-draga-ghlaschu.webp
 
 image-caption:
 

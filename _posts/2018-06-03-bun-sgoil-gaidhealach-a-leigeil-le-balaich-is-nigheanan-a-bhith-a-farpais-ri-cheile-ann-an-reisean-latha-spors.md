@@ -6,7 +6,7 @@ date: 2018-06-03 19:03:11
 
 title: Bun-sgoil Gàidhealach a’ leigeil le balaich is nigheanan a bhith a’ farpais ri chèile ann an rèisean latha-spòrs
 
-image: /images/2018-06-03-bun-sgoil-gaidhealach-a-leigeil-le-balaich-is-nigheanan-a-bhith-a-farpais-ri-cheile-ann-an-reisean-latha-spors.jpg
+image: /images/2018-06-03-bun-sgoil-gaidhealach-a-leigeil-le-balaich-is-nigheanan-a-bhith-a-farpais-ri-cheile-ann-an-reisean-latha-spors.webp
 
 image-caption:
 

@@ -6,7 +6,7 @@ date: 2008-04-15 09:45:02
 
 title: 'BBC Alba: Deasbad mu dhaoine gèidh a’ toirt seachad fala'
 
-image: /images/2008-04-15-bbc-alba-deasbad-mu-dhaoine-geidh-a-toirt-seachad-fala.jpg
+image: /images/2008-04-15-bbc-alba-deasbad-mu-dhaoine-geidh-a-toirt-seachad-fala.webp
 
 image-caption:
 

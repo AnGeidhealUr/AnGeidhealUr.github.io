@@ -6,7 +6,7 @@ date: 2020-09-13
 
 title: Ministearan Èireann a Tuath a' toirt taic do chasg air teiripe iompachadh co-sheòrsachd
 
-image: /images/2020-09-13-ministearan-eireann-a-tuath-a-toirt-taic-do-chasg-air-teiripe-iompachadh-co-sheorsachd.jpg
+image: /images/2020-09-13-ministearan-eireann-a-tuath-a-toirt-taic-do-chasg-air-teiripe-iompachadh-co-sheorsachd.webp
 
 image-caption:
 

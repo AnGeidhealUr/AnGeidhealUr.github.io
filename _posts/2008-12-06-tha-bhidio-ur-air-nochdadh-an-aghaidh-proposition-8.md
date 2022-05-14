@@ -6,7 +6,7 @@ date: 2008-12-06 23:11:27
 
 title: Tha bhidio ùr air nochdadh an aghaidh Proposition 8
 
-image: /images/2008-12-06-tha-bhidio-ur-air-nochdadh-an-aghaidh-proposition-8.jpg
+image: /images/2008-12-06-tha-bhidio-ur-air-nochdadh-an-aghaidh-proposition-8.webp
 
 image-caption:
 

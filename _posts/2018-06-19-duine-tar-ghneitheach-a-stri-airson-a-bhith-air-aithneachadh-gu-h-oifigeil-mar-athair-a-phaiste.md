@@ -6,7 +6,7 @@ date: 2018-06-19 14:28:13
 
 title: Duine tar-ghnèitheach a’ strì airson a bhith air aithneachadh gu h-oifigeil mar athair a phàiste
 
-image: /images/2018-06-19-duine-tar-ghneitheach-a-stri-airson-a-bhith-air-aithneachadh-gu-h-oifigeil-mar-athair-a-phaiste.jpg
+image: /images/2018-06-19-duine-tar-ghneitheach-a-stri-airson-a-bhith-air-aithneachadh-gu-h-oifigeil-mar-athair-a-phaiste.webp
 
 image-caption:
 

@@ -6,7 +6,7 @@ date: 2009-03-14 20:33:39
 
 title: Bile Gnè Mhanainneach air gluasad air adhart
 
-image: /images/2009-03-14-bile-gne-mhanainneach-air-gluasad-air-adhart.jpg
+image: /images/2009-03-14-bile-gne-mhanainneach-air-gluasad-air-adhart.webp
 
 image-caption:
 

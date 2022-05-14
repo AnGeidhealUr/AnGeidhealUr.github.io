@@ -6,7 +6,7 @@ date: 2008-03-17 18:31:22
 
 title: Buidheann Irish Queers a’ togail fianais an aghaidh caismeachd Naomh Pàdraig
 
-image: /images/2008-03-17-buidheann-irish-queers-a-togail-fianai-an-aghaidh-caismeachd-naomh-padraig.jpg
+image: /images/2008-03-17-buidheann-irish-queers-a-togail-fianai-an-aghaidh-caismeachd-naomh-padraig.webp
 
 image-caption:
 

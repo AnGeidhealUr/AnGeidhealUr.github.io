@@ -6,7 +6,7 @@ date: 2008-07-25 17:49:16
 
 title: Luchd-saidheans air laigse aig HIV lorg
 
-image: /images/2008-07-25-luchd-saidheans-air-laigse-aig-hiv-lorg.jpg
+image: /images/2008-07-25-luchd-saidheans-air-laigse-aig-hiv-lorg.webp
 
 image-caption:
 

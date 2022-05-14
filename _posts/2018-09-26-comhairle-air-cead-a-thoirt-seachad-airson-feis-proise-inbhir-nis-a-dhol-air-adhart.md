@@ -6,7 +6,7 @@ date: 2018-09-26 13:00:10
 
 title: Comhairle air cead a thoirt seachad airson Fèis-pròise Inbhir Nis a dhol air adhart
 
-image: /images/2018-09-26-comhairle-air-cead-a-thoirt-seachad-airson-feis-proise-inbhir-nis-a-dhol-air-adhart.jpg
+image: /images/2018-09-26-comhairle-air-cead-a-thoirt-seachad-airson-feis-proise-inbhir-nis-a-dhol-air-adhart.webp
 
 image-caption:
 

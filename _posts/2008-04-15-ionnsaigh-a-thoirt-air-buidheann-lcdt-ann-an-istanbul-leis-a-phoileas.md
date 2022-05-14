@@ -6,7 +6,7 @@ date: 2008-04-15 08:35:40
 
 title: Ionnsaigh a thoirt air buidheann LCDT ann an Istanbul leis a’ Phoileas
 
-image: /images/2008-04-15-ionnsaigh-a-thoirt-air-buidheann-lcdt-ann-an-istanbul-leis-a-phoileas.jpg
+image: /images/2008-04-15-ionnsaigh-a-thoirt-air-buidheann-lcdt-ann-an-istanbul-leis-a-phoileas.webp
 
 image-caption:
 

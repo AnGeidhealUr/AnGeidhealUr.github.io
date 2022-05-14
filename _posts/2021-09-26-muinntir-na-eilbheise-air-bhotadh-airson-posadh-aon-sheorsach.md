@@ -6,7 +6,7 @@ date: 2021-09-26 20:15
 
 title: Muinntir na h-Eilbheise air bhòtadh airson pòsadh aon-sheòrsach
 
-image: /images/2021-09-26-muinntir-na-eilbheise-air-bhotadh-airson-posadh-aon-sheorsach.jpg
+image: /images/2021-09-26-muinntir-na-eilbheise-air-bhotadh-airson-posadh-aon-sheorsach.webp
 
 image-caption:
 

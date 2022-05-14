@@ -3,11 +3,11 @@ layout: post
 title: Cha bu chòir do dh’Alba feitheamh gus casg a chur air teiripe iompachaidh
 date: 2022-01-30 14:45
 category: Alba
-image: /images/posts/2022-01-30-cha-bu-choir-do-dhalba-feitheamh-gus-casg-a-chur-air-teiripe-iompachaidh.jpg
+image: /images/posts/2022-01-30-cha-bu-choir-do-dhalba-feitheamh-gus-casg-a-chur-air-teiripe-iompachaidh.webp
 author: Crìstean MacMhìcheil
 ---
 
-![]({{ site.baseurl }}/images/posts/2022-01-30-cha-bu-choir-do-dhalba-feitheamh-gus-casg-a-chur-air-teiripe-iompachaidh.jpg)
+![]({{ site.baseurl }}/images/posts/2022-01-30-cha-bu-choir-do-dhalba-feitheamh-gus-casg-a-chur-air-teiripe-iompachaidh.webp)
 
 Thuirt Comataidh Co-ionannachd, Chòraichean Daonna agus Ceartais Shìobhalta aig Taigh an Ròid ann an aithisg ùr na bu thràithe an seachdain seo, nach bu chòir do Riaghaltas na h-Alba feitheamh gus molaidhean Riaghaltas na RA a chluinntinn mus cuir iad casg air teiripe iompachaidh an Alba.
 

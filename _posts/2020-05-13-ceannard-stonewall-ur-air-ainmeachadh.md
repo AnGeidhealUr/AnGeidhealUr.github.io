@@ -6,7 +6,7 @@ date: 2020-05-13
 
 title: Ceannard Stonewall ùr air ainmeachadh
 
-image: /images/2020-05-13-ceannard-stonewall-ur-air-ainmeachadh.jpg
+image: /images/2020-05-13-ceannard-stonewall-ur-air-ainmeachadh.webp
 
 image-caption:
 

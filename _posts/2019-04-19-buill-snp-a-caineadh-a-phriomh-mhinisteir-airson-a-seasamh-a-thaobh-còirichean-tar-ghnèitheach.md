@@ -6,7 +6,7 @@ date: 2019-04-19 17:50
 
 title: Buill SNP a’ càineadh a’ Prìomh Mhinisteir airson a seasamh a thaobh còirichean tar-ghnèitheach
 
-image: /images/2019-04-19-buill-snp-a-caineadh-a-phriomh-mhinisteir-airson-a-seasamh-a-thaobh-còirichean-tar-ghnèitheach.jpg
+image: /images/2019-04-19-buill-snp-a-caineadh-a-phriomh-mhinisteir-airson-a-seasamh-a-thaobh-còirichean-tar-ghnèitheach.webp
 
 image-caption:
 
@@ -30,7 +30,7 @@ Chaidh na teachdaireachdan a lorg a lorg ann an còmhradh prìobhaideach air Twi
 
 Anns na teachdaireachdan, a ghabhas a leughadh gu h-ìseal, tha Ash Denham, Ruth Maguire agus Gillian Martin a’ deasbad ma tha Nicola Sturgeon a’ dol an-aghaidh faireachdainn a’ phàrtaidh a-thaobh ath-leasachaidhean gnè as dèidh i ràdh nach eil i a’ faicinn barrachd aithneachadh air còirichean tar-ghnèitheach mar chunnart dhi mar bhoireannach neo mar fheimineach.
 
-![](/images/2019-04-19-buill-snp-a-caineadh-a-phriomh-mhinisteir-airson-a-seasamh-a-thaobh-còirichean-tar-ghnèitheach-02.jpg){: .post-image }
+![](/images/2019-04-19-buill-snp-a-caineadh-a-phriomh-mhinisteir-airson-a-seasamh-a-thaobh-còirichean-tar-ghnèitheach-02.webp){: .post-image }
 
 ‘S e Ruth Maguire BPA airson Coineagan a Deas agus ‘s i Neach-gairm Comataidh Co-ionannachd is Còireachan Daonna ann am Pàrlamaid na h-Alba. Bhiodh uallach oirre sgrùdadh èifeachdach agus cothromach air atharrachaidhean sam bith a mhol an Riaghaltas dhan Achd Aithne Gnè.
 

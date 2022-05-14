@@ -6,7 +6,7 @@ date: 2008-03-27 08:52:10
 
 title: Duine trom air bruidhinn a-mach an aghaidh Seirbheis Slàinte claon-breitheach
 
-image: /images/2008-03-27-duine-trom-air-bruidhinn-a-mach-an-aghaidh-seirbheis-slainte-claon-breitheach.jpg
+image: /images/2008-03-27-duine-trom-air-bruidhinn-a-mach-an-aghaidh-seirbheis-slainte-claon-breitheach.webp
 
 image-caption:
 

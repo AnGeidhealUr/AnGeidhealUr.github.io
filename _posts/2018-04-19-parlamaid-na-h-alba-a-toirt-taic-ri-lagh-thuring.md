@@ -6,7 +6,7 @@ date: 2018-04-19 13:39:27
 
 title: Pàrlamaid na h-Alba a’ toirt taic ri Lagh Thuring
 
-image: /images/2018-04-19-parlamaid-na-h-alba-a-toirt-taic-ri-lagh-thuring.jpg
+image: /images/2018-04-19-parlamaid-na-h-alba-a-toirt-taic-ri-lagh-thuring.webp
 
 image-caption:
 

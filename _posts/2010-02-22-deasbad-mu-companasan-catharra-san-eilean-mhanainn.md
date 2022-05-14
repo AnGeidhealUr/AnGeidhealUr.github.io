@@ -6,7 +6,7 @@ date: 2010-02-22 21:04:46
 
 title: Deasbad mu companasan-catharra san Eilean Mhanainn
 
-image: /images/2010-02-22-deasbad-mu-companasan-catharra-san-eilean-mhanainn.jpg
+image: /images/2010-02-22-deasbad-mu-companasan-catharra-san-eilean-mhanainn.webp
 
 image-caption:
 

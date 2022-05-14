@@ -6,7 +6,7 @@ date: 2018-11-02 20:58:33
 
 title: Còrr is $3000 air a thogail airson leabhraichean cloinne LCDT+ a thoirt ri leabharlann Ameireaganach
 
-image: /images/2018-11-02-corr-is-3000-air-a-thogail-airson-leabhraichean-cloinne-lcdt-a-thoirt-ri-leabharlann-ameireaganach.jpg
+image: /images/2018-11-02-corr-is-3000-air-a-thogail-airson-leabhraichean-cloinne-lcdt-a-thoirt-ri-leabharlann-ameireaganach.webp
 
 image-caption:
 

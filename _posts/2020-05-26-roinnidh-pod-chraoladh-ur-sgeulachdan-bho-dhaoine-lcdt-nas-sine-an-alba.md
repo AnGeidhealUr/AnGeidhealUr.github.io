@@ -6,7 +6,7 @@ date: 2020-05-26
 
 title: Roinnidh pod-chraoladh ùr sgeulachdan bho dhaoine LCDT+ nas sìne an Alba
 
-image: /images/2020-05-26-roinnidh-pod-chraoladh-ur-sgeulachdan-bho-dhaoine-lcdt-nas-sine-an-alba.PNG
+image: /images/2020-05-26-roinnidh-pod-chraoladh-ur-sgeulachdan-bho-dhaoine-lcdt-nas-sine-an-alba.webp
 
 image-caption:
 

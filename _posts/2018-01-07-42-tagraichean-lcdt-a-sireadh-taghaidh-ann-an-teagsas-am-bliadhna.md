@@ -6,7 +6,7 @@ date: 2018-01-07 18:02:27
 
 title: 42 tagraichean LCDT+ a’ sireadh taghaidh ann an Teagsas am bliadhna
 
-image: /images/2018-01-07-42-tagraichean-lcdt-a-sireadh-taghaidh-ann-an-teagsas-am-bliadhna.jpg
+image: /images/2018-01-07-42-tagraichean-lcdt-a-sireadh-taghaidh-ann-an-teagsas-am-bliadhna.webp
 
 image-caption:
 

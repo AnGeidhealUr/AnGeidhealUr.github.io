@@ -6,7 +6,7 @@ date: 2009-01-16 10:40:10
 
 title: Athchuinge airson pòsadh aon-sheòrsach air a thoirt gu Pàrlamaid na h-Alba
 
-image: /images/2009-01-16-athchuinge-airson-posadh-aon-sheorsach-air-a-thoirt-gu-parlamaid-na-h-alba.jpg
+image: /images/2009-01-16-athchuinge-airson-posadh-aon-sheorsach-air-a-thoirt-gu-parlamaid-na-h-alba.webp
 
 image-caption:
 

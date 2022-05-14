@@ -6,7 +6,7 @@ date: 2008-04-02 10:43:52
 
 title: Buidheann co-ionannachd gu bhith a’ dèanamh prìomhachas air cùisean-lagh a-thaobh gnèitheachd
 
-image: /images/2008-04-02-buidheann-co-ionannachd-gu-bhith-a-deanamh-priomhachas-air-cuisean-lagh-a-thaobh-gneitheachd.jpg
+image: /images/2008-04-02-buidheann-co-ionannachd-gu-bhith-a-deanamh-priomhachas-air-cuisean-lagh-a-thaobh-gneitheachd.webp
 
 image-caption:
 

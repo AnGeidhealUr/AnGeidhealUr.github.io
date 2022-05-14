@@ -6,7 +6,7 @@ date: 2008-03-17 11:06:56
 
 title: Nirribhidh a’ dèanamh pòsaidhean aon-sheòrsach laghail
 
-image: /images/2008-03-17-nirribhidh-a-deanamh-posaidhean-aon-sheorsach-laghail.jpg
+image: /images/2008-03-17-nirribhidh-a-deanamh-posaidhean-aon-sheorsach-laghail.webp
 
 image-caption:
 

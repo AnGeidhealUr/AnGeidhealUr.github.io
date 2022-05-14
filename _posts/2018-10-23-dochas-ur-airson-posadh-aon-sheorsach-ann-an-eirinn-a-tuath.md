@@ -6,7 +6,7 @@ date: 2018-10-23 12:16:39
 
 title: Dòchas ùr airson pòsadh aon-sheòrsach ann an Èirinn a Tuath
 
-image: /images/2018-10-23-dochas-ur-airson-posadh-aon-sheorsach-ann-an-eirinn-a-tuath.jpg
+image: /images/2018-10-23-dochas-ur-airson-posadh-aon-sheorsach-ann-an-eirinn-a-tuath.webp
 
 image-caption:
 

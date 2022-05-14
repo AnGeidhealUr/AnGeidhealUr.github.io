@@ -6,7 +6,7 @@ date: 2008-03-14 09:54:55
 
 title: Buidheann LCDT Grèigeach air beàrn a lorg ann an laghan pòsaidh
 
-image: /images/2008-03-14-buidheann-lcdt-greigeach-air-bearn-a-lorg-ann-an-laghan-posaidh.jpg
+image: /images/2008-03-14-buidheann-lcdt-greigeach-air-bearn-a-lorg-ann-an-laghan-posaidh.webp
 
 image-caption:
 

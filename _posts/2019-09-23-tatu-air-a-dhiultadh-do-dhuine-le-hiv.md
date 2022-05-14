@@ -6,7 +6,7 @@ date: 2019-09-23 06:53:00
 
 title: Tatù air a dhiùltadh do dhuine le HIV
 
-image: /images/2019-09-23-tatu-air-a-dhiultadh-do-dhuine-le-hiv.jpg
+image: /images/2019-09-23-tatu-air-a-dhiultadh-do-dhuine-le-hiv.webp
 
 image-caption:
 

@@ -6,7 +6,7 @@ date: 2018-09-19 10:32:24
 
 title: Corr ’s 14,000 air na h-ainmean aca a chur ri athchuingean airson Fèis-pròise Inbhir Nis a dhol air adhart
 
-image: /images/2018-09-19-corr-s-14000-air-na-h-ainmean-aca-a-chur-ri-athchuingean-airson-feis-proise-inbhir-nis-a-dhol-air-adhart.jpg
+image: /images/2018-09-19-corr-s-14000-air-na-h-ainmean-aca-a-chur-ri-athchuingean-airson-feis-proise-inbhir-nis-a-dhol-air-adhart.webp
 
 image-caption:
 

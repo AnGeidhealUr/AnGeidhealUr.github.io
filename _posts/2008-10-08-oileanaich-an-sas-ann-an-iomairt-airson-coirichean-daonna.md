@@ -6,7 +6,7 @@ date: 2008-10-08 19:13:13
 
 title: Oileanaich an sas ann an iomairt airson còirichean daonna
 
-image: /images/2008-10-08-oileanaich-an-sas-ann-an-iomairt-airson-coirichean-daonna.jpg
+image: /images/2008-10-08-oileanaich-an-sas-ann-an-iomairt-airson-coirichean-daonna.webp
 
 image-caption:
 

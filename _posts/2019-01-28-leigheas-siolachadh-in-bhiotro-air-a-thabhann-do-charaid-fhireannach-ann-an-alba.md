@@ -6,7 +6,7 @@ date: 2019-01-28 19:51:39
 
 title: Leigheas sìolachadh in-bhiotro air a thabhann do chàraid fhireannach ann an Alba
 
-image: /images/2019-01-28-leigheas-siolachadh-in-bhiotro-air-a-thabhann-do-charaid-fhireannach-ann-an-alba.jpg
+image: /images/2019-01-28-leigheas-siolachadh-in-bhiotro-air-a-thabhann-do-charaid-fhireannach-ann-an-alba.webp
 
 image-caption:
 

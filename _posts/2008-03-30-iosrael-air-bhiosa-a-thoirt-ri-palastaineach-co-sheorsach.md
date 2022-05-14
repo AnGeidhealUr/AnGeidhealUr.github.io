@@ -6,7 +6,7 @@ date: 2008-03-30 11:24:35
 
 title: Iosrael air bhìosa a thorit ri Palastaineach co-sheòrsach
 
-image: /images/2008-03-30-iosrael-air-bhiosa-a-thoirt-ri-palastaineach-co-sheorsach.jpg
+image: /images/2008-03-30-iosrael-air-bhiosa-a-thoirt-ri-palastaineach-co-sheorsach.webp
 
 image-caption:
 

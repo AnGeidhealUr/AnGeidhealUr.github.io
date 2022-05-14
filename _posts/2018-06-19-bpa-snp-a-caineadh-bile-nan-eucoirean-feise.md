@@ -6,7 +6,7 @@ date: 2018-06-19 10:52:16
 
 title: BPA SNP a’ càineadh Bile nan Eucoirean Feise
 
-image: /images/2018-06-19-bpa-snp-a-caineadh-bile-nan-eucoirean-feise.jpg
+image: /images/2018-06-19-bpa-snp-a-caineadh-bile-nan-eucoirean-feise.webp
 
 image-caption:
 

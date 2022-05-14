@@ -6,7 +6,7 @@ date: 2009-04-05 19:02:10
 
 title: Sianar co-sheòrsach air am murt ann an Ioràc
 
-image: /images/2009-04-05-sianar-co-sheorsach-air-am-murt-ann-an-iorac.jpg
+image: /images/2009-04-05-sianar-co-sheorsach-air-am-murt-ann-an-iorac.webp
 
 image-caption:
 

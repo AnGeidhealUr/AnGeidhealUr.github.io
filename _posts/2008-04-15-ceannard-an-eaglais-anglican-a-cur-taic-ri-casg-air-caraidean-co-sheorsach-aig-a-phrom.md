@@ -6,7 +6,7 @@ date: 2008-04-15 08:22:56
 
 title: Ceannard an Eaglais Anglican a’ cur taic ri casg air càraidean co-sheòrsach aig a’ Phrom
 
-image: /images/2008-04-15-ceannard-an-eaglais-anglican-a-cur-taic-ri-casg-air-caraidean-co-sheorsach-aig-a-phrom.jpg
+image: /images/2008-04-15-ceannard-an-eaglais-anglican-a-cur-taic-ri-casg-air-caraidean-co-sheorsach-aig-a-phrom.webp
 
 image-caption:
 

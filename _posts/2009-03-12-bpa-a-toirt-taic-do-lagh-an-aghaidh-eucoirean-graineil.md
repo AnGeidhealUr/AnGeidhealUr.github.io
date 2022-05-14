@@ -6,7 +6,7 @@ date: 2009-03-12 21:06:32
 
 title: BPA a’ toirt taic do lagh an-aghaidh eucoirean gràineil
 
-image: /images/2009-03-12-bpa-a-toirt-taic-do-lagh-an-aghaidh-eucoirean-graineil.jpg
+image: /images/2009-03-12-bpa-a-toirt-taic-do-lagh-an-aghaidh-eucoirean-graineil.webp
 
 image-caption:
 

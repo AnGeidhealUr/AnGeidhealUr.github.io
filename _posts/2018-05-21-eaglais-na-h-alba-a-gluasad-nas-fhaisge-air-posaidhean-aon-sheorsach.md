@@ -6,7 +6,7 @@ date: 2018-05-21 18:22:52
 
 title: Eaglais na h-Alba a’ gluasad nas fhaisge air pòsaidhean aon-sheòrsach
 
-image: /images/2018-05-21-eaglais-na-h-alba-a-gluasad-nas-fhaisge-air-posaidhean-aon-sheorsach.jpg
+image: /images/2018-05-21-eaglais-na-h-alba-a-gluasad-nas-fhaisge-air-posaidhean-aon-sheorsach.webp
 
 image-caption:
 

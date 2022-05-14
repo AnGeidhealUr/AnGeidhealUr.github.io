@@ -6,7 +6,7 @@ date: 2008-04-30 19:34:14
 
 title: 'Colin & Justin air phòsadh ann an seirbheis dìomhair'
 
-image: /images/2008-04-30-colin-justin-air-phosadh-ann-an-seirbheis-diomhair.jpg
+image: /images/2008-04-30-colin-justin-air-phosadh-ann-an-seirbheis-diomhair.webp
 
 image-caption:
 

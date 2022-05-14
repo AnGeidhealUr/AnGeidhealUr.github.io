@@ -6,7 +6,7 @@ date: 2008-04-08 19:29:20
 
 title: Lìon-sòisealta ùr do phàrantan LCDT
 
-image: /images/2008-04-08-lion-soisealta-ur-do-pharantan-lcdt.jpg
+image: /images/2008-04-08-lion-soisealta-ur-do-pharantan-lcdt.webp
 
 image-caption:
 

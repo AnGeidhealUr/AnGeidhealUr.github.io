@@ -6,7 +6,7 @@ date: 2008-10-04 12:27:21
 
 title: Mormonaich mì-shoilleir a-thaobh pòsadh aon-sheòrsach
 
-image: /images/2008-10-04-mormonaich-mi-shoilleir-a-thaobh-posadh-aon-sheorsach.jpg
+image: /images/2008-10-04-mormonaich-mi-shoilleir-a-thaobh-posadh-aon-sheorsach.webp
 
 image-caption:
 

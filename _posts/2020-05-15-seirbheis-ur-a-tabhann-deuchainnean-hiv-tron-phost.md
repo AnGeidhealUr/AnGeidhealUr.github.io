@@ -6,7 +6,7 @@ date: 2020-05-15
 
 title: Seirbheis ùr a' tabhann deuchainnean HIV tron phost
 
-image: /images/2020-05-15-seirbheis-ur-a-tabhann-deuchainnean-hiv-tron-phost.PNG
+image: /images/2020-05-15-seirbheis-ur-a-tabhann-deuchainnean-hiv-tron-phost.webp
 
 image-caption:
 

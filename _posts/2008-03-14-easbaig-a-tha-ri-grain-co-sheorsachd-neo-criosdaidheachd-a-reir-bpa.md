@@ -6,7 +6,7 @@ date: 2008-03-14 16:58:48
 
 title: Easbaig a tha ri gràin-co-sheòrsachd neo-criosdaidheachd a rèir BPA
 
-image: /images/2008-03-14-easbaig-a-tha-ri-grain-co-sheorsachd-neo-criosdaidheachd-a-reir-bpa.jpg
+image: /images/2008-03-14-easbaig-a-tha-ri-grain-co-sheorsachd-neo-criosdaidheachd-a-reir-bpa.webp
 
 image-caption:
 

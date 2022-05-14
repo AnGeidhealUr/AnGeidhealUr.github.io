@@ -6,7 +6,7 @@ date: 2020-07-18
 
 title: Eagraichean Fèis-pròise na Còirne air na draghan aca mun Achd Aithneachadh Gnè a chur an cèill ann an litir fosgailte do Bhuill-phàrlamaid
 
-image: /images/2020-07-18-eagraichean-feis-proise-na-coirne-air-na-draghan-aca-mun-achd-aithneachadh-gne-a-chur-an-ceill-ann-an-litir-fosgailte-do-bhuill-pharlamaid.jpg
+image: /images/2020-07-18-eagraichean-feis-proise-na-coirne-air-na-draghan-aca-mun-achd-aithneachadh-gne-a-chur-an-ceill-ann-an-litir-fosgailte-do-bhuill-pharlamaid.webp
 
 image-caption:
 

@@ -6,7 +6,7 @@ date: 2018-11-19 17:23:34
 
 title: Poileas Alba ri sùil a thoirt air ionmhas Fèis-pròise Ghlaschu
 
-image: /images/2018-11-19-poileas-alba-ri-suil-a-thoirt-air-ionmhas-feis-proise-ghlaschu.jpg
+image: /images/2018-11-19-poileas-alba-ri-suil-a-thoirt-air-ionmhas-feis-proise-ghlaschu.webp
 
 image-caption:
 

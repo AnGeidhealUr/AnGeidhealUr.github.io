@@ -6,7 +6,7 @@ date: 2019-05-31 16:49
 
 title: Cha tèid bratach a' bhogha-fhroise a thaisbeanadh le CNES rè Fèis-pròise na h-Innse Gall
 
-image: /images/2019-05-31-cha-teid-bratach-a-bhogha-fhroise-a-thaisbeanadh-le-cnes-re-feis-proise-na-h-innse-gall.jpg
+image: /images/2019-05-31-cha-teid-bratach-a-bhogha-fhroise-a-thaisbeanadh-le-cnes-re-feis-proise-na-h-innse-gall.webp
 
 image-caption:
 

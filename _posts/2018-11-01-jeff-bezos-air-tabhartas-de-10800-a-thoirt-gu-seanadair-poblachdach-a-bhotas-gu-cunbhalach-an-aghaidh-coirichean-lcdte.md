@@ -6,7 +6,7 @@ date: 2018-11-01 19:25:30
 
 title: Jeff Bezos air tabhartas de $10,800 a thoirt gu Seanadair Poblachdach a bhòtas gu cunbhalach an aghaidh còirichean LCDTE+
 
-image: /images/2018-11-01-jeff-bezos-air-tabhartas-de-10800-a-thoirt-gu-seanadair-poblachdach-a-bhotas-gu-cunbhalach-an-aghaidh-coirichean-lcdte.jpg
+image: /images/2018-11-01-jeff-bezos-air-tabhartas-de-10800-a-thoirt-gu-seanadair-poblachdach-a-bhotas-gu-cunbhalach-an-aghaidh-coirichean-lcdte.webp
 
 image-caption:
 

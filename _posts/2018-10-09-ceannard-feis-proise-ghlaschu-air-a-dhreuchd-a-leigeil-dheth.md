@@ -6,7 +6,7 @@ date: 2018-10-09 13:34:57
 
 title: Ceannard Fèis-pròise Ghlaschu air a dhreuchd a leigeil dheth
 
-image: /images/2018-10-09-ceannard-feis-proise-ghlaschu-air-a-dhreuchd-a-leigeil-dheth.jpg
+image: /images/2018-10-09-ceannard-feis-proise-ghlaschu-air-a-dhreuchd-a-leigeil-dheth.webp
 
 image-caption:
 

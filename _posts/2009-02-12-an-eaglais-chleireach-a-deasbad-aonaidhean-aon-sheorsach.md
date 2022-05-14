@@ -6,7 +6,7 @@ date: 2009-02-12 13:34:38
 
 title: An Eaglais Chlèireach a’ deasbad aonaidhean aon-sheòrsach
 
-image: /images/2009-02-12-an-eaglais-chleireach-a-deasbad-aonaidhean-aon-sheorsach.jpg
+image: /images/2009-02-12-an-eaglais-chleireach-a-deasbad-aonaidhean-aon-sheorsach.webp
 
 image-caption:
 

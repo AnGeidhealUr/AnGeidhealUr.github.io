@@ -6,7 +6,7 @@ date: 2018-03-20 20:53:48
 
 title: Càineadh mu phostair oilbheumach ann an taigh-seinnse Lìteach
 
-image: /images/2018-03-20-caineadh-mu-phostair-oilbheumach-ann-an-taigh-seinnse-liteach.jpg
+image: /images/2018-03-20-caineadh-mu-phostair-oilbheumach-ann-an-taigh-seinnse-liteach.webp
 
 image-caption:
 
@@ -27,7 +27,7 @@ Chaidh càineadh a dhèanamh air an taigh-seinnse The Office ann an Lìte mu pho
 
 Tha am postair air ainmeachadh Office Banter agus e a&#8217; liostadh diofar abhcaidean a tha gràin-chinnidheach, gnèithealach agus gràineil ri luchd-LGBT.<figure>
 
-<img class="aligncenter" src="https://i0.wp.com/geidh.uk/wp-content/uploads/2018/03/The_Office_Jokes.jpg" alt="" data-id="1539" data-recalc-dims="1" /></figure>
+<img class="aligncenter" src="https://i0.wp.com/geidh.uk/wp-content/uploads/2018/03/The_Office_Jokes.webp" alt="" data-id="1539" data-recalc-dims="1" /></figure>
 
 Am-measg na h-abhcaidean, tha eisimpleirean mar:
 
@@ -51,7 +51,7 @@ Am-measg na h-abhcaidean, tha eisimpleirean mar:
 
 Ann am post air Facebook sgaoil Kevin Tierney dealbh dhen soidhne comhla ris am brath: &#8220;Toilet walls in the office on Easter road&#8230; take this racist/sexist/homophobic s\*** down eh..&#8221;.<figure class="wp-block-image aligncenter">
 
-<img class="wp-image-1581 aligncenter" src="https://i0.wp.com/geidh.uk/wp-content/uploads/2018/03/Kevin_Tierney_Post.jpg" alt="" srcset="https://i0.wp.com/geidh.uk/wp-content/uploads/2018/03/Kevin_Tierney_Post.jpg?w=634&ssl=1 634w, https://i0.wp.com/geidh.uk/wp-content/uploads/2018/03/Kevin_Tierney_Post.jpg?resize=300%2C79&ssl=1 300w" sizes="(max-width: 634px) 100vw, 634px" data-recalc-dims="1" /></figure>
+<img class="wp-image-1581 aligncenter" src="https://i0.wp.com/geidh.uk/wp-content/uploads/2018/03/Kevin_Tierney_Post.webp" alt="" srcset="https://i0.wp.com/geidh.uk/wp-content/uploads/2018/03/Kevin_Tierney_Post.webp?w=634&ssl=1 634w, https://i0.wp.com/geidh.uk/wp-content/uploads/2018/03/Kevin_Tierney_Post.webp?resize=300%2C79&ssl=1 300w" sizes="(max-width: 634px) 100vw, 634px" data-recalc-dims="1" /></figure>
 
 Sgrìobh Hellish Scott: “1970’s style s\***e humour should be left in the 70s along with Jimmy Savile and all the other wonderful things from the time when ‘things were different’.”
 

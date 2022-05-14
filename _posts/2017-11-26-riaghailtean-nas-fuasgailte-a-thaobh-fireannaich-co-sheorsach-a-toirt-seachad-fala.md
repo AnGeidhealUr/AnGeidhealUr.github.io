@@ -6,7 +6,7 @@ date: 2017-11-26 11:25:13
 
 title: Riaghailtean nas fuasgailte a thaobh fireannaich co-sheòrsach a’ toirt seachad fala
 
-image: /images/2017-11-26-riaghailtean-nas-fuasgailte-a-thaobh-fireannaich-co-sheorsach-a-toirt-seachad-fala.jpg
+image: /images/2017-11-26-riaghailtean-nas-fuasgailte-a-thaobh-fireannaich-co-sheorsach-a-toirt-seachad-fala.webp
 
 image-caption:
 

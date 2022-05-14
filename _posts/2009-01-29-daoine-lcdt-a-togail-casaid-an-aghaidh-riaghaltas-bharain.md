@@ -6,7 +6,7 @@ date: 2009-01-29 18:14:28
 
 title: Daoine LCDT a’ togail casaid an-aghaidh Riaghaltas Bhachrain
 
-image: /images/2009-01-29-daoine-lcdt-a-togail-casaid-an-aghaidh-riaghaltas-bharain.jpg
+image: /images/2009-01-29-daoine-lcdt-a-togail-casaid-an-aghaidh-riaghaltas-bharain.webp
 
 image-caption:
 

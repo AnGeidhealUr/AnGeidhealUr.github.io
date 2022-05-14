@@ -6,7 +6,7 @@ date: 2018-01-05 22:56:37
 
 title: Bàsaire ISIS fo chasaid ann an Ioràc
 
-image: /images/2018-01-05-basaire-isis-fo-chasaid-ann-an-iorac.jpg
+image: /images/2018-01-05-basaire-isis-fo-chasaid-ann-an-iorac.webp
 
 image-caption:
 

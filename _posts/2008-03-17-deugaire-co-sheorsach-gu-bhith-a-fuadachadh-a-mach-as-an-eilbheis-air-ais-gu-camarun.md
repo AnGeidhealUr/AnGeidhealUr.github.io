@@ -6,7 +6,7 @@ date: 2008-03-17 18:36:35
 
 title: Deugaire co-sheòrsach gu bhith a’ fuadachadh a-mach às an Èilbheis air ais gu Camarun
 
-image: /images/2008-03-17-deugaire-co-sheorsach-gu-bhith-a-fuadachadh-a-mach-as-an-eilbheis-air-ais-gu-camarun.jpg
+image: /images/2008-03-17-deugaire-co-sheorsach-gu-bhith-a-fuadachadh-a-mach-as-an-eilbheis-air-ais-gu-camarun.webp
 
 image-caption:
 

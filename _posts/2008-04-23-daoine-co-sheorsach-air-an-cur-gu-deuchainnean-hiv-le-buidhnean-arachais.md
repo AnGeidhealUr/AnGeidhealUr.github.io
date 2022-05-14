@@ -6,7 +6,7 @@ date: 2008-04-23 18:33:50
 
 title: Daoine co-sheòrsach air an cur gu deuchainnean HIV le buidhnean àrachais
 
-image: /images/2008-04-23-daoine-co-sheorsach-air-an-cur-gu-deuchainnean-hiv-le-buidhnean-arachais.jpg
+image: /images/2008-04-23-daoine-co-sheorsach-air-an-cur-gu-deuchainnean-hiv-le-buidhnean-arachais.webp
 
 image-caption:
 

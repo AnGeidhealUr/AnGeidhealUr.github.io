@@ -6,7 +6,7 @@ date: 2008-03-19 07:47:57
 
 title: Siridheach co-sheòrsach gu bhith a’ fuadach a-mach às an Rìoghachd Aonaichte
 
-image: /images/2008-03-19-siridheach-co-sheorsach-gu-bhith-a-fuadach-a-mach-as-an-rioghachd-aonaichte.jpg
+image: /images/2008-03-19-siridheach-co-sheorsach-gu-bhith-a-fuadach-a-mach-as-an-rioghachd-aonaichte.webp
 
 image-caption:
 

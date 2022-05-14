@@ -6,7 +6,7 @@ date: 2008-10-02 22:30:29
 
 title: Bile LCDT air gluasad air adhart ann an Astràilia
 
-image: /images/2008-10-02-bile-lcdt-air-gluasad-air-adhart-ann-an-astrailia.jpg
+image: /images/2008-10-02-bile-lcdt-air-gluasad-air-adhart-ann-an-astrailia.webp
 
 image-caption:
 

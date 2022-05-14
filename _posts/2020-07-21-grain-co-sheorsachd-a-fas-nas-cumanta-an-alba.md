@@ -6,7 +6,7 @@ date: 2020-07-21
 
 title: Gràin co-sheòrsachd a' fàs nas cumanta an Alba
 
-image: /images/2020-07-21-grain-co-sheorsachd-a-fas-nas-cumanta-an-alba.jpg
+image: /images/2020-07-21-grain-co-sheorsachd-a-fas-nas-cumanta-an-alba.webp
 
 image-caption:
 

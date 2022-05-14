@@ -6,7 +6,7 @@ date: 2008-10-04 13:35:18
 
 title: Proposition 8 a’ caill taic ann an California
 
-image: /images/2008-10-04-proposition-8-a-caill-taic-ann-an-california.jpg
+image: /images/2008-10-04-proposition-8-a-caill-taic-ann-an-california.webp
 
 image-caption:
 

@@ -6,7 +6,7 @@ date: 2020-07-01
 
 title: Ìmpidh ga chur air Ceannardan an SNP gus stad a chur air oillt-tar-ghnèitheach sa phàrtaidh
 
-image: /images/2020-07-01-impidh-ga-chur-air-ceannardan-an-snp-gus-stad-a-chur-air-oillt-tar-ghneitheach-sa-phartaidh.jpg
+image: /images/2020-07-01-impidh-ga-chur-air-ceannardan-an-snp-gus-stad-a-chur-air-oillt-tar-ghneitheach-sa-phartaidh.webp
 
 image-caption:
 

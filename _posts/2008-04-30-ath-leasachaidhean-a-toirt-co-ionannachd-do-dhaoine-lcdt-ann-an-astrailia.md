@@ -6,7 +6,7 @@ date: 2008-04-30 18:15:28
 
 title: Ath-leasachaidhean a’ toirt co-ionannachd do dhaoine LCDT ann an Astràilia
 
-image: /images/2008-04-30-ath-leasachaidhean-a-toirt-co-ionannachd-do-dhaoine-lcdt-ann-an-astrailia.jpg
+image: /images/2008-04-30-ath-leasachaidhean-a-toirt-co-ionannachd-do-dhaoine-lcdt-ann-an-astrailia.webp
 
 image-caption:
 

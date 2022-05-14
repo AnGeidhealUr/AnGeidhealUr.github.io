@@ -6,7 +6,7 @@ date: 2008-10-08 19:37:30
 
 title: Bhiocair air ràdh gum bu chòir rabhadh slàinte a bhith stampadh air daoine LCDT
 
-image: /images/2008-10-08-bhiocair-air-radh-gum-bu-choir-rabhadh-slainte-a-bhith-stampadh-air-daoine-lcdt.jpg
+image: /images/2008-10-08-bhiocair-air-radh-gum-bu-choir-rabhadh-slainte-a-bhith-stampadh-air-daoine-lcdt.webp
 
 image-caption:
 

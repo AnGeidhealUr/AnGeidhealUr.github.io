@@ -6,7 +6,7 @@ date: 2018-11-05 19:50:43
 
 title: Maoineachadh de £1 millean a bharrachd dhan iomairt an aghaidh burraidheachd LCDT+
 
-image: /images/2018-11-05-maoineachadh-de-1-millean-a-bharrachd-dhan-iomairt-an-aghaidh-burraidheachd-lcdt.jpg
+image: /images/2018-11-05-maoineachadh-de-1-millean-a-bharrachd-dhan-iomairt-an-aghaidh-burraidheachd-lcdt.webp
 
 image-caption:
 

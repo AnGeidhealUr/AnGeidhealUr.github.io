@@ -6,7 +6,7 @@ date: 2008-03-28 11:48:48
 
 title: Bàrd connspaideach a’ fuireach air curraicealam na h-Èirinn
 
-image: /images/2008-03-28-bard-connspaideach-a-fuireach-air-curraicealam-na-h-eirinn.jpg
+image: /images/2008-03-28-bard-connspaideach-a-fuireach-air-curraicealam-na-h-eirinn.webp
 
 image-caption:
 

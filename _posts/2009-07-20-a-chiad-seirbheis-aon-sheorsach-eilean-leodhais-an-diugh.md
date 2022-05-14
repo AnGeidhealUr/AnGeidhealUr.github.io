@@ -6,7 +6,7 @@ date: 2009-07-20 18:55:52
 
 title: A’ chiad seirbheis aon-sheòrsach Eilean Leòdhais an-diugh
 
-image: /images/2009-07-20-a-chiad-seirbheis-aon-sheorsach-eilean-leodhais-an-diugh.jpg
+image: /images/2009-07-20-a-chiad-seirbheis-aon-sheorsach-eilean-leodhais-an-diugh.webp
 
 image-caption:
 

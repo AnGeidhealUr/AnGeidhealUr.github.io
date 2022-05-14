@@ -6,7 +6,7 @@ date: 2018-09-21 19:19:21
 
 title: Fèis-pròise Innse Ghall air a chàineadh le Ministear na h-Eaglaise Saoire Leantainnich
 
-image: /images/2018-09-21-feis-proise-innse-ghall-air-a-chaineadh-le-ministear-na-h-eaglaise-saoire-leantainnich.jpg
+image: /images/2018-09-21-feis-proise-innse-ghall-air-a-chaineadh-le-ministear-na-h-eaglaise-saoire-leantainnich.webp
 
 image-caption:
 

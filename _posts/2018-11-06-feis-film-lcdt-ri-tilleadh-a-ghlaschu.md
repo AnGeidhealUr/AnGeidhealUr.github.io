@@ -6,7 +6,7 @@ date: 2018-11-06 17:06:00
 
 title: Fèis film LCDT+ ri tilleadh a Ghlaschu
 
-image: /images/2018-11-06-feis-film-lcdt-ri-tilleadh-a-ghlaschu.jpg
+image: /images/2018-11-06-feis-film-lcdt-ri-tilleadh-a-ghlaschu.webp
 
 image-caption:
 

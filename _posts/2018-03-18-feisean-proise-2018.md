@@ -6,7 +6,7 @@ date: 2018-03-18 16:27:45
 
 title: Fèisean Pròise 2018
 
-image: /images/2018-03-18-feisean-proise-2018.jpg
+image: /images/2018-03-18-feisean-proise-2018.webp
 
 image-caption:
 

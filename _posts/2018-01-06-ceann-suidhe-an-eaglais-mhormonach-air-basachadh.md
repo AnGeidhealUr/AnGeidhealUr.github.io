@@ -6,7 +6,7 @@ date: 2018-01-06 14:20:16
 
 title: Ceann-suidhe an Eaglais Mhormonach air bàsachadh
 
-image: /images/2018-01-06-ceann-suidhe-an-eaglais-mhormonach-air-basachadh.jpg
+image: /images/2018-01-06-ceann-suidhe-an-eaglais-mhormonach-air-basachadh.webp
 
 image-caption:
 

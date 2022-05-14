@@ -6,7 +6,7 @@ date: 2020-01-04
 
 title: Fireannach fo chasaid ionnsaigh a thoirt air deugair tar-ghnèitheach
 
-image: /images/2020-01-04-fireannach-fo-chasaid-ionnsaigh-a-thoirt-air-deugair-tar-ghneitheach.jpg
+image: /images/2020-01-04-fireannach-fo-chasaid-ionnsaigh-a-thoirt-air-deugair-tar-ghneitheach.webp
 
 image-caption:
 

@@ -6,7 +6,7 @@ date: 2019-02-24 23:15:00
 
 title: Eaglais Dhùn Phrìs a' beachdachadh air taighean LCDT a leasachadh
 
-image: /images/2019-02-24-eaglais-dhun-phris-a-beachdachadh-air-taighean-lgbt-a-leasachadh.jpg
+image: /images/2019-02-24-eaglais-dhun-phris-a-beachdachadh-air-taighean-lgbt-a-leasachadh.webp
 
 image-caption: Dealbh le Billy McCrorie. Ceadaichte fo Creative Commons.
 

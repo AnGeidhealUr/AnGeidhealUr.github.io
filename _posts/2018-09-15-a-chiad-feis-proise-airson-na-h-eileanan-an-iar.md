@@ -6,7 +6,7 @@ date: 2018-09-15 09:44:15
 
 title: A’ Chiad Fèis-pròise airson na h-Eileanan an Iar
 
-image: /images/2018-09-15-a-chiad-feis-proise-airson-na-h-eileanan-an-iar.jpg
+image: /images/2018-09-15-a-chiad-feis-proise-airson-na-h-eileanan-an-iar.webp
 
 image-caption:
 

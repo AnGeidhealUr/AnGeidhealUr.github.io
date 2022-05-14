@@ -6,7 +6,7 @@ date: 2008-03-30 10:11:56
 
 title: Pàrlamaid Chùba a’ beachdachadh air còirichean LCDTE
 
-image: /images/2008-03-30-parlamaid-chuba-a-beachdachadh-air-coirichean-lcdte.jpg
+image: /images/2008-03-30-parlamaid-chuba-a-beachdachadh-air-coirichean-lcdte.webp
 
 image-caption:
 

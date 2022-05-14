@@ -6,7 +6,7 @@ date: 2008-10-02 20:06:43
 
 title: Coimisiún na hÉireann um Chearta an Duine agus Comhionannas airson còirichean tar-ghnèitheach leasachadh
 
-image: /images/2008-10-02-coimisiun-na-heireann-um-chearta-an-duine-agus-comhionannas-airson-coirichean-tar-ghneitheach-leasachadh.jpg
+image: /images/2008-10-02-coimisiun-na-heireann-um-chearta-an-duine-agus-comhionannas-airson-coirichean-tar-ghneitheach-leasachadh.webp
 
 image-caption:
 

@@ -6,7 +6,7 @@ date: 2017-06-02 20:27:46
 
 title: Leo Varadkar na chiad Phrìomhaire co-sheòrsach aig Èirinn
 
-image: /images/2017-06-02-leo-varadkar-na-chiad-priomhaire-co-sheorsach-aig-eirinn.jpg
+image: /images/2017-06-02-leo-varadkar-na-chiad-priomhaire-co-sheorsach-aig-eirinn.webp
 
 image-caption:
 

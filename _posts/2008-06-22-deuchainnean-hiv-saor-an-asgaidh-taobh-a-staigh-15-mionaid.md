@@ -6,7 +6,7 @@ date: 2008-06-22 19:12:44
 
 title: Deuchainnean HIV saor an-asgaidh taobh a-staigh 15 mionaid
 
-image: /images/2008-06-22-deuchainnean-hiv-saor-an-asgaidh-taobh-a-staigh-15-mionaid.jpg
+image: /images/2008-06-22-deuchainnean-hiv-saor-an-asgaidh-taobh-a-staigh-15-mionaid.webp
 
 image-caption:
 

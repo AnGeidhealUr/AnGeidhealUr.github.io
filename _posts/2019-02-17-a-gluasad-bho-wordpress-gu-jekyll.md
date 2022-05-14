@@ -6,7 +6,7 @@ date: 2019-02-17 18:00:00
 
 title: A' gluasad bho Wordpress gu Jekyll
 
-image: /images/2019-02-17-a-gluasad-bho-wordpress-gu-jekyll.jpg
+image: /images/2019-02-17-a-gluasad-bho-wordpress-gu-jekyll.webp
 
 image-caption:
 

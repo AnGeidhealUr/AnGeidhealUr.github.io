@@ -6,7 +6,7 @@ date: 2008-04-03 19:59:03
 
 title: Companasan-catharra ann an Èirinn gu bhith a’ cumail a-mach còirichean airson pàrantan LCDT
 
-image: /images/2008-04-03-companasan-catharra-ann-an-eirinn-gu-bhith-a-cumail-a-mach-coirichean-airson-parantan-lcdt.jpg
+image: /images/2008-04-03-companasan-catharra-ann-an-eirinn-gu-bhith-a-cumail-a-mach-coirichean-airson-parantan-lcdt.webp
 
 image-caption:
 

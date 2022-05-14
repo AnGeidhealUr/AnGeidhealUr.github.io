@@ -6,7 +6,7 @@ date: 2008-03-30 10:54:04
 
 title: Tidsearan co-sheòrsach ann an Èirinn gu bhith gan cur à dreuchd
 
-image: /images/2008-03-30-tidsearan-co-sheorsach-ann-an-eirinn-gu-bhith-gan-cur-a-dreuchd.jpg
+image: /images/2008-03-30-tidsearan-co-sheorsach-ann-an-eirinn-gu-bhith-gan-cur-a-dreuchd.webp
 
 image-caption:
 

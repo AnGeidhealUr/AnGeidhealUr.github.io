@@ -6,7 +6,7 @@ date: 2018-06-03 15:23:59
 
 title: A’ Chiad Fèis-pròise na h-Antartaig
 
-image: /images/2018-06-03-a-chiad-feis-proise-na-h-antartaig.jpg
+image: /images/2018-06-03-a-chiad-feis-proise-na-h-antartaig.webp
 
 image-caption:
 

@@ -6,7 +6,7 @@ date: 2008-06-12 12:57:36
 
 title: Fèis-pròise Lunnainn air iris ùr fhoillseachadh
 
-image: /images/2008-06-12-feis-proise-lunnainn-air-iris-ur-fhoillseachadh.jpg
+image: /images/2008-06-12-feis-proise-lunnainn-air-iris-ur-fhoillseachadh.webp
 
 image-caption:
 

@@ -6,7 +6,7 @@ date: 2010-04-08 13:18:35
 
 title: Aonadh Èireannach air ràdh gu bheil leth-bhreith ceadaichte ann an sgoiltean
 
-image: /images/2010-04-08-aonadh-eireannach-air-radh-gu-bheil-leth-bhreith-ceadaichte-ann-an-sgoiltean.jpg
+image: /images/2010-04-08-aonadh-eireannach-air-radh-gu-bheil-leth-bhreith-ceadaichte-ann-an-sgoiltean.webp
 
 image-caption:
 

@@ -6,7 +6,7 @@ date: 2018-06-04 10:48:30
 
 title: Moladh gus leigeil le clann Albannach gnè atharrachadh air an teisteanas breith aca
 
-image: /images/2018-06-04-moladh-gus-leigeil-le-clann-albannach-gne-atharrachadh-air-an-teisteanas-breith-aca.jpg
+image: /images/2018-06-04-moladh-gus-leigeil-le-clann-albannach-gne-atharrachadh-air-an-teisteanas-breith-aca.webp
 
 image-caption:
 

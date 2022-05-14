@@ -6,7 +6,7 @@ date: 2009-04-07 11:40:32
 
 title: Àrd-chùirt Iowa air bhòtadh gus pòsadh aon-sheòrsach a dhèanamh laghail
 
-image: /images/2009-04-07-ard-chuirt-iowa-air-bhotadh-gus-posadh-aon-sheorsach-a-dheanamh-laghail.jpg
+image: /images/2009-04-07-ard-chuirt-iowa-air-bhotadh-gus-posadh-aon-sheorsach-a-dheanamh-laghail.webp
 
 image-caption:
 

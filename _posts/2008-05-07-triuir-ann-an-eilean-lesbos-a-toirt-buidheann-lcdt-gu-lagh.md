@@ -6,7 +6,7 @@ date: 2008-05-07 09:21:39
 
 title: Triùir ann an Eilean Lesbos a’ toirt buidheann LCDT gu lagh
 
-image: /images/2008-05-07-triuir-ann-an-eilean-lesbos-a-toirt-buidheann-lcdt-gu-lagh.jpg
+image: /images/2008-05-07-triuir-ann-an-eilean-lesbos-a-toirt-buidheann-lcdt-gu-lagh.webp
 
 image-caption:
 

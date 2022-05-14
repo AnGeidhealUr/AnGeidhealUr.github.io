@@ -6,7 +6,7 @@ date: 2019-10-13 17:40:00
 
 title: Proud Ness air ath-ainmeachadh gu Highland Pride
 
-image: /images/2019-10-13-proud-ness-air-ath-ainmeachadh-gu-highland-pride.JPG
+image: /images/2019-10-13-proud-ness-air-ath-ainmeachadh-gu-highland-pride.webp
 
 image-caption:
 

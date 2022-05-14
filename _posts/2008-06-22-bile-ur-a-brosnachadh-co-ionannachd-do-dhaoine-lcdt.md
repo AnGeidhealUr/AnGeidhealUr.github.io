@@ -6,7 +6,7 @@ date: 2008-06-22 18:03:15
 
 title: Bile ùr a’ brosnachadh co-ionannachd do dhaoine LCDT
 
-image: /images/2008-06-22-bile-ur-a-brosnachadh-co-ionannachd-do-dhaoine-lcdt.jpg
+image: /images/2008-06-22-bile-ur-a-brosnachadh-co-ionannachd-do-dhaoine-lcdt.webp
 
 image-caption:
 

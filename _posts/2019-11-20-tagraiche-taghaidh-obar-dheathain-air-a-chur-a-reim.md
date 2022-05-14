@@ -6,7 +6,7 @@ date: 2019-11-20
 
 title: Tagraiche taghaidh Obar Dheathain air a chur à rèim airson puist an-aghaidh nan Iudhach agus nan co-sheòrsach
 
-image: /images/2019-11-20-tagraiche-taghaidh-obar-dheathain-air-a-chur-a-reim.JPG
+image: /images/2019-11-20-tagraiche-taghaidh-obar-dheathain-air-a-chur-a-reim.webp
 
 image-caption:
 

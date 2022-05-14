@@ -6,7 +6,7 @@ date: 2008-03-31 13:09:59
 
 title: Iorànach co-sheòrsach gu bhith a’ fuireach anns a’ Ghrèig
 
-image: /images/2008-03-31-ioranach-co-sheorsach-gu-bhith-a-fuireach-anns-a-ghreig.jpg
+image: /images/2008-03-31-ioranach-co-sheorsach-gu-bhith-a-fuireach-anns-a-ghreig.webp
 
 image-caption:
 

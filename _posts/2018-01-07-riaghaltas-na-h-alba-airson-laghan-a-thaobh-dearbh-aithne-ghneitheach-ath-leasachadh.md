@@ -6,7 +6,7 @@ date: 2018-01-07 21:30:01
 
 title: Riaghaltas na h-Alba airson laghan a thaobh dearbh-aithne ghnèitheach ath-leasachadh
 
-image: /images/2018-01-07-riaghaltas-na-h-alba-airson-laghan-a-thaobh-dearbh-aithne-ghneitheach-ath-leasachadh.jpg
+image: /images/2018-01-07-riaghaltas-na-h-alba-airson-laghan-a-thaobh-dearbh-aithne-ghneitheach-ath-leasachadh.webp
 
 image-caption:
 

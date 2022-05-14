@@ -6,7 +6,7 @@ date: 2012-07-17 21:08:05
 
 title: Ceannard Caitligeach airson bhòtadh air pòsaidhean aon-sheòrsach
 
-image: /images/2012-07-17-ceannard-caitligeach-airson-bhotadh-air-posaidhean-aon-sheorsach.jpg
+image: /images/2012-07-17-ceannard-caitligeach-airson-bhotadh-air-posaidhean-aon-sheorsach.webp
 
 image-caption:
 

@@ -6,7 +6,7 @@ date: 2009-03-24 18:32:33
 
 title: Gearanan a’ cur bacadh air ministear co-sheòrsach
 
-image: /images/2009-03-24-gearanan-a-cur-bacadh-air-ministear-co-sheorsach.jpg
+image: /images/2009-03-24-gearanan-a-cur-bacadh-air-ministear-co-sheorsach.webp
 
 image-caption:
 

@@ -6,7 +6,7 @@ date: 2008-03-31 13:25:10
 
 title: Taic airson pòsaidhean aon-sheòrsach a’ fàs nas làidire ann an Èirinn
 
-image: /images/2008-03-31-taic-airson-posaidhean-co-sheorsach-a-fas-nas-laidire-ann-an-eirinn.jpg
+image: /images/2008-03-31-taic-airson-posaidhean-co-sheorsach-a-fas-nas-laidire-ann-an-eirinn.webp
 
 image-caption:
 

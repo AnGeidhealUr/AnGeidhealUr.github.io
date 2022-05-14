@@ -6,7 +6,7 @@ date: 2018-01-06 16:58:46
 
 title: Co-labhairt “An Equal Future?” a’ beachdachadh air na dhìth airson Alba a dhèanamh na dùthaich nas in-ghabhalaiche
 
-image: /images/2018-01-06-co-labhairt-an-equal-future-a-beachdachadh-air-na-dhith-airson-alba-a-dheanamh-na-duthaich-nas-in-ghabhalaiche.jpg
+image: /images/2018-01-06-co-labhairt-an-equal-future-a-beachdachadh-air-na-dhith-airson-alba-a-dheanamh-na-duthaich-nas-in-ghabhalaiche.webp
 
 image-caption:
 

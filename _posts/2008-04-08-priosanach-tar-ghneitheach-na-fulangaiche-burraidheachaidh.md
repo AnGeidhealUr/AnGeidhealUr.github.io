@@ -6,7 +6,7 @@ date: 2008-04-08 15:23:08
 
 title: Prìosanach tar-ghnèitheach na fulangaiche burraidheachaidh
 
-image: /images/2008-04-08-priosanach-tar-ghneitheach-na-fulangaiche-burraidheachaidh.jpg
+image: /images/2008-04-08-priosanach-tar-ghneitheach-na-fulangaiche-burraidheachaidh.webp
 
 image-caption:
 

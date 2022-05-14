@@ -6,7 +6,7 @@ date: 2021-06-14
 
 title: Riaghailtean nas fhosgailte gan cur an-gnìomh a-thaobh toirt seachad fala
 
-image: /images/2021-06-14-riaghailtean-nas-fhosgailte-gan-cur-an-gniomh-a-thaobh-toirt-seachad-fala.png
+image: /images/2021-06-14-riaghailtean-nas-fhosgailte-gan-cur-an-gniomh-a-thaobh-toirt-seachad-fala.webp
 
 image-caption:
 

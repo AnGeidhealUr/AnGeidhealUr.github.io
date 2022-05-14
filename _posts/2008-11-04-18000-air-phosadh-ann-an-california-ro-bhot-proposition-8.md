@@ -6,7 +6,7 @@ date: 2008-11-04 18:13:45
 
 title: 18,000 air phòsadh ann an California ro bhòt Proposition 8
 
-image: /images/2008-11-04-18000-air-phosadh-ann-an-california-ro-bhot-proposition-8.jpg
+image: /images/2008-11-04-18000-air-phosadh-ann-an-california-ro-bhot-proposition-8.webp
 
 image-caption:
 

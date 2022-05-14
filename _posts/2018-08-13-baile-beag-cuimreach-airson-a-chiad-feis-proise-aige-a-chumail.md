@@ -6,7 +6,7 @@ date: 2018-08-13 20:45:18
 
 title: Baile beag Cuimreach airson a’ chiad fèis-pròise aige a chumail
 
-image: /images/2018-08-13-baile-beag-cuimreach-airson-a-chiad-feis-proise-aige-a-chumail.jpg
+image: /images/2018-08-13-baile-beag-cuimreach-airson-a-chiad-feis-proise-aige-a-chumail.webp
 
 image-caption:
 

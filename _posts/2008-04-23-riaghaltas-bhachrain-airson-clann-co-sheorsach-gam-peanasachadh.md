@@ -6,7 +6,7 @@ date: 2008-04-23 16:59:00
 
 title: Riaghaltas Bhachrain airson clann co-sheòrsach gam peanasachadh
 
-image: /images/2008-04-23-riaghaltas-bhachrain-airson-clann-co-sheorsach-gam-peanasachadh.jpg
+image: /images/2008-04-23-riaghaltas-bhachrain-airson-clann-co-sheorsach-gam-peanasachadh.webp
 
 image-caption:
 

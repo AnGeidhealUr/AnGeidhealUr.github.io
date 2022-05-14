@@ -6,7 +6,7 @@ date: 2021-03-13
 
 title: BPA a' bhòtadh airson Bile nan Eucoirean Gràin
 
-image: /images/2021-03-13-bpa-a-bhotadh-airson-bile-nan-eucoirean-grain.jpeg
+image: /images/2021-03-13-bpa-a-bhotadh-airson-bile-nan-eucoirean-grain.webp
 
 image-caption:
 

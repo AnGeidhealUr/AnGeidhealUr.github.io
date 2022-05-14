@@ -6,7 +6,7 @@ date: 2018-07-17 20:54:17
 
 title: Luchd-poilitigs co-sheòrsach airson reifreann eile air Brexit
 
-image: /images/2018-07-17-luchd-poilitigs-co-sheorsach-airson-reifreann-eile-air-brexit.jpg
+image: /images/2018-07-17-luchd-poilitigs-co-sheorsach-airson-reifreann-eile-air-brexit.webp
 
 image-caption:
 

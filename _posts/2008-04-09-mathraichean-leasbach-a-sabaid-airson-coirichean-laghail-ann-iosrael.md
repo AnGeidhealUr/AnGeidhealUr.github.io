@@ -6,7 +6,7 @@ date: 2008-04-09 13:46:31
 
 title: Màthraichean leasbach a’ sabaid airson còirichean laghail ann an Iosrael
 
-image: /images/2008-04-09-mathraichean-leasbach-a-sabaid-airson-coirichean-laghail-ann-iosrael.jpg
+image: /images/2008-04-09-mathraichean-leasbach-a-sabaid-airson-coirichean-laghail-ann-iosrael.webp
 
 image-caption:
 

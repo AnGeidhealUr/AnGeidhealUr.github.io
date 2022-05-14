@@ -6,7 +6,7 @@ date: 2009-05-19 16:34:27
 
 title: Nach toir sibh ur cuideachadh ris an t-Urr. Scott Rennie
 
-image: /images/2009-05-19-nach-toir-sibh-ur-cuideachadh-ris-an-t-urr-scott-rennie.jpg
+image: /images/2009-05-19-nach-toir-sibh-ur-cuideachadh-ris-an-t-urr-scott-rennie.webp
 
 image-caption:
 

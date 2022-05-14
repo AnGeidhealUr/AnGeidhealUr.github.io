@@ -6,7 +6,7 @@ date: 2018-08-17 08:41:32
 
 title: Dè na riochdairean a th’ ort?
 
-image: /images/2018-08-17-de-na-riochdairean-a-th-ort.jpg
+image: /images/2018-08-17-de-na-riochdairean-a-th-ort.webp
 
 image-caption:
 

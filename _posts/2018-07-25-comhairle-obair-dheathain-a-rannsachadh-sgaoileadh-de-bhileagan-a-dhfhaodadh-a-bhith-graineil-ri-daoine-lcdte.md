@@ -6,7 +6,7 @@ date: 2018-07-25 19:48:16
 
 title: Comhairle Obair Dheathain a’ rannsachadh sgaoileadh de bhileagan a dh’fhaodadh a bhith gràineil ri daoine LCDTE
 
-image: /images/2018-07-25-comhairle-obair-dheathain-a-rannsachadh-sgaoileadh-de-bhileagan-a-dhfhaodadh-a-bhith-graineil-ri-daoine-lcdte.jpg
+image: /images/2018-07-25-comhairle-obair-dheathain-a-rannsachadh-sgaoileadh-de-bhileagan-a-dhfhaodadh-a-bhith-graineil-ri-daoine-lcdte.webp
 
 image-caption:
 

@@ -6,7 +6,7 @@ date: 2017-02-16 19:48:31
 
 title: “The Gaelic for Gay”
 
-image: /images/2017-02-16-the-gaelic-for-gay.png
+image: /images/2017-02-16-the-gaelic-for-gay.webp
 
 image-caption:
 

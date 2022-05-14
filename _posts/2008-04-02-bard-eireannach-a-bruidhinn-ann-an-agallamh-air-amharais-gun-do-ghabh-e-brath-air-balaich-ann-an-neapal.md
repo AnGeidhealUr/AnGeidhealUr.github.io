@@ -6,7 +6,7 @@ date: 2008-04-02 10:49:15
 
 title: Bàrd Èireannach a’ bruidhinn ann an agallamh air amharais gun do ghabh e brath air balaich ann an Neapàl
 
-image: /images/2008-04-02-bard-eireannach-a-bruidhinn-ann-an-agallamh-air-amharais-gun-do-ghabh-e-brath-air-balaich-ann-an-neapal.jpg
+image: /images/2008-04-02-bard-eireannach-a-bruidhinn-ann-an-agallamh-air-amharais-gun-do-ghabh-e-brath-air-balaich-ann-an-neapal.webp
 
 image-caption:
 

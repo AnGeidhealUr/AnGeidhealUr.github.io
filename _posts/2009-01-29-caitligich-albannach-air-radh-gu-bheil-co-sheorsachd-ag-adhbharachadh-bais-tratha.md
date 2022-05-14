@@ -6,7 +6,7 @@ date: 2009-01-29 19:55:46
 
 title: Caitligich Albannach air ràdh gu bheil co-sheòrsachd ag adhbharachadh bàis tràtha
 
-image: /images/2009-01-29-caitligich-albannach-air-radh-gu-bheil-co-sheorsachd-ag-adhbharachadh-bais-tratha.jpg
+image: /images/2009-01-29-caitligich-albannach-air-radh-gu-bheil-co-sheorsachd-ag-adhbharachadh-bais-tratha.webp
 
 image-caption:
 

@@ -6,7 +6,7 @@ date: 2021-04-03
 
 title: Tagraiche Sealtainneach ga chàineadh
 
-image: /images/2021-04-03-tagraiche-sealtainneach-ga-chaineadh.jpg
+image: /images/2021-04-03-tagraiche-sealtainneach-ga-chaineadh.webp
 
 image-caption:
 

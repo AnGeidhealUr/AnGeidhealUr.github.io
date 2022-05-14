@@ -6,7 +6,7 @@ date: 2021-03-07
 
 title: Deasbad air teiripe iompachaidh
 
-image: /images/2021-03-07-deasbad-air-teiripe-iompachaidh.png
+image: /images/2021-03-07-deasbad-air-teiripe-iompachaidh.webp
 
 image-caption:
 
