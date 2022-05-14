@@ -2,8 +2,9 @@
 layout: post
 title: Cead ga thoirt do gach neach an gnè fhèin a thaghadh ann an Cunntas-sluaigh na h-Alba
 date: 2022-02-21 22:00
-image: /images/posts/2022-02-21-cead-ga-thoirt-do-gach-neach-an-gnè-fhèin-a-thaghadh-ann-an-cunntas-sluaigh-na-h-alba.jpg
 category: Alba
+image: /images/posts/2022-02-21-cead-ga-thoirt-do-gach-neach-an-gnè-fhèin-a-thaghadh-ann-an-cunntas-sluaigh-na-h-alba.jpg
+author: Crìstean MacMhìcheil
 ---
 
 ![]({{ site.baseurl }}/images/posts/2022-02-21-cead-ga-thoirt-do-gach-neach-an-gnè-fhèin-a-thaghadh-ann-an-cunntas-sluaigh-na-h-alba.jpg)

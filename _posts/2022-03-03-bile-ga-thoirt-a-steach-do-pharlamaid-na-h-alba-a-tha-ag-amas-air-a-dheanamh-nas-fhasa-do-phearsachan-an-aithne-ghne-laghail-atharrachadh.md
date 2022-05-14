@@ -4,6 +4,7 @@ title: Bile ga thoirt a-steach do Phàrlamaid na h-Alba a tha ag amas air a dhè
 date: 2022-03-03 14:00
 category: Alba
 image: /images/posts/2022-03-03-bile-ga-thoirt-a-steach-do-pharlamaid-na-h-alba-a-tha-ag-amas-air-a-dheanamh-nas-fhasa-do-phearsachan-an-aithne-ghne-laghail-atharrachadh.jpg
+author: Crìstean MacMhìcheil
 ---
 
 ![]({{ site.baseurl }}/images/posts/2022-03-03-bile-ga-thoirt-a-steach-do-pharlamaid-na-h-alba-a-tha-ag-amas-air-a-dheanamh-nas-fhasa-do-phearsachan-an-aithne-ghne-laghail-atharrachadh.jpg)

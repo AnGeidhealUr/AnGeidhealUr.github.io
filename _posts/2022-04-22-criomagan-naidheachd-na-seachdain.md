@@ -7,7 +7,7 @@ image: /images/posts/criomagan.webp
 author: Crìstean MacMhìcheil
 ---
 
-![Criomagan Naidheachd na Seachdain]({{ site.baseurl }}/images/posts/criomagan.webp)
+![]({{ site.baseurl }}/images/posts/criomagan.webp)
 
 Geàrr-chunntas sgrìobhte air cinn-naidheachd na seachdain.
 

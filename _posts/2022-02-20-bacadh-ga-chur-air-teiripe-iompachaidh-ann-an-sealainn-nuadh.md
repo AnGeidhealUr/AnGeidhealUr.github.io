@@ -1,37 +1,15 @@
 ---
-
 layout: post
-
-date: 2022-02-20 13:40
-
 title: Bacadh ga chur air teiripe iompachaidh ann an Sealainn Nuadh
-
-image: /images/2022-02-20-bacadh-ga-chur-air-teiripe-iompachaidh-ann-an-sealainn-nuadh.jpg
-
-image-caption:
-
-image-licence:
-
+date: 2022-02-20 13:40
+category: An t-Saoghal
+image: /images/posts/2022-02-20-bacadh-ga-chur-air-teiripe-iompachaidh-ann-an-sealainn-nuadh.jpg
 author: Crìstean MacMhìcheil
-
-comments: true
-
-categories:
-    - An t-Saoghal
-    
-    
-
-summary: Tha Pàrlamaid Shealainn Nuadh air gabhail ri lagh ùr a chuireas bacadh air teiripe iompachaidh.
-
-instagram: https://www.instagram.com/p/CaNTzQIJ-YW/
-
-twitter: https://twitter.com/angeidhealur/status/1495416896820334605
-
 ---
 
-Tha Pàrlamaid Shealainn Nuadh air gabhail ri lagh ùr a chuireas bacadh air teiripe iompachaidh.
+![]({{ site.baseurl }}/images/posts/2022-02-20-bacadh-ga-chur-air-teiripe-iompachaidh-ann-an-sealainn-nuadh.jpg)
 
-<!--more-->
+Tha Pàrlamaid Shealainn Nuadh air gabhail ri lagh ùr a chuireas bacadh air teiripe iompachaidh.
 
 Is e ‘teiripe iompachaidh’ am facal a thathar a’ cleachdadh mar thuairisgeul air modhan sam bith a dh’fheuchas ris an taobhadh feise no an ìomhaigh a thaobh gnè a tha aig neach atharrachadh.
 
