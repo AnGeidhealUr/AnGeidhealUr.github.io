@@ -15,7 +15,7 @@ categories:
 
 ---
 
-![]({{ site.baseurl }}{{ post.image }})
+![]({{ site.baseurl }}{{ page.image }})
 
 Thèid bile ùr a thoirt a-steach do Phàrlamaid na h-Alba feasgar an-diugh a tha ag amas air an Achd Aithneachadh Gnè atharrachadh gus am pròiseas a dhèanamh nas fhasa do phearsachan teisteanas aithneachadh gnè (GRC) fhaighinn.
 
