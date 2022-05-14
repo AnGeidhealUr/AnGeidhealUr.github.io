@@ -6,7 +6,7 @@ date: 2020-12-14
 
 title: Fireannaich gèidh agus dà-sheòrsach gu bhith comasach air fuil a thoirt seachad gun a bhith a' seachnadh feise
 
-image: /images/2020-12-14-fireannaich-geidh-agus-da-sheorsach-gu-bhith-comasach-air-fuil-a-thoirt-seachad-gun-a-bhith-a-seachnadh-feise.webp
+image: /images/posts/2020-12-14-fireannaich-geidh-agus-da-sheorsach-gu-bhith-comasach-air-fuil-a-thoirt-seachad-gun-a-bhith-a-seachnadh-feise.webp
 
 author: Crìstean MacMhìcheil
 
@@ -15,6 +15,8 @@ categories:
     - An Rìoghachd Aonaichte
 
 ---
+
+![](/images/posts/2020-12-14-fireannaich-geidh-agus-da-sheorsach-gu-bhith-comasach-air-fuil-a-thoirt-seachad-gun-a-bhith-a-seachnadh-feise.webp)
 
 Bidh fireannaich gèidh agus dà-sheòrsach comasach air fuil a thoirt seachad gun a bhith a' seachnadh feise as dèidh dha ainmeachadh gun tèid na ceistean a thathar a chur air luchd-tabhartais atharrachadh ann an 2021.
 
