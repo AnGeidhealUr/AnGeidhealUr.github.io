@@ -6,7 +6,7 @@ date: 2018-11-22 17:37:27
 
 title: Bu chòir cùisean LCDT+ a bhith na phàirt “bunaiteach” de dh’fhoghlam chloinne
 
-image: /images/2018-11-22-bu-choir-cuisean-lcdt-a-bhith-na-phairt-bunaiteach-de-dhfhoghlam-chloinne.webp
+image: /images/posts/2018-11-22-bu-choir-cuisean-lcdt-a-bhith-na-phairt-bunaiteach-de-dhfhoghlam-chloinne.webp
 
 author: Crìstean MacMhìcheil
 
