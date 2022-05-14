@@ -6,28 +6,17 @@ date: 2019-01-28 19:51:39
 
 title: Leigheas sìolachadh in-bhiotro air a thabhann do chàraid fhireannach ann an Alba
 
-image: /images/2019-01-28-leigheas-siolachadh-in-bhiotro-air-a-thabhann-do-charaid-fhireannach-ann-an-alba.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2019-01-28-leigheas-siolachadh-in-bhiotro-air-a-thabhann-do-charaid-fhireannach-ann-an-alba.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
   - Alba
   - An Rìoghachd Aonaichte
 
-
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Thàinig e am follais Didòmhnaich gun deach leigheas sìolachadh in-bhiotro a thabhann do chàraid fhireannach co-sheòrsach ann an Alba airson a’ chiad turas a-riamh san Rìoghachd Aonaichte.
-
-<!--more-->
 
 A-rèir [The Mail on Sunday][1], bidh SNS a’ toirt maoineachadh dhan chàraid gus ugh a thorrachadh le sìol-ghinidh aon dhiubh mus tèid an suth a ion-phlanntadh ann an neach-ionaid gus a thoirt gu breith.
 

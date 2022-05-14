@@ -6,7 +6,7 @@ date: 2021-03-07
 
 title: Deasbad air teiripe iompachaidh
 
-image: /images/2021-03-07-deasbad-air-teiripe-iompachaidh.webp
+image: /images/posts/2021-03-07-deasbad-air-teiripe-iompachaidh.webp
 
 author: Crìstean MacMhìcheil
 
@@ -14,8 +14,6 @@ categories:
     - An Rìoghachd Aonaichte
 
 ---
-
-![]({{ site.baseurl }}/images/posts/)
 
 Bidh BPan ann an Taigh nan Cumantan a’ deasbad Diluain teiripe iompachaidh a dhèanamh mì-laghail san Rìoghachd Aonaichte.
 

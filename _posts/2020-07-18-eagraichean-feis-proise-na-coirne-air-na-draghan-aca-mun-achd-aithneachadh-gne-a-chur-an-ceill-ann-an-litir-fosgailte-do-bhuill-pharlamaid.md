@@ -6,33 +6,16 @@ date: 2020-07-18
 
 title: Eagraichean Fèis-pròise na Còirne air na draghan aca mun Achd Aithneachadh Gnè a chur an cèill ann an litir fosgailte do Bhuill-phàrlamaid
 
-image: /images/2020-07-18-eagraichean-feis-proise-na-coirne-air-na-draghan-aca-mun-achd-aithneachadh-gne-a-chur-an-ceill-ann-an-litir-fosgailte-do-bhuill-pharlamaid.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2020-07-18-eagraichean-feis-proise-na-coirne-air-na-draghan-aca-mun-achd-aithneachadh-gne-a-chur-an-ceill-ann-an-litir-fosgailte-do-bhuill-pharlamaid.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
     - An Rìoghachd Aonaichte
     
-
-twitter: https://www.twitter.com/AnGeidhealUr/status/1284560242114789376?s=21
-
-instagram: https://www.instagram.com/p/CCy3hzdgQtI/
-
-facebook: https://www.facebook.com/1644824018873481/posts/3204625096226691/
-
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Tha eagraichean Fèis-pròise na Còirne air litir a chur dhan a h-uile BP san Rìoghachd Aonaichte gus na draghan aca mun Achd Aithneachadh Gnè agus mu theiripe iompachadh co-sheòrsachd a chur an cèill.
-
-<!--more-->
 
 Tha iad air an Riaghaltas a chàineadh airson dàil a chur air foillseachadh ath-sgrùdadh an achd agus gu bheil seo a' cur mòr-dhragh air tar-dhaoine anns a' Chòrn agus an còrr dhen Rìoghachd Aonaichte.
 

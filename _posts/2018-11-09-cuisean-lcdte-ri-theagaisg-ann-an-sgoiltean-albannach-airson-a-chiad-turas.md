@@ -6,29 +6,17 @@ date: 2018-11-09 14:36:50
 
 title: Cùisean LCDTE ri theagaisg ann an sgoiltean Albannach airson a’ chiad turas
 
-image: /images/2018-11-09-cuisean-lcdte-ri-theagaisg-ann-an-sgoiltean-albannach-airson-a-chiad-turas.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2018-11-09-cuisean-lcdte-ri-theagaisg-ann-an-sgoiltean-albannach-airson-a-chiad-turas.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
   - Alba
   - An Rìoghachd Aonaichte
   
-  
-
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Chaidh ainmeachadh le Riaghaltas na h-Alba Diardaoin gun tèid cùisean LCDTE a theagaisg ann an leasanan sgoile airson a&#8217; chiad turas.
-
-<!--more-->
 
 Ann an aithris ministreil gu Taigh an Ròid dh&#8217;ainmhich Rùnaire an Fhoghlaim, John Swinney, gu bheil an Riaghaltas air gabhail ris a h-uile moladh de bhuidheann obrach foghlaim in-ghabhalach LCDTE ([a ghabhas leughadh an seo][1]) a chaidh a stèidheachadh leis an amas curraicealam agus àrainneachd shòisealta nas càirdeil a chruthachadh do sgoilearan LCDTE agus gus dèiligeadh ri burraidheachd.
 

@@ -6,28 +6,16 @@ date: 2018-11-02 20:58:33
 
 title: Còrr is $3000 air a thogail airson leabhraichean cloinne LCDT+ a thoirt ri leabharlann Ameireaganach
 
-image: /images/2018-11-02-corr-is-3000-air-a-thogail-airson-leabhraichean-cloinne-lcdt-a-thoirt-ri-leabharlann-ameireaganach.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2018-11-02-corr-is-3000-air-a-thogail-airson-leabhraichean-cloinne-lcdt-a-thoirt-ri-leabharlann-ameireaganach.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
   - An t-Saoghal
   
-  
-
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Tha an t-eadar-lìon air còrr is $3000 a thogail gus leabhraichean cloinne LCDT+ ùra a cheannach dhan leabharlann ann am Baile Orainds, Iowa.
-
-<!--more-->
 
 Chaidh an iomairt a chur an gnìomh mar thoradh air [bhideo][1] a chaidh a sgaoileadh air Facebook le Paul Dorr anns an do loisg e sreath de leabhraichean cloinne LCDT+ bhon leabharlann a&#8217; toirt a-steach [_Two Boys Kissing_ le David Levithan][2] agus [_This Day in June_ le Gayle Pitman][3].
 

@@ -6,28 +6,17 @@ date: 2018-11-05 19:50:43
 
 title: Maoineachadh de £1 millean a bharrachd dhan iomairt an aghaidh burraidheachd LCDT+
 
-image: /images/2018-11-05-maoineachadh-de-1-millean-a-bharrachd-dhan-iomairt-an-aghaidh-burraidheachd-lcdt.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2018-11-05-maoineachadh-de-1-millean-a-bharrachd-dhan-iomairt-an-aghaidh-burraidheachd-lcdt.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
   - An Rìoghachd Aonaichte
   
-  
-
 ---
-
-![]({{ site.baseurl }}/images/posts/)
 
 Chaidh ainmeachadh leis an Riaghaltas Didòmhnaich gun tèid maoineachadh de £1 millean a bharrachd a thoirt dhan iomairt an aghaidh burraidheachd LCDT+ ann an sgoiltean.
 
-<!--more-->
 
 Tha an iomairt stèidhichte ann an 1200 sgoiltean Shasannach mu thràth ach thuirt [Ministear nam Ban agus Co-ionannachd][1], Penny Mordaunt, gum bidh tabhartasan ùr ri fhaighinn a&#8217; tòiseachadh an-diugh (5mh An t-Samhain 2018) leis an amas a bhith a&#8217; sabaid burraidheachd LCDT+ ann am barrachd sgoiltean air feadh na dùthcha.
 

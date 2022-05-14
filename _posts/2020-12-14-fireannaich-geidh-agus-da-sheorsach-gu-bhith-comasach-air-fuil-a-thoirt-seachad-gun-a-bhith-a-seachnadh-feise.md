@@ -16,8 +16,6 @@ categories:
 
 ---
 
-![](/images/posts/2020-12-14-fireannaich-geidh-agus-da-sheorsach-gu-bhith-comasach-air-fuil-a-thoirt-seachad-gun-a-bhith-a-seachnadh-feise.webp)
-
 Bidh fireannaich gèidh agus dà-sheòrsach comasach air fuil a thoirt seachad gun a bhith a' seachnadh feise as dèidh dha ainmeachadh gun tèid na ceistean a thathar a chur air luchd-tabhartais atharrachadh ann an 2021.
 
 An-dràsta chan fhaod fireannaich fuil a thoirt seachad san Rìoghachd Aonaichte ma tha iad air a bhith ri feise le fireannach eile sna trì mìosan a dh'fhalbh.

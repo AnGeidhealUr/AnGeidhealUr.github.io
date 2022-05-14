@@ -6,27 +6,16 @@ date: 2018-12-16 21:04:42
 
 title: Ben Hunte air a chur an dreuchd mar a’ chiad neach-naidheachd LCDT a’ BhBC
 
-image: /images/2018-12-16-ben-hunte-air-a-chur-an-dreuchd-mar-a-chiad-neach-naidheachd-lcdt-a-bhbc.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2018-12-16-ben-hunte-air-a-chur-an-dreuchd-mar-a-chiad-neach-naidheachd-lcdt-a-bhbc.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
   - An Rìoghachd Aonaichte
   
-
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Tha BBC News air an neach-naidheachd BBC Afraga, Ben Hunte, ainmeachadh mar a’ chiad neach-naidheachd LCDT aca.
-
-<!--more-->
 
 Bidh e ag aithris air “sgeulachdan, cùisean agus deasbadan a’ buntainn ri feisealachd agus gnè” agus a’ dèanamh mion-sgrùdadh air cùisean a bheireas buaidh air coimhearsnachd LCDT an Rìoghachd Aonaichte.
 

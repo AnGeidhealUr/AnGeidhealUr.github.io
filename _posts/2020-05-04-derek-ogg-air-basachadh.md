@@ -6,27 +6,16 @@ date: 2020-05-04
 
 title: Derek Ogg air bàsachadh
 
-image: /images/2020-05-04-derek-ogg-air-basachadh.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2020-05-04-derek-ogg-air-basachadh.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
     - Alba
     
-
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Tha Derek Ogg, an neach-lagha a stiùir an iomairt gus maitheanas a thoirt do dh’fhireannaich gèidh agus dà-sheòrsach a chaidh a dhìteadh airson eucoirean feise ann an Alba, air bàsachadh aig aois 65.
-
-<!--more-->
 
 Tha am BBC ag aithris gun deach Mgr. Ogg a lorg marbh na dhachaigh le oifigearan Dihaoine (1 Cèitean) agus gun d’thuirt iad “nach eil coltas ann gu robh suidheachadh amharasach ann.”
 

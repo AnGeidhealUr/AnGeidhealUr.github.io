@@ -6,27 +6,16 @@ date: 2018-09-15 09:44:15
 
 title: A’ Chiad Fèis-pròise airson na h-Eileanan an Iar
 
-image: /images/2018-09-15-a-chiad-feis-proise-airson-na-h-eileanan-an-iar.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2018-09-15-a-chiad-feis-proise-airson-na-h-eileanan-an-iar.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
   - Alba
   
-
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Chaidh ainmeachadh Diardaoin gun tèid a&#8217; chiad fèis-pròise a-riamh a chumail anns na h-Eileanan an Iar 6mh Dàmhair.
-
-<!--more-->
 
 Mar phàirt dhen fhèis bidh caismeachd ann an Steòrnabhagh agus thèid crìoch a chur air an fhèis le pàrtaidh anns a&#8217; chlub-oidhche Era sa bhaile.
 

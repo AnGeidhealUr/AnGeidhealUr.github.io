@@ -6,26 +6,16 @@ date: 2020-05-26
 
 title: Roinnidh pod-chraoladh ùr sgeulachdan bho dhaoine LCDT+ nas sìne an Alba
 
-image: /images/2020-05-26-roinnidh-pod-chraoladh-ur-sgeulachdan-bho-dhaoine-lcdt-nas-sine-an-alba.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2020-05-26-roinnidh-pod-chraoladh-ur-sgeulachdan-bho-dhaoine-lcdt-nas-sine-an-alba.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
     - Alba
     
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Is e pod-chraoladh ùr a th’ ann an _50 Years of Activism_ a bhios a’ toirt sùil air beathannan daoine LCDT+ nas sìne na 50 bliadhna a dh’aois ann an Alba.
-
-<!--more-->
 
 Anns gach earrann bidh agallamh le èildear LCDT+, mar a chanas iad, mu na tachartasan a thug buaidh air am beatha pearsanta agus obrach agus air gnìomhachd LCDT+ ann an Alba.
 

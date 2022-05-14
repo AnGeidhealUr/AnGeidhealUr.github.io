@@ -6,26 +6,16 @@ date: 2020-03-29
 
 title: Àireamh de dhaoine a' cleachdadh loidhne-chuideachaidh LCDT+ air àrdachadh air sgàth Coròna-bhìoras
 
-image: /images/2020-03-29-aireamh-de-dhaoine-a-cleachdadh-loidhne-chuideachaidh-lcdt-air-ardachadh-air-sgath-corona-bhioras.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2020-03-29-aireamh-de-dhaoine-a-cleachdadh-loidhne-chuideachaidh-lcdt-air-ardachadh-air-sgath-corona-bhioras.webp
 
 author: Crìstean MacMhìcheil
 
-comments: true
-
 categories:
-  
+    - Alba  
     
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Tha carthannas LCDT+ air aithris gu bheil iad air àrdachadh mòr fhaicinn anns an àireamh de dhaoine a' cleachdadh an loidhne-chuideachaidh aca bho thòisich daoine fuireach san taigh air sgàth Coròna-bhìoras.
-
-<!--more-->
 
 Thuirt an Stèidheachd LCDT gun robh an àireamh de ghairmean a fhuair iad thairis air an t-seachdain a chaidh seachad còrr is a dhà uiread an àireamh gun d'fhuair iad san aon ùine an-uiridh agus gu bheil iad an dùil ri àrdachadh eile an seachdain seo tighinn.
 

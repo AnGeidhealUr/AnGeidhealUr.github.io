@@ -6,26 +6,16 @@ date: 2018-11-26 12:33:21
 
 title: Riaghailtean ùra gus dèiligeadh ri gràin-tar-ghnèitheachd air Twitter
 
-image: /images/2018-11-26-riaghailtean-ura-gus-deiligeadh-ri-grain-tar-ghneitheachd-air-twitter.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2018-11-26-riaghailtean-ura-gus-deiligeadh-ri-grain-tar-ghneitheachd-air-twitter.webp
 
 author: Crìstean MacMhìcheil
 
-comments: true
-
 categories:
-  
-  
+  - Teicneòlas
+    
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Tha Twitter air na riaghailtean aca ùrachadh gus dèiligeadh ri daoine a tha ri gràin-tar-ghnèitheachd.
-
-<!--more-->
 
 Tha [Gay Times ag aithris][1] gun deach na riaghailtean ùrachadh san Dàmhair ach cha deach a mhothachadh ron a sheo.
 

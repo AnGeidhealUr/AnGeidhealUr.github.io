@@ -6,27 +6,16 @@ date: 2020-05-15
 
 title: Seirbheis ùr a' tabhann deuchainnean HIV tron phost
 
-image: /images/2020-05-15-seirbheis-ur-a-tabhann-deuchainnean-hiv-tron-phost.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2020-05-15-seirbheis-ur-a-tabhann-deuchainnean-hiv-tron-phost.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
     - Alba
   
-
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Tha [HIV Scotland](https://www.hiv.scot/) agus [Waverley Care](https://www.waverleycare.org/) air seirbheis ùr a cur air bhog gus deuchainnean HIV a thabhann tron phost.
-
-<!--more-->
 
 Tha [HIV Self-test Scotland](https://hivtest.scot) ag ràdh gu bheil iad airson dòigh shìmplidh fèin-dheuchainn a thabhann do dhaoine air feadh na h-Alba, gu h-àraid ri linn a' Choròna-bhìoras nuair nach eil a h-uile duine comasach air siubhal.
 

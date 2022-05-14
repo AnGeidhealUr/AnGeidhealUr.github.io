@@ -6,26 +6,16 @@ date: 2018-09-22 07:59:45
 
 title: Chan fhaigh athair tar-ghnèitheach sochair-chloinne
 
-image: /images/2018-09-22-chan-fhaigh-athair-tar-ghneitheach-sochair-chloinne.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2018-09-22-chan-fhaigh-athair-tar-ghneitheach-sochair-chloinne.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
   - An Rìoghachd Aonaichte
 
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Chan fhaigh athair tar-ghnèitheach sochair-chloinne air sgàth &#8217;s nach eil e airson a bhith clàraichte mar mhàthair air teisteanas breith an leanaibh.
-
-<!--more-->
 
 Tha an duine, nach gabh ainmeachadh airson adhbharan laghail, ag àramaid seach gun robh e aithnichte gu làghail mar fhireannach aig àm a bhreith gum bu chòir dha bhith clàraichte mar athair.
 

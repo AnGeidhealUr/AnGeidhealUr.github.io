@@ -6,14 +6,14 @@ date: 2022-02-20 13:40
 
 title: Bacadh ga chur air teiripe iompachaidh ann an Sealainn Nuadh
 
+image: /images/posts/2022-02-20-bacadh-ga-chur-air-teiripe-iompachaidh-ann-an-sealainn-nuadh.webp
+
 author: Crìstean MacMhìcheil
 
 categories:
     - An t-Saoghal
     
 ---
-
-![]({{ site.baseurl }}/images/posts/2022-02-20-bacadh-ga-chur-air-teiripe-iompachaidh-ann-an-sealainn-nuadh.webp)
 
 Tha Pàrlamaid Shealainn Nuadh air gabhail ri lagh ùr a chuireas bacadh air teiripe iompachaidh.
 

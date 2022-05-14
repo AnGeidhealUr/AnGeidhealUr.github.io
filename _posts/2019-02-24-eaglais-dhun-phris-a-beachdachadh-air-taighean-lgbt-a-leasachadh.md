@@ -6,26 +6,16 @@ date: 2019-02-24 23:15:00
 
 title: Eaglais Dhùn Phrìs a' beachdachadh air taighean LCDT a leasachadh
 
-image: /images/2019-02-24-eaglais-dhun-phris-a-beachdachadh-air-taighean-lgbt-a-leasachadh.webp
-
-image-caption: Dealbh le Billy McCrorie. Ceadaichte fo Creative Commons.
-
-image-licence: http://creativecommons.org/licenses/by-sa/2.0/
+image: /images/posts/2019-02-24-eaglais-dhun-phris-a-beachdachadh-air-taighean-lgbt-a-leasachadh.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
     - Alba
 
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Tha [BBC News ag aithris](https://www.bbc.co.uk/news/uk-scotland-south-scotland-47291707) gu bheil eaglais ann an Dùn Phrìs a' beachdachadh air taighean ùra a leasachadh dhan choimhearsnachd LCDT air làrach Eaglais an Naoimh Bhrìghde.
-
-<!--more-->
 
 Chaidh an eaglais a thogail anns na 1860'an agus tha i fhathast aon de na toglaichean as fhollaisiche sa bhaile.
 

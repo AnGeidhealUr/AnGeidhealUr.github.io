@@ -6,14 +6,14 @@ date: 2022-01-06
 
 title: Cùis-lagha an-aghaidh taigh-fhuine ann am Beul Feirste air a dhiùltadh
 
+image: /images/posts/2022-01-06-cuis-lagha-an-aghaidh-taigh-fhuine-ann-am-beul-feirste-air-a-dhiultadh.webp
+
 author: Crìstean MacMhìcheil
 
 categories:
     - An t-Saoghal
 
 ---
-
-![]({{ site.baseurl }}/images/posts/2022-01-06-cuis-lagha-an-aghaidh-taigh-fhuine-ann-am-beul-feirste-air-a-dhiultadh.webp)
 
 Tha Cùirt Eòrpach nan Còraichean Daonna air cùis-lagha an-aghaidh taigh-fhuine ann am Beul Feirste a dhiùltadh.
 

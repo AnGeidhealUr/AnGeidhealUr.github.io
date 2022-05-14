@@ -6,27 +6,16 @@ date: 2020-04-05
 
 title: Stad air a chur air an obair gus Achd Aithneachadh Gnè na h-Alba ath-leasachadh
 
-image: /images/2020-04-05-stad-air-a-chur-air-an-obair-gus-achd-aithneachadh-gne-na-h-alba-ath-leasachadh.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2020-04-05-stad-air-a-chur-air-an-obair-gus-achd-aithneachadh-gne-na-h-alba-ath-leasachadh.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
     - Alba
     
-
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Dhearbh Graeme Dey, Ministear airson Gnothaichean na Pàrlamaid agus Seann-saighdearan, an seachdain seo gun deach dàil a chur air obair a’ Phàrlamaid air cìs turasachd, ath-leasachaidhean gnè agus reachdas Brexit gus an urrainn do BhPA fòcas a dhèanamh air èiginn a’ Choròna-bhìoras.
-
-<!--more-->
 
 Thuirt Dey gu robh seo duilich ach gum feumadh an Riaghaltas bilean nach eil riatanach ath-phrìomhachasadh mar thoradh air an oidhirp gus stad a chur air a’ bhìoras.
 

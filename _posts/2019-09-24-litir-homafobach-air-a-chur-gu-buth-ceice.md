@@ -6,30 +6,20 @@ date: 2019-09-24 13:45:00
 
 title: Litir homafòbach air a chur gu bùth cèice
 
-image: /images/2019-09-24-litir-homafobach-air-a-chur-gu-buth-ceice.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2019-09-24-litir-homafobach-air-a-chur-gu-buth-ceice.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
     - Alba
 
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Bha iongnadh air luchd-obrach aig bùth cèice ann am Baile Udain Diardaoin as dèidh dhaibh litir homafòbach fhaighinn tron phost.
-
-<!--more-->
 
 Chaidh an litir, a ghabhas a leughadh gu h-ìseal, a chur gun ainm dhan bhùth [https://specialdayscakes.com/](Special Days Cakes).
 
-![Litir homafòbach a chaidh a chur gu Special Days Cakes](/images/2019-09-24-litir-homafobach-air-a-chur-gu-buth-ceice.webp){: .post-image }
+![Litir homafòbach a chaidh a chur gu Special Days Cakes](/images/posts/2019-09-24-litir-homafobach-air-a-chur-gu-buth-ceice.webp){: .post-image }
 
 'S ann le Mìcheal Burns agus Steafan Whyteside a tha am bùth.
 

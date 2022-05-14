@@ -6,28 +6,16 @@ date: 2018-09-21 19:19:21
 
 title: Fèis-pròise Innse Ghall air a chàineadh le Ministear na h-Eaglaise Saoire Leantainnich
 
-image: /images/2018-09-21-feis-proise-innse-ghall-air-a-chaineadh-le-ministear-na-h-eaglaise-saoire-leantainnich.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2018-09-21-feis-proise-innse-ghall-air-a-chaineadh-le-ministear-na-h-eaglaise-saoire-leantainnich.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
   - Alba
   
-  
-
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Tha Ministear na h-Eaglaise Saoire Leantainnich air iomradh a thoirt air a&#8217; chiad fèis-pròise anns na h-Eileanan an Iar mar &#8220;duilich agus nàireach&#8221;.
-
-<!--more-->
 
 Tha _The Press & Journal_ ag aithris gun tuirt An t-Ùrr. Graeme Craig &#8220;Ge b&#8217; e dè an seòrsa mì-bheus gnèitheach, chan eil e rudeigin a bhith mòiteil às.&#8221;
 

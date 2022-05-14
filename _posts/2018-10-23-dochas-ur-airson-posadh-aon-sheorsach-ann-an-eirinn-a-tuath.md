@@ -6,27 +6,16 @@ date: 2018-10-23 12:16:39
 
 title: Dòchas ùr airson pòsadh aon-sheòrsach ann an Èirinn a Tuath
 
-image: /images/2018-10-23-dochas-ur-airson-posadh-aon-sheorsach-ann-an-eirinn-a-tuath.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2018-10-23-dochas-ur-airson-posadh-aon-sheorsach-ann-an-eirinn-a-tuath.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
   - An Rìoghachd Aonaichte
   
-
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Tha dithis bhall-phàrlamaid Làbarach air plana a chur an gnìomh a dh&#8217;fhaodadh pòsadh aon-sheòrsach a dhèanamh laghail ann an Èirinn a Tuath.
-
-<!--more-->
 
 Tha Conor McGinn air a bhith a&#8217; dèanamh iomairt airson co-ionannachd pòsaidh aig an aon àm &#8217;s a tha Stella Creasy air a bhith a&#8217; dèanamh iomairt airson còirichean casg-breith.
 

@@ -6,27 +6,16 @@ date: 2019-01-11 14:56:18
 
 title: Talla-spors Dhùn Èideann a’ tabhann chlasaichean fallaineachd an-asgaidh do dhaoine tar-gnèitheach agus neo-bhìnearaidh
 
-image: /images/2019-01-11-talla-spors-dhun-eideann-a-tabhann-chlasaichean-fallaineachd-an-asgaidh-do-dhaoine-tar-gneitheach-agus-neo-bhinearaidh.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2019-01-11-talla-spors-dhun-eideann-a-tabhann-chlasaichean-fallaineachd-an-asgaidh-do-dhaoine-tar-gneitheach-agus-neo-bhinearaidh.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
   - Alba
 
-
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Tha an talla-spòrs neo-phrothaideach [Projekt 42][1] ann an Lìte air ainmeachadh gum bi iad a’ tabhann chlasaichean fallaineachd seachdaineil an-asgaidh do dhaoine tar-ghnèitheach agus neo-bhìnearaidh.
-
-<!--more-->
 
 ‘S e amas an talla-spòrs slàinte-inntinn nan com-pàirtichean neartachadh le eacarsaich chorporra agus thuirt iad gu bheil iad airson àite eacarsaich sàbhailte a chruthachadh do dhaoine tar-ghnèitheach agus neo-bhìnearaidh.
 

@@ -6,28 +6,16 @@ date: 2019-05-31 16:49
 
 title: Cha tèid bratach a' bhogha-fhroise a thaisbeanadh le CNES rè Fèis-pròise na h-Innse Gall
 
-image: /images/2019-05-31-cha-teid-bratach-a-bhogha-fhroise-a-thaisbeanadh-le-cnes-re-feis-proise-na-h-innse-gall.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2019-05-31-cha-teid-bratach-a-bhogha-fhroise-a-thaisbeanadh-le-cnes-re-feis-proise-na-h-innse-gall.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
     - Alba
     
-    
-
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Tha Comhairle nan Eilean Siar air dearbhadh nach tèid bratach a’ bhogha-fhroise a thaisbeanadh taobh a-muigh nan oifisean aca ann an Steòrnabhagh rè Fèis-pròise na h-Innse Gall a bhios a’ dol air adhart sa bhaile a-màireach.
-
-<!--more-->
 
 Sgrìobh a' chomhairle post-d ri eagraichean an tachartais air thòiseach air a' chiad caismeachd aca an-uiridh anns an tuirt iad gur e poileasaidh a' chomhairle gun a bhith a' taisbeanadh diofar brataichean taobh a-muigh nan oifisean aca air sgàth an àireamh de dh'iarrtasan a bhios iad a' faighinn agus iad airson a bhith cothromachd dhan a h-uile duine.
 

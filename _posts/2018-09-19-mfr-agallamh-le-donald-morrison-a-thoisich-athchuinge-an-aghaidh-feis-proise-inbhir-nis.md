@@ -6,28 +6,16 @@ date: 2018-09-19 06:15:53
 
 title: 'MFR: Agallamh le Donald Morrison a thòisich athchuinge an-aghaidh Fèis-pròise Inbhir Nis'
 
-image: /images/2018-09-19-mfr-agallamh-le-donald-morrison-a-thoisich-athchuinge-an-aghaidh-feis-proise-inbhir-nis.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2018-09-19-mfr-agallamh-le-donald-morrison-a-thoisich-athchuinge-an-aghaidh-feis-proise-inbhir-nis.webp
 
 author: Crìstean MacMhìcheil
 
-comments: true
-
 categories:
-  - Alba
-  
-  
+  - Alba  
 
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Seo agaibh agallamh a rinn _MFR_ / _Bauer Radio Scotland_ le Donald Morrison, fear a thòisich athchuinge an-aghaidh Fèis-pròise Inbhir Nis air sgàth, mar a chanas e, &#8220;adhbharan bìoballach, diadhaidh agus moralta&#8221;.
-
-<!--more-->
 
 Anns a&#8217; bhidio tha Mgr Morrison ag ràdh nach eil e moralta airson daoine LCDT a bhith a&#8217; taisbeanadh no a&#8217; brosnachadh an taobhadh-fèise agus &#8220;an dòigh-beatha&#8221; aca ann an àiteachan poblach.
 

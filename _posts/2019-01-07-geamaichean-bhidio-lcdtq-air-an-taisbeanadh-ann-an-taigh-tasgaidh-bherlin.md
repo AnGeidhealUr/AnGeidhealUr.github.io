@@ -6,28 +6,16 @@ date: 2019-01-07 16:12:28
 
 title: Geamaichean-bhidio LCDTQ air an taisbeanadh ann an taigh-tasgaidh Bherlin
 
-image: /images/2019-01-07-geamaichean-bhidio-lcdtq-air-an-taisbeanadh-ann-an-taigh-tasgaidh-bherlin.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2019-01-07-geamaichean-bhidio-lcdtq-air-an-taisbeanadh-ann-an-taigh-tasgaidh-bherlin.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
   - An t-Saoghal
   
-  
-
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Tha [Taigh-tasgaidh Schwules][1] ann am Berlin air taisbeanadh ùr fhosgladh gus geamaichean-bhidio LCDTQ a chomharrachadh.
-
-<!--more-->
 
 Bidh luchd-tadhail a&#8217; leantainn an taisbeanadh timcheall bogha-froise, le dath eadar-dhealaichte aig gach roinn, a&#8217; comharrachadh nan 33 bliadhna mu dheireadh de shusbaint LCDTQ ann an geamaichean tro ealain spèisearan, cuimhneachain agus agallamhan bhidio le luchd-dealbhaidh &#8211; a bharrachd air tiotalan mar _[Caper in the Castro][2]_, aon dhen a&#8217; chiad gheamaichean LCDTQ, a tha ri cluich leis an luchd-tadhail.
 

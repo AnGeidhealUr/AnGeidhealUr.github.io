@@ -6,14 +6,14 @@ date: 2022-03-03 14:00
 
 title: Bile ga thoirt a-steach do Phàrlamaid na h-Alba a tha ag amas air a dhèanamh nas fhasa do phearsachan an aithne ghnè laghail atharrachadh
 
+image: /images/posts/2022-03-03-bile-ga-thoirt-a-steach-do-pharlamaid-na-h-alba-a-tha-ag-amas-air-a-dheanamh-nas-fhasa-do-phearsachan-an-aithne-ghne-laghail-atharrachadh.webp
+
 author: Crìstean MacMhìcheil
 
 categories:
     - Alba
 
 ---
-
-![]({{ site.baseurl }}/images/posts/2022-03-03-bile-ga-thoirt-a-steach-do-pharlamaid-na-h-alba-a-tha-ag-amas-air-a-dheanamh-nas-fhasa-do-phearsachan-an-aithne-ghne-laghail-atharrachadh.webp)
 
 Thèid bile ùr a thoirt a-steach do Phàrlamaid na h-Alba feasgar an-diugh a tha ag amas air an Achd Aithneachadh Gnè atharrachadh gus am pròiseas a dhèanamh nas fhasa do phearsachan teisteanas aithneachadh gnè (GRC) fhaighinn.
 

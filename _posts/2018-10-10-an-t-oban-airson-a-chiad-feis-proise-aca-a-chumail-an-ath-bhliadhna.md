@@ -6,27 +6,16 @@ date: 2018-10-10 13:17:32
 
 title: An t-Òban airson a’ chiad fèis-pròise aca a chumail an ath-bhliadhna
 
-image: /images/2018-10-10-an-t-oban-airson-a-chiad-feis-proise-aca-a-chumail-an-ath-bhliadhna.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2018-10-10-an-t-oban-airson-a-chiad-feis-proise-aca-a-chumail-an-ath-bhliadhna.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
   - Alba
   
-
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Thèid fèis-pròise a chumail anns an t-Òban an ath-bhliadhna airson a&#8217; chiad turas a-riamh.
-
-<!--more-->
 
 Chaidh ainmeachadh air Facebook [ann an bhidio goirid][1] le bànrigh draga ionadail, Crystal, anns a bheil i ag iarraidh air muinntir an àite tighinn gu sgrìonadh sònraichte dhen film _God&#8217;s Own Country_ ann an Taigh-dhealbh Pheonix 26mh Dàmhair aig 7f. Cuideachd thuirt i gum bi oidhche làn ceòl agus fealla-dhà aig Bar na Seilear as a dhèidh.
 

@@ -6,27 +6,16 @@ date: 2018-11-06 17:06:00
 
 title: Fèis film LCDT+ ri tilleadh a Ghlaschu
 
-image: /images/2018-11-06-feis-film-lcdt-ri-tilleadh-a-ghlaschu.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2018-11-06-feis-film-lcdt-ri-tilleadh-a-ghlaschu.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
   - Alba
   
-
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Thèid an ceathramh _[Scottish Queer International Film Festival (SQIFF)][1]_ a thilleadh a Ghlaschu 5mh &#8211; 9mh An Dùbhlachd.
-
-<!--more-->
 
 Thèid a chumail thairis an còig latha aig ionadan a leithid CCA, GFT, an Sgoil Ealain agus Pàirc Kinning. Cuideachd bidh prògram ro-sheallaidh aig sgrìonan air feadh na dùthcha, [An Lanntair, Steòrnabhagh][2] nam measg, anns an t-Samhain.
 

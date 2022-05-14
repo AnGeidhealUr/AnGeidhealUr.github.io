@@ -6,26 +6,16 @@ date: 2020-05-13
 
 title: Ceannard Stonewall ùr air ainmeachadh
 
-image: /images/2020-05-13-ceannard-stonewall-ur-air-ainmeachadh.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2020-05-13-ceannard-stonewall-ur-air-ainmeachadh.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
     - An Rìoghachd Aonaichte
 
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Chaidh [ainmeachadh](https://www.stonewall.org.uk/about-us/news/stonewall-welcomes-nancy-kelley-new-ceo) Dimàirt gur e Nancy Kelley ceannard ùr a' charthannais LGBT+ Stonewall.
-
-<!--more-->
 
 Tha Kelley an-dràsta ag obair aig an [Ionad Nàiseanta airson Rannsachadh Sòisealta (NatCen)](http://natcen.ac.uk) far a bheil i na Leas-cheannard agus Stiùiriche an Ionaid-rannsachaidh Poileasaidh.
 

@@ -6,27 +6,16 @@ date: 2019-04-01 21:30:00
 
 title: Planaichean Fèis-pròise Ghlaschu air a dhiùltadh leis a' chomhairle
 
-image: /images/2019-04-01-planaichean-feis-proise-ghlaschu-air-a-dhiultadh-leis-a-chomhairle.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2019-04-01-planaichean-feis-proise-ghlaschu-air-a-dhiultadh-leis-a-chomhairle.webp
 
 author: Crìstean MacMhìcheil
 
-comments: true
-
 categories:
     - Alba
-    
 
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Tha [Glasgow Life](https://www.glasgowlife.org.uk/) air dearbhadh nach tèid Fèis-pròise Ghlaschu a chumail aig Taigh-tasgaidh Taobh na h-Aibhne am-bliadhna air sgàth 's suim airgid a tha fhathast ri phàigheadh ris a' chomhairle airson tachartasan roimhe.
-
-<!--more-->
 
 Ann an [aithris ri Phink Saltire](https://pinksaltire.com/2019/04/01/council-pulls-the-plug-on-riverside-pride-plans-for-glasgow/) madainn an-diugh thuirt an carthannas, a bhios a' ruith goireasan cultarach as leth Comhairle Baile Ghlaschu, nach fhaod an tachartas goireasan comhairle a chleachdadh airson tachartas am-bliadhna.
 

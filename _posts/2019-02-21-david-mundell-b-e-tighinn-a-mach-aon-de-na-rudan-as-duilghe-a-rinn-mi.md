@@ -6,26 +6,16 @@ date: 2019-02-21 06:30:00
 
 title: David Mundell - "B'e tighinn a-mach aon de na rudan as duilighe a rinn mi"
 
-image: /images/2019-02-21-david-mundell-b-e-tighinn-a-mach-aon-de-na-rudan-as-duilghe-a-rinn-mi.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2019-02-21-david-mundell-b-e-tighinn-a-mach-aon-de-na-rudan-as-duilghe-a-rinn-mi.webp
 
 author: Crìstean MacMhìcheil
 
-comments: true
-
 categories:
-    
+    - Poileataigs
 
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Tha David Mundelll BP, air ràdh gum b' e tighinn a-mach aon de na rudan as duilghe a rinn e.
-
-<!--more-->
 
 "B' e tighinn a-mach aon de na rudan as duilghe a rinn mi, ach aon de na rudan as cudromaiche cuideachd. Chuir na fhuair mi de thaic bho càirdean, teaghlach agus co-obraichean iongnadh orm."
 

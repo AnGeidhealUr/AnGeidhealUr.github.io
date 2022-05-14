@@ -6,27 +6,16 @@ date: 2019-08-22 20:30:00
 
 title: Iomairt airson tachartas pròise a chumail ann am Moireabh
 
-image: /images/2019-08-22-iomairt-airson-tachartas-proise-a-chumail-ann-am-moireabh.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2019-08-22-iomairt-airson-tachartas-proise-a-chumail-ann-am-moireabh.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
     - Alba
     
-
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Chaidh iomairt a stèidheachadh gus fèis-pròise a chumail ann am Moireabh an ath-bhliadhna.
-
-<!--more-->
 
 Chaidh an iomairt a stèidheachadh leis a’ bhuidheann [LGBT Moray](https://www.facebook.com/lgbt.moray/) agus tha iad gu bhith a’ cumail a’ chiad choinneamh dealbhaidh aca Dihaoine 6mh dhen Sultain aig 5:30f anns a’ Chaberfeidh, Eilginn.
 

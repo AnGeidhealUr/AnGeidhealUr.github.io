@@ -6,26 +6,16 @@ date: 2019-09-23 06:53:00
 
 title: Tatù air a dhiùltadh do dhuine le HIV
 
-image: /images/2019-09-23-tatu-air-a-dhiultadh-do-dhuine-le-hiv.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2019-09-23-tatu-air-a-dhiultadh-do-dhuine-le-hiv.webp
 
 author: Crìstean MacMhìcheil
 
-comments: true
-
 categories:
-  
-
+  - Alba
+  - Slàinte
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Tha a' BhBC ag aithris gu bheil bùth tatù ann an Dùn Dè air duine a dhiùltadh air sgàth 's gu bheil HIV air.
-
-<!--more-->
 
 Chaidh Deejay Bullock dhan bhùth san Iuchar gus tatù ùr fhaighinn airson a cho-là-breith ach chaidh a dhiùltadh nuair a dhearbh e air foirm aithris-àichidh gu bheil HIV air.
 

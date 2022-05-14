@@ -6,32 +6,16 @@ date: 2020-07-11
 
 title: Carthannasan tar-ghnèitheach gan toirt air falbh bho dhuilleag taic a’ BhBC
 
-image: /images/2020-07-11-carthannasan-tar-ghneitheach-gan-toirt-air-falbh-bho-dhuilleag-taic-a-bhbc.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2020-07-11-carthannasan-tar-ghneitheach-gan-toirt-air-falbh-bho-dhuilleag-taic-a-bhbc.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
     - An Rìoghachd Aonaichte
 
-twitter: https://www.twitter.com/AnGeidhealUr/status/1281896396539531266
-
-instagram: https://www.instagram.com/p/CCfzWYdgzOr/
-
-facebook: https://www.facebook.com/AnGeidhealUr/posts/3183314391691095
-
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Tha a’ BhBC air duilleag-lìn atharrachadh gus fiosrachadh mu charthannasan a bheireas taic do dhaoine tar-ghnèitheach a thoirt air falbh.
-
-<!--more-->
 
 Tha an [LGBT Foundation](https://lgbt.foundation), [Mermaids](https://mermaidsuk.org.uk), [The Gender Trust](http://www.gendertrust.org.uk) agus [GIRES (The Gender Identity Research and Education Society)](https://www.gires.org.uk) uile nan carthannasan clàraichte a bheireas taic agus comhairle do dhaoine tar-ghnèitheach agus neo-bhìnearaidh.
 

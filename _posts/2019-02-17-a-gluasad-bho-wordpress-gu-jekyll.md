@@ -6,28 +6,18 @@ date: 2019-02-17 18:00:00
 
 title: A' gluasad bho Wordpress gu Jekyll
 
-image: /images/2019-02-17-a-gluasad-bho-wordpress-gu-jekyll.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2019-02-17-a-gluasad-bho-wordpress-gu-jekyll.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
     - Blog
 
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 O chionn 2008 tha An Gèidheal Ùr air a bhith na bhlog Wordpress (a' ruith grunn plugain treas-phàrtaidh) a tha mi air a bhith ag òstaireachd agus a' cumail suas leam fhèin.
 
 Dh'obraich e math gu leòr airson greis, ach tha mi air a bhith a' fàs sgìth le duilleagan slaodach, mearachdan frithealaiche, amannan far-loidhne agus ùrachaidhean a stàladh fad na h-ùine agus mar sin tha an làrach-lìn a-nis air gluasad bho Wordpress gu Jekyll.
-
-<!--more-->
 
 Tha mi air feuchainn ri buaidh a' ghluasaid a lùghdachadh - bu chòir a' mhòr-chuid de sheann cheanglaichean a bhith ag obair fhathast agus tha coltas an làraich-lìn ùr cha mhòr co-ionnan ris an an t-seann làrach-lìn.
 

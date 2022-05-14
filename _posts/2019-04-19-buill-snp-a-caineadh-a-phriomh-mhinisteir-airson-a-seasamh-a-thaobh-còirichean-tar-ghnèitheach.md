@@ -6,27 +6,16 @@ date: 2019-04-19 17:50
 
 title: Buill SNP a’ càineadh a’ Prìomh Mhinisteir airson a seasamh a thaobh còirichean tar-ghnèitheach
 
-image: /images/2019-04-19-buill-snp-a-caineadh-a-phriomh-mhinisteir-airson-a-seasamh-a-thaobh-còirichean-tar-ghnèitheach.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2019-04-19-buill-snp-a-caineadh-a-phriomh-mhinisteir-airson-a-seasamh-a-thaobh-còirichean-tar-ghnèitheach.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
     - Alba
     
-    
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Chaidh teachdaireachdan a fhoillseachadh air loidhne anns a bheil triùir BPA SNP a’ càineadh seasamh a’ Phrìomh Mhinistear, Nicola Sturgeon, a thaobh  còirichean tar-ghnèitheach  agus ath-leasachaidhean air an Achd Aithne Gnè.
-
-<!--more-->
 
 Chaidh na teachdaireachdan a lorg a lorg ann an còmhradh prìobhaideach air Twitter le seann neach-obrach an SNP a chur air adhart iad ri Phink Saltire. [1]
 

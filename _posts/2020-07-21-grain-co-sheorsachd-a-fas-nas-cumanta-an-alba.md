@@ -6,33 +6,16 @@ date: 2020-07-21
 
 title: Gràin co-sheòrsachd a' fàs nas cumanta an Alba
 
-image: /images/2020-07-21-grain-co-sheorsachd-a-fas-nas-cumanta-an-alba.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2020-07-21-grain-co-sheorsachd-a-fas-nas-cumanta-an-alba.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
     - Alba
     
-
-twitter: https://www.twitter.com/AnGeidhealUr/status/1285608615836098563
-
-instagram: https://www.instagram.com/p/CC6PyZeg9x9/
-
-facebook: https://www.facebook.com/AnGeidhealUr/posts/3212583162097551
-
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Tha figearan oifigeil bho Oifis a' Chrùin a' sealltainn gu bheil an àireamh de dh'eucoirean gràin air an adhbharachadh le gràin co-sheòrsachd ann an Alba aig an ìre as àirde a-riamh.
-
-<!--more-->
 
 A-rèir nan figearan bha àrdachadh de 24% bho 1194 casaidean ann an 2018-19 gu 1486 casaidean ann an 2019-20.
 

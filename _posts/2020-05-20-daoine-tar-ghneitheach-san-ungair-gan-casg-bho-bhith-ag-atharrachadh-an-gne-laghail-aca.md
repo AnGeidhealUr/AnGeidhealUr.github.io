@@ -6,27 +6,16 @@ date: 2020-5-20
 
 title: Daoine tar-ghnèitheach san Ungair gan casg bho bhith ag atharrachadh an gnè laghail aca
 
-image: /images/2020-5-20-daoine-tar-ghneitheach-san-ungair-gan-casg-bho-bhith-ag-atharrachadh-an-gne-laghail-aca.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2020-5-20-daoine-tar-ghneitheach-san-ungair-gan-casg-bho-bhith-ag-atharrachadh-an-gne-laghail-aca.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
     - An t-Saoghal
     
-
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Tha pàrlamaid na h-Ungaire air bhòtadh airson lagh a chuireas casg air daoine tar-ghnèitheach an gnè aca atharrachadh air sgrìobhainnean oifigeil.
-
-<!--more-->
 
 Bhòt 133 buill-phàrlamaid airson Artaigil 33, a tha ag ràdh gu bheil gnè stèidhichte air na prìomh fheartan gnè agus cròmosomaichean. Cha do bhòt ach 57 na h-aghaidh.
 

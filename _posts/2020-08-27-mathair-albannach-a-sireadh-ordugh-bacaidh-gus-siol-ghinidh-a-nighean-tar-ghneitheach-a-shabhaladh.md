@@ -6,33 +6,16 @@ date: 2020-08-27
 
 title: Màthair Albannach a' sireadh òrdugh-bacaidh gus sìol-ghinidh a nighean tar-ghnèitheach a shàbhaladh
 
-image: /images/2020-08-27-mathair-albannach-a-sireadh-ordugh-bacaidh-gus-siol-ghinidh-a-nighean-tar-ghneitheach-a-shabhaladh.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2020-08-27-mathair-albannach-a-sireadh-ordugh-bacaidh-gus-siol-ghinidh-a-nighean-tar-ghneitheach-a-shabhaladh.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
     - Alba
     
-
-twitter: https://www.twitter.com/AnGeidhealUr/status/1298998471618224128
-
-instagram: https://www.instagram.com/p/CEZciOug7Vu/
-
-facebook: https://www.facebook.com/AnGeidhealUr/posts/3325347517487781
-
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Tha màthair Albannach a’ sireadh òrdugh-bacaidh gus casg a chur air dotairean sìolachaidh sgrios a dhèanamh air sìol-ghinidh a nighean tar-ghnèitheach.
-
-<!--more-->
 
 Bhàsaich Ellie Anderson, 16, gu h-obann san Iuchar.
 

@@ -6,28 +6,16 @@ date: 2018-09-19 10:32:24
 
 title: Corr ’s 14,000 air na h-ainmean aca a chur ri athchuingean airson Fèis-pròise Inbhir Nis a dhol air adhart
 
-image: /images/2018-09-19-corr-s-14000-air-na-h-ainmean-aca-a-chur-ri-athchuingean-airson-feis-proise-inbhir-nis-a-dhol-air-adhart.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2018-09-19-corr-s-14000-air-na-h-ainmean-aca-a-chur-ri-athchuingean-airson-feis-proise-inbhir-nis-a-dhol-air-adhart.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
   - Alba
   
-  
-
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Tha còrr &#8217;s 14,000 duine air na h-ainmean aca a chur ri trì athchuingean gus an taic aca a shealltainn airson Fèis-pròise Inbhir Nis.
-
-<!--more-->
 
 Chaidh na h-athchuingean a thòiseachadh as dèidh gun do thòisich Donald Morrison athchuinge eile an-aghaidh an fhèis air sgàth &#8220;adbharan bìoballach, diadhaidh agus moralta.&#8221;
 

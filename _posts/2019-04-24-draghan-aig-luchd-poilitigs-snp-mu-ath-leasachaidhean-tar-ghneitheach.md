@@ -6,27 +6,16 @@ date: 2019-04-24 21:30
 
 title: Draghan aig luchd-poilitigs SNP mu ath-leasachaidhean tar-ghnèitheach
 
-image: /images/2019-04-24-draghan-aig-luchd-poilitigs-snp-mu-ath-leasachaidhean-tar-ghneitheach.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2019-04-24-draghan-aig-luchd-poilitigs-snp-mu-ath-leasachaidhean-tar-ghneitheach.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
     - Alba
     
-
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Tha còig-deug neach-poilitigs an SNP air draghan a thogail mu phlanaichean Riaghaltas na h-Alba airson Achd Aithne Gnè ath-leasachadh.
-
-<!--more-->
 
 Tha an Riaghaltas airson an achd ath-leasachadh gus am biodh e nas fhasa do dhaoine tar-ghnèitheach an gnè laghail aca atharrachadh.
 

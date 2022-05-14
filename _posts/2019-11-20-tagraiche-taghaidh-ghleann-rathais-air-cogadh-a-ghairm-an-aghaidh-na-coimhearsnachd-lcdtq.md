@@ -6,29 +6,16 @@ date: 2019-11-20
 
 title: Tagraiche taghaidh Ghleann Rathais air cogadh a ghairm an-aghaidh na coimhearsnachd LCDTQ
 
-image: /images/2019-11-20-tagraiche-taghaidh-ghleann-rathais-air-cogadh-a-ghairm-an-aghaidh-na-coimhearsnachd-lcdtq.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2019-11-20-tagraiche-taghaidh-ghleann-rathais-air-cogadh-a-ghairm-an-aghaidh-na-coimhearsnachd-lcdtq.webp
 
 author: Crìstean MacMhìcheil
 
-comments: true
-
 categories:
     - Alba
-    
-
-tags:
 
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Tha tagraiche taghaidh ann an Gleann Rathais air taic a’ Phàrtaidh Bhrexit a chall as dèidh dha cogadh a ghairm an-aghaidh na coimhearsnachd LCDTQ+.
-
-<!--more-->
 
 Thàinig beachdan Victor Farrell am follais Diluain nuair a sgaoil BPA SNP, Jenny Gilruth, dealbhan-sgrìn de phuist a sgrìobh Farrell air Facebook ann an 2017 agus a tha fhathast rim faicinn air a’ phròifil phoblach aige.
 

@@ -6,28 +6,16 @@ date: 2018-11-19 17:23:34
 
 title: Poileas Alba ri sùil a thoirt air ionmhas Fèis-pròise Ghlaschu
 
-image: /images/2018-11-19-poileas-alba-ri-suil-a-thoirt-air-ionmhas-feis-proise-ghlaschu.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2018-11-19-poileas-alba-ri-suil-a-thoirt-air-ionmhas-feis-proise-ghlaschu.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
   - Alba
   
-  
-
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Chaidh iarraidh air Poileas Alba sùil a thoirt air ionmhas Fèis-pròise Ghlaschu.
-
-<!--more-->
 
 Thathar a&#8217; tuigsinn gun deach fios a chur ris am poileas mu airgead a chaidh air chall as dèidh tachartas na bliadhna seo.
 

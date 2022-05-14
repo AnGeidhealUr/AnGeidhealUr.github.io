@@ -6,27 +6,16 @@ date: 2018-08-13 20:45:18
 
 title: Baile beag Cuimreach airson a’ chiad fèis-pròise aige a chumail
 
-image: /images/2018-08-13-baile-beag-cuimreach-airson-a-chiad-feis-proise-aige-a-chumail.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2018-08-13-baile-beag-cuimreach-airson-a-chiad-feis-proise-aige-a-chumail.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
   - An Rìoghachd Aonaichte
   
-
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Tha coimhearsnachd beag anns a&#8217; Chuimrigh air tighinn còmhla gus fèis-pròise a phlanadh airson 1mh t-Sultain 2018.
-
-<!--more-->
 
 Cha do chum Llantwit Major fèis-pròise a-riamh ach tha iad an dùil gum bi e na deagh eisimpleir do choimhearsnachdan beaga eile a tha airson pride a chomharrachadh.
 

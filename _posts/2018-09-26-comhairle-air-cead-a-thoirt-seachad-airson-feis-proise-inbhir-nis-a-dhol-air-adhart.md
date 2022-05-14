@@ -6,27 +6,16 @@ date: 2018-09-26 13:00:10
 
 title: Comhairle air cead a thoirt seachad airson Fèis-pròise Inbhir Nis a dhol air adhart
 
-image: /images/2018-09-26-comhairle-air-cead-a-thoirt-seachad-airson-feis-proise-inbhir-nis-a-dhol-air-adhart.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2018-09-26-comhairle-air-cead-a-thoirt-seachad-airson-feis-proise-inbhir-nis-a-dhol-air-adhart.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
   - Alba
   
-
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Chaidh a dhearbhadh madainn Dimàirt gum faod Fèis-pròise Inbhir Nis dol air adhart 6mh Dàmhair.
-
-<!--more-->
 
 Thuirt neach-labhairt a’ Chomhairle ris _The Inverness Courier_:
 

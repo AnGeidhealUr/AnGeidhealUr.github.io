@@ -6,26 +6,16 @@ date: 2019-04-15 19:52
 
 title: Ionnsaigh ann an Dùn Èideann
 
-image: /images/2019-04-15-ionnsaigh-ann-an-dun-eideann.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2019-04-15-ionnsaigh-ann-an-dun-eideann.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
     - Alba
 
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Tha [STV News](https://stv.tv/news/east-central/1437007-drag-artist-attacked-on-street-in-early-morning-attack/) ag aithris gu bheil am Poileas a’ rannsachadh ionnsaigh air fireannach, 40, ann an Dùn Èideann.
-
-<!--more-->
 
 Bha Ben Lyons a’ coiseachd gu stad-bus tràth madainn Dimàirt, nuair a chaidh ionnsaigh a thoirt air le dithis fhireannaich agus chaidh a aodann a leòn gu dona.
 

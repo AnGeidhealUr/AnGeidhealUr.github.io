@@ -6,27 +6,16 @@ date: 2019-04-08 17:20:00
 
 title: Maoin ùr air a stèidheachadh gus taic a thoirt do dh'eagraichean fèisean-pròise na h-Alba
 
-image: /images/2019-04-08-maoin-ur-air-a-steidheachadh-gus-taic-a-thoirt-do-dh-eagraichean-feisean-proise-na-h-alba.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2019-04-08-maoin-ur-air-a-steidheachadh-gus-taic-a-thoirt-do-dh-eagraichean-feisean-proise-na-h-alba.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
     - Alba
     
-
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Tha [Pink Saltire](https://pinksaltire.com/), seirbheis naidheachd LCDT na h-Alba, air an iomairt ùr, [The Scottish Pride Fund](https://scotpride.org/), a chur air bhog gus taic ionmhais a thoirt do dh’eagraichean fèisean-pròise air feadh na h-Alba.
-
-<!--more-->
 
 A bharrachd air maoineachadh do dh’fhèisean-pròise a tha stèidhichte mar-thà, thèid maoin leasachaidh sònraichte a stèidheachadh gus coimhearsnachdan a chuideachadh le bhith a’ stèidheachadh fèisean-pròise ùra.
 

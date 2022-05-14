@@ -6,28 +6,17 @@ date: 2018-10-23 21:00:24
 
 title: A’ chiad cead-siubhail neo-ghèitheach air a thoirt a-mach anns na Tìrean Ìsle
 
-image: /images/2018-10-23-a-chiad-cead-siubhail-neo-gheitheach-air-a-thoirt-a-mach-anns-na-tirean-isle.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2018-10-23-a-chiad-cead-siubhail-neo-gheitheach-air-a-thoirt-a-mach-anns-na-tirean-isle.webp
 
 author: Crìstean MacMhìcheil
 
-comments: true
-
 categories:
-  - An t-Saoghal
   - An t-Saoghal
   
 
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Chaidh cead-siubhail neo-ghnèitheach (_gender neutral_) a thoirt a-mach anns Na Tìrean Ìsle airson a&#8217; chiad turas.
-
-<!--more-->
 
 Chaidh a thoirt gu Leonne Zeegers agus tha ga comharrachadh mar gnè X an àite boireann no fireann.
 
