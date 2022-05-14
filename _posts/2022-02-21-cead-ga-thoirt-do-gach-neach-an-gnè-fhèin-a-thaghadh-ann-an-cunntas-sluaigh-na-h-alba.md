@@ -6,27 +6,14 @@ date: 2022-02-21 22:00
 
 title: Cead ga thoirt do gach neach an gnè fhèin a thaghadh ann an Cunntas-sluaigh na h-Alba
 
-image: /images/2022-02-21-cead-ga-thoirt-do-gach-neach-an-gnè-fhèin-a-thaghadh-ann-an-cunntas-sluaigh-na-h-alba.webp
-
-image-caption:
-
-image-licence:
-
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
     - Alba
     
-
-instagram: https://www.instagram.com/p/CaQVPx8LIx4/
-
-twitter: https://twitter.com/AnGeidhealUr/status/1495881257561083904
-
 ---
 
-![]({{ site.baseurl }}{{ page.image }})
+![]({{ site.baseurl }}/images/2022-02-21-cead-ga-thoirt-do-gach-neach-an-gnè-fhèin-a-thaghadh-ann-an-cunntas-sluaigh-na-h-alba.webp)
 
 Tha britheamh air riaghladh gum faod gach neach an gnè fhèin a thaghadh ann an cunntas-sluaigh na h-Alba gun feum air teisteanas aithneachadh gnè.
 
