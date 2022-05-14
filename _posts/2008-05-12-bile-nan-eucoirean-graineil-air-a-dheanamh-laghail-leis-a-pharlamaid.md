@@ -6,27 +6,16 @@ date: 2008-05-12 16:31:06
 
 title: Bile nan Eucoirean Gràineil air a dhèanamh laghail leis a’ Phàrlamaid
 
-image: /images/2008-05-12-bile-nan-eucoirean-graineil-air-a-dheanamh-laghail-leis-a-pharlamaid.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2008-05-12-bile-nan-eucoirean-graineil-air-a-dheanamh-laghail-leis-a-pharlamaid.webp
 
 author: Crìstean MacMhìcheil
 
-comments: true
-
 categories:
-  - An Rìoghachd Aonaichte
-  
+  - An Rìoghachd Aonaichte  
 
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Tha Taigh nam Morairean air _the Criminal Justice and Immigration Bill_ a dhèanamh na lagh a&#8217; ciallachadh gum bi eucoirean gràineil an-aghaidh daoine LCDT mì-laghail.
-
-<!--more-->
 
 A dh&#8217;aindeoin seo tha fhathast atharrachaidhean anns a&#8217; bhile a tha a&#8217; dìon eucoraich air sgàth &#8217;s saorsa labhairt neo an creideamh aca.
 

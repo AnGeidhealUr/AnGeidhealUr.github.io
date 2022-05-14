@@ -6,28 +6,17 @@ date: 2018-06-21 13:58:34
 
 title: Riaghaltas na h-Èireann air leisgeul a thoirt do dhaoine co-sheòrsach a chaidh a dhìteadh fo laghan eachdraidheil
 
-image: /images/2018-06-21-riaghaltas-na-h-eireann-air-leisgeul-a-thoirt-do-dhaoine-co-sheorsach-a-chaidh-a-dhiteadh-fo-laghan-eachdraidheil.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2018-06-21-riaghaltas-na-h-eireann-air-leisgeul-a-thoirt-do-dhaoine-co-sheorsach-a-chaidh-a-dhiteadh-fo-laghan-eachdraidheil.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
   - An t-Saoghal
   - Èirinn
   
-
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Tha Riaghaltas na h-Èireann air leisgeul foirmeil a thoirt do dhaoine co-sheòrsach a chaidh a dhìteadh fo laghan eachdraidheil.
-
-<!--more-->
 
 Ann an aithris dha Dáil Éireann thuirt Prìomhaire Leo Varadkar, a tha co-sheòrsach:
 

@@ -6,29 +6,17 @@ date: 2009-01-16 10:40:10
 
 title: Athchuinge airson pòsadh aon-sheòrsach air a thoirt gu Pàrlamaid na h-Alba
 
-image: /images/2009-01-16-athchuinge-airson-posadh-aon-sheorsach-air-a-thoirt-gu-parlamaid-na-h-alba.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2009-01-16-athchuinge-airson-posadh-aon-sheorsach-air-a-thoirt-gu-parlamaid-na-h-alba.webp
 
 author: Crìstean MacMhìcheil
 
-comments: true
-
 categories:
   - Alba
-  - An Rìoghachd Aonaichte
-  
-  
+  - An Rìoghachd Aonaichte  
 
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Chaidh iomairt ùr a chur air bhog ann am [Pàrlamaid na h-Alba][1] Dimàirt gus cead pòsaidh slàn a thoirt do dhaoine LCDT.
-
-<!--more-->
 
 Cuideachd tha an athchuinge ag amas air pòsaidhean diadhaidh a thoirt do chàraidean LCDT.
 

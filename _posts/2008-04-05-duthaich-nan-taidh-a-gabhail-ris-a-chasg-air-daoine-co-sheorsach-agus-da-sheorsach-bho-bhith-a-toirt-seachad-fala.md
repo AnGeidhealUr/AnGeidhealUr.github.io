@@ -6,27 +6,16 @@ date: 2008-04-05 18:35:16
 
 title: Dùthaich nan Tàidh a’ gabhail ris a’ chasg air daoine co-sheòrsach agus dà-sheòrsach bho bhith a’ toirt seachad fala
 
-image: /images/2008-04-05-duthaich-nan-taidh-a-gabhail-ris-a-chasg-air-daoine-co-sheorsach-agus-da-sheorsach-bho-bhith-a-toirt-seachad-fala.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2008-04-05-duthaich-nan-taidh-a-gabhail-ris-a-chasg-air-daoine-co-sheorsach-agus-da-sheorsach-bho-bhith-a-toirt-seachad-fala.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
   - An t-Saoghal
 
-
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Tha a&#8217; Chrois Dhearg ann an Dùthaich na Tàidh air co-dhùnadh a dhèanamh gum bi iad a&#8217; gabhail ri lagh a bhios a&#8217; cur casg air daoine co-sheòrsach agus dà-sheòrsach bho bhith a&#8217; toirt seachad fala.
-
-<!--more-->
 
 Thuirt iad gu bheil iad airson seo a dhèanamh air sgàth &#8217;s gu bheil iad air cus fuil fhaighinn a tha HIV+.
 

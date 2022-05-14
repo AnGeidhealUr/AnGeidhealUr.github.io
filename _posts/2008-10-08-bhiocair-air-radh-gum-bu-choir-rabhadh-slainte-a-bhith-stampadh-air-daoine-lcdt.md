@@ -6,27 +6,16 @@ date: 2008-10-08 19:37:30
 
 title: Bhiocair air ràdh gum bu chòir rabhadh slàinte a bhith stampadh air daoine LCDT
 
-image: /images/2008-10-08-bhiocair-air-radh-gum-bu-choir-rabhadh-slainte-a-bhith-stampadh-air-daoine-lcdt.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2008-10-08-bhiocair-air-radh-gum-bu-choir-rabhadh-slainte-a-bhith-stampadh-air-daoine-lcdt.webp
 
 author: Crìstean MacMhìcheil
 
-comments: true
-
 categories:
-  - An Rìoghachd Aonaichte
-  
+  - An Rìoghachd Aonaichte  
 
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Tha bhiocair anns An Eaglais Shasannach air ràdh air a&#8217; bhlòg aige gum bu chòir rabhadh slàinte a bhith air stampadh air daoine LCDT.
-
-<!--more-->
 
 Sgrìobh an t-Urr. Peter Mullen:
 

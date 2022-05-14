@@ -6,27 +6,16 @@ date: 2008-06-22 18:03:15
 
 title: Bile ùr a’ brosnachadh co-ionannachd do dhaoine LCDT
 
-image: /images/2008-06-22-bile-ur-a-brosnachadh-co-ionannachd-do-dhaoine-lcdt.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2008-06-22-bile-ur-a-brosnachadh-co-ionannachd-do-dhaoine-lcdt.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
   - An Rìoghachd Aonaichte
   
-
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Thèid bile ùr a bhios a&#8217; brosnachadh co-ionannachd do dhaoine LCDT ainmeachadh gu h-oifigeil leis a&#8217; Bhanrigh anns an òraid aice san t-Samhain.
-
-<!--more-->
 
 Thathar an dùil gun tèid am bile tron a&#8217; Phàrlamaid tràth ann an 2009 agus gun tèid a dhèanamh na lagh ron t-samhradh.
 

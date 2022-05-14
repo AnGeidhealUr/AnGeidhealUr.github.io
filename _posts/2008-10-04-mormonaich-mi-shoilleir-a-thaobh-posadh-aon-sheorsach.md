@@ -6,26 +6,16 @@ date: 2008-10-04 12:27:21
 
 title: Mormonaich mì-shoilleir a-thaobh pòsadh aon-sheòrsach
 
-image: /images/2008-10-04-mormonaich-mi-shoilleir-a-thaobh-posadh-aon-sheorsach.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2008-10-04-mormonaich-mi-shoilleir-a-thaobh-posadh-aon-sheorsach.webp
 
 author: Crìstean MacMhìcheil
 
 categories:
   - An t-Saoghal
   
-  
-
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Tha an Eaglais Mhormonach air bileag fhoillseachadh mu phòsadh aon-sheòrsach.
-
-<!--more-->
 
 Tha am bileag, _The Divine Institution of Marriage_, a&#8217; tighinn as dèidh dhan Eaglais aithris fhoillseachadh anns an tug iad taic ri Proposition 8, a bhios a&#8217; cur casg air pòsadh aon-sheòrsach ann an California.
 

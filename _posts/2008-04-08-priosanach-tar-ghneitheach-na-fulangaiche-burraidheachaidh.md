@@ -6,27 +6,16 @@ date: 2008-04-08 15:23:08
 
 title: Prìosanach tar-ghnèitheach na fulangaiche burraidheachaidh
 
-image: /images/2008-04-08-priosanach-tar-ghneitheach-na-fulangaiche-burraidheachaidh.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2008-04-08-priosanach-tar-ghneitheach-na-fulangaiche-burraidheachaidh.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
   - An Rìoghachd Aonaichte
   
-
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Tha fianais ùr air nochdadh gun do rinn boireannach tar-ghnèitheach gearan mus do chur à dhì fèin gun robh prìosanaich eile ga burraidheachd air sgàth &#8217;s an gnè aice.
-
-<!--more-->
 
 Bha Lisa Woodhall air a dìteadh gu 4 bliadhna ann am prìosan air sgàth &#8217;s gun tug i ionnsaigh air seann chompanach a&#8217; charbhaidh aice.
 

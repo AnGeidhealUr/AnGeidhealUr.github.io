@@ -6,27 +6,16 @@ date: 2008-04-23 14:53:03
 
 title: Coimisean Eòrpach air òrdugh leth-bhreith a thrèigsinn
 
-image: /images/2008-04-23-coimisean-eorpach-air-ordugh-leth-bhreith-a-threigsinn.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2008-04-23-coimisean-eorpach-air-ordugh-leth-bhreith-a-threigsinn.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
   - An t-Saoghal
   
-
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Air sgàth &#8217;s gearanan bhon a&#8217; Ghearmailt agus eile tha an t-Aonadh Eòrpach air òrdugh a bhiodh a&#8217; dìon daoine LCDT bho leth-bhreith a thrèigsinn.
-
-<!--more-->
 
 A dh&#8217;aindeoin seo bidh iad fhathast a&#8217; dol air adhart le òrdugh a bhios a&#8217; dìon daoine le ciorraim.
 

@@ -6,27 +6,16 @@ date: 2008-03-30 10:11:56
 
 title: Pàrlamaid Chùba a’ beachdachadh air còirichean LCDTE
 
-image: /images/2008-03-30-parlamaid-chuba-a-beachdachadh-air-coirichean-lcdte.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2008-03-30-parlamaid-chuba-a-beachdachadh-air-coirichean-lcdte.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
   - An t-Saoghal
   
-
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Tha luchd-lagha anns a’ Chùba a’ beachdachadh air laghan ùra a dhèanamh gus còirichean co-ionann a thoirt ris a’ choimhearsnachd LCDTE.
-
-<!--more-->
 
 Thathar an dòchas gum biodh na laghan seo nan ceuman mòr ri companasan-catharra fhaighinn agus ri cothroman air obraichean lannsa gus ur gnè atharrachadh.
 

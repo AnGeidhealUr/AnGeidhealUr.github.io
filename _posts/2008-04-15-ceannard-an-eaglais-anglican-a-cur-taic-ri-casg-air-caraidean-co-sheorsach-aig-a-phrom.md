@@ -6,28 +6,16 @@ date: 2008-04-15 08:22:56
 
 title: Ceannard an Eaglais Anglican a’ cur taic ri casg air càraidean co-sheòrsach aig a’ Phrom
 
-image: /images/2008-04-15-ceannard-an-eaglais-anglican-a-cur-taic-ri-casg-air-caraidean-co-sheorsach-aig-a-phrom.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2008-04-15-ceannard-an-eaglais-anglican-a-cur-taic-ri-casg-air-caraidean-co-sheorsach-aig-a-phrom.webp
 
 author: Crìstean MacMhìcheil
 
-comments: true
-
 categories:
-  - An t-Saoghal
-  
-  
+  - An t-Saoghal  
 
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Tha ceannard an Eaglais Anglach ann an Astràilia air taic a thoirt ri casg air càraidean co-sheòrsach aig a&#8217; Phrom.
-
-<!--more-->
 
 Tha cuid dhe na h-oileanaich anns an dàrna bhliadhna dheug anns an Anglican Grammar School ann am Brisbane airson na carabhaidhean aca a thoirt dhan a&#8217; Phrom.
 

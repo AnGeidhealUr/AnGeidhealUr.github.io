@@ -6,28 +6,17 @@ date: 2009-04-07 11:40:32
 
 title: Àrd-chùirt Iowa air bhòtadh gus pòsadh aon-sheòrsach a dhèanamh laghail
 
-image: /images/2009-04-07-ard-chuirt-iowa-air-bhotadh-gus-posadh-aon-sheorsach-a-dheanamh-laghail.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2009-04-07-ard-chuirt-iowa-air-bhotadh-gus-posadh-aon-sheorsach-a-dheanamh-laghail.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
   - An t-Saoghal
   
-  
 
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Tha Àrd-chùirt Iowa air bhòtadh gus pòsadh aon-sheòrsach a dhèanamh laghail anns an stàit.
-
-<!--more-->
 
 Mar phàirt dhen co-dhùnadh aon-ghuthach, thuirt na breitheamhan le bhith a&#8217; mìneachadh pòsadh mar aonadh eadar boireannaich agus fireannaich bha bun-reachd na stàite a&#8217; dol an aghaidh e fhèin air sgàth &#8217;s gu bheil e a&#8217; brosnachadh co-ionannachd.
 

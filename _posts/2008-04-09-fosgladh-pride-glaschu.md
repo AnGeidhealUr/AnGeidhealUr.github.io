@@ -6,27 +6,16 @@ date: 2008-04-09 19:02:13
 
 title: Fosgladh Fèis-pròise Ghlaschu
 
-image: /images/2008-04-09-fosgladh-pride-glaschu.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2008-04-09-fosgladh-pride-glaschu.webp
 
 author: Crìstean MacMhìcheil
 
-comments: true
-
 categories:
-  - Alba
-  
+  - Alba  
 
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Bu tòigh le Fèis-pròise Ghlaschu fàilte a chur air a h-uile duine a bhios airson tighinn ris am fosgladh aca.
-
-<!--more-->
 
 30mh den Ghiblean aig 7f aig an t-ionad LCDT, 84 Bell Street, Glaschu G1 1LQ
 

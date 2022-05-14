@@ -6,28 +6,17 @@ date: 2008-04-05 16:47:05
 
 title: Cruinneachadh gus taic a thoirt ri neach-poileataigs a tha dhen bheachd gu bheil a’ choimhearsnachd LCDTE nas miosa na ceannaircich
 
-image: /images/2008-04-05-cruinneachadh-gus-taic-a-thoirt-ri-neach-poileataigs-a-tha-dhen-bheachd-gu-bheil-a-choimhearsnachd-lcdte-nas-miosa-na-ceannaircich.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2008-04-05-cruinneachadh-gus-taic-a-thoirt-ri-neach-poileataigs-a-tha-dhen-bheachd-gu-bheil-a-choimhearsnachd-lcdte-nas-miosa-na-ceannaircich.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
   - An t-Saoghal
   
-  
-
 ---
-
-![]({{ site.baseurl }}/images/posts/)
 
 Chruinnich còrr &#8217;s mìle daoine ann an Oklahoma Diciadain gus taic a thoirt ri Riochdaire Sally Kern.
 
-<!--more-->
 
 Chaidh Riochdaire Kern a chàineadh seachdainn seo chaidh air sgàth &#8217;s òraid a rinn i nuair a thuirt i gu bheil a&#8217; choimhearsnachd LCDTE na bhagairt nas motha ris na Stàitean Aonaichte na tha ceannaircich.
 

@@ -6,27 +6,16 @@ date: 2018-01-06 14:20:16
 
 title: Ceann-suidhe an Eaglais Mhormonach air bàsachadh
 
-image: /images/2018-01-06-ceann-suidhe-an-eaglais-mhormonach-air-basachadh.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2018-01-06-ceann-suidhe-an-eaglais-mhormonach-air-basachadh.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
   - An t-Saoghal
   
-
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Tha Ceann-suidhe ùr gu bhith aig an Eaglais Mhormonach (Church of Jesus Christ of Latter-day Saints) as dèidh gun do bhàsaich Thomas S. Monson Dimàirt ann an Salt Lake City. Bha e ceithir fichead sa deich bliadhna a dh&#8217;aois.
-
-<!--more-->
 
 Bha Monson na Cheann-suidhe an eaglais fad 54 bliadhna agus thairis air na bliadhnaichean sin tha seallaidhean gu math traidiseanta air a bhith aige.
 

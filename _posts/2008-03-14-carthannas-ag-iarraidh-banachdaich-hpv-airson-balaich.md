@@ -6,14 +6,14 @@ date: 2008-03-14 09:33:41
 
 title: Carthannas ag iarraidh banachdaich HPV airson balaich
 
+image: /images/posts/2008-03-14-carthannas-ag-iarraidh-banachdaich-hpv-airson-balaich.webp
+
 author: Crìstean MacMhìcheil
 
 categories:
   - An t-Saoghal
 
 ---
-
-![]({{ site.baseurl }}/images/posts/2008-03-14-carthannas-ag-iarraidh-banachdaich-hpv-airson-balaich.webp)
 
 Tha an carthannas fiaclach as motha anns an Rìoghachd Aonaichte airson balaich a thoirt a-steach dhan phrògram a bhios a’ toirt a-mach banachdaich an-aghaidh an tinneas feise HPV (_Human papillomavirus_) gus bacadh a chur air aillse beòil.
 

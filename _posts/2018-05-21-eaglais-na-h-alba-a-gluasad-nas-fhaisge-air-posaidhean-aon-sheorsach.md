@@ -6,27 +6,16 @@ date: 2018-05-21 18:22:52
 
 title: Eaglais na h-Alba a’ gluasad nas fhaisge air pòsaidhean aon-sheòrsach
 
-image: /images/2018-05-21-eaglais-na-h-alba-a-gluasad-nas-fhaisge-air-posaidhean-aon-sheorsach.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2018-05-21-eaglais-na-h-alba-a-gluasad-nas-fhaisge-air-posaidhean-aon-sheorsach.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
   - Alba
   
-
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Tha Eaglais na h-Alba air ceum nas dlùithe a ghluasad gus leigeil le ministearan pòsaidhean aon-sheòrsach a chumail.
-
-<!--more-->
 
 Bhòt Seanadh Coitcheann na h-Eaglaise 345 an-aghaidh 170 airson comataidh stèideachadh gus lagh na h-eaglaise ullachadh a bhios freagarrach ri Roinn 9 (1A) dhen Marriage Scotland Act.
 

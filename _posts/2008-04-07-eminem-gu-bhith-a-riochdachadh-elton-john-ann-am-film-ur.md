@@ -6,26 +6,16 @@ date: 2008-04-07 07:14:59
 
 title: Eminem gu bhith a’ riochdachadh Elton John ann am film ùr
 
-image: /images/2008-04-07-eminem-gu-bhith-a-riochdachadh-elton-john-ann-am-film-ur.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2008-04-07-eminem-gu-bhith-a-riochdachadh-elton-john-ann-am-film-ur.webp
 
 author: Crìstean MacMhìcheil
 
-comments: true
-
 categories:
-  
+    - Dibhearsan  
 
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Tha Eminem (Marshall Bruce Mathers III) gu bhith a&#8217; riochdachadh Sir Elton John ann am film ùr mu dheidhinn beatha an seinneadair co-sheòrsach.
-
-<!--more-->
 
 Tha Eminem air tòrr caithream fhaighinn bhon dà fhilm a rinn e mar thà, [_Da Hip Hop Witch_][1] agus [_8 Mile_][2], a chaidh a stèidheachadh air a bheatha aige fhèin.
 

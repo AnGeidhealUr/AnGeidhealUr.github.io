@@ -6,27 +6,16 @@ date: 2008-12-23 11:57:01
 
 title: Iongnadh mòr air California às deidh baraile bho Attorney General
 
-image: /images/2008-12-23-iongnadh-mor-air-california-as-deidh-baraile-bho-attorney-general.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2008-12-23-iongnadh-mor-air-california-as-deidh-baraile-bho-attorney-general.webp
 
 author: Crìstean MacMhìcheil
 
-comments: true
-
 categories:
-  - An t-Saoghal
-  
+  - An t-Saoghal  
 
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Chuir Attorney General Edmund G. “Jerry” Brown, Jr., iongnadh air a h-uile duine ann an California nuair thug e bharail laghail do Àrd-chùirt Chalifornia an aghaidh Proposition 8. Bidh dleastanas àbhaisteach aig an Attorney General an lagh a’ dìon. Thuirt Attorney General Brown, a b’ àbhaist a bhith na riaghladair e fhèin (1975-1983), gu nach eil comas aig bhòt an t-sluaigh sam bith a chur às don còraichean bun-reachdail coltach ri co-ionnanachd nan daoine. ‘S e seo argamaid laghail caran nas làidire na h-argamaid a rinn na luchd-dùbhlain eile.
-
-<!--more-->
 
 Bidh an neach-lagha ainmeil Kenneth Starr a’ dìon Proposition 8 air beulaibh an Àrd-chùirt Chalifornia mar riochdaire nam buidheann a chuir am Proposition air adhart bho thùs. Bha Kenneth Starr an sàs sna cùisean-lagha an aghaidh Ceann-suidhe Bill Clinton anns na 1990s, agus an-diugh tha e na Dhean aig Pepperdine Law School ann am Malibu ann an California.
 

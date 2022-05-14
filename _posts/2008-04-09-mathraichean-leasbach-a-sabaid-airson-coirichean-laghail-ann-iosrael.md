@@ -6,27 +6,16 @@ date: 2008-04-09 13:46:31
 
 title: Màthraichean leasbach a’ sabaid airson còirichean laghail ann an Iosrael
 
-image: /images/2008-04-09-mathraichean-leasbach-a-sabaid-airson-coirichean-laghail-ann-iosrael.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2008-04-09-mathraichean-leasbach-a-sabaid-airson-coirichean-laghail-ann-iosrael.webp
 
 author: Crìstean MacMhìcheil
 
-comments: true
-
 categories:
+  - An t-Saoghal
   
-
-
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Tha màthraichean leasbach ann an Iosrael a&#8217; sabaid gus am bi iad air ainmeachadh air teisteanas breith an leanabh aca.
-
-<!--more-->
 
 &#8216;S e seo a&#8217; chiad cùis-lagha mar seo ann an Iosrael air sgàth &#8217;s gu bheil pàirt beòthail agus bith-eòlach aig gach tè. Air sgàth &#8217;s trioblaidean meadaigeach aig an tè trom, bha feum aca am foetus a&#8217; gluasad dhan tè eile.
 

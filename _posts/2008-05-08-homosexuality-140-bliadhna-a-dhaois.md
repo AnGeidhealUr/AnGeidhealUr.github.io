@@ -6,25 +6,16 @@ date: 2008-05-08 16:56:56
 
 title: “Homosexuality” 140 bliadhna a dh’aois
 
-image: /images/2008-05-08-homosexuality-140-bliadhna-a-dhaois.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2008-05-08-homosexuality-140-bliadhna-a-dhaois.webp
 
 author: Crìstean MacMhìcheil
 
 categories:
-  - An t-Saoghal
-  
+  - An t-Saoghal  
 
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 B&#8217; ann air an 6mh den Chèitean 1868 a thàinig am facal &#8220;homosexuality&#8221; gu bith.
-
-<!--more-->
 
 Ro seo cha robh ach beagan faclan neo-phàirteach ann airson tuairisgeul a thoirt air tarraing co-sheòrsach. Bha faclan a leithid _bugger_, _molly_, _sodomite_ neo _pederast_ cumanta ach aig àm nuair a bha luchd-tagraidh a&#8217; bruidhinn a-mach airson còirichean LCDT bha feum aca air faclan ùr a chruthachadh.
 

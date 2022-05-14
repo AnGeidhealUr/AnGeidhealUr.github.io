@@ -6,28 +6,16 @@ date: 2008-11-14 14:23:20
 
 title: Daoine LCDT a’ togail casaid ann an California
 
-image: /images/2008-11-14-daoine-lcdt-a-togail-casaid-ann-an-california.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2008-11-14-daoine-lcdt-a-togail-casaid-ann-an-california.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
   - An t-Saoghal
   
-  
-
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Tha daoine LCDT air a bhith a&#8217; caismeachd air sràidean Chalifornia agus iad a&#8217; togail casaid as dèidh buaidhe Proposition 8.
-
-<!--more-->
 
 Tha na caismeachdan air a bhith sìtheil ged a bha iad deònach agus gun chead.
 

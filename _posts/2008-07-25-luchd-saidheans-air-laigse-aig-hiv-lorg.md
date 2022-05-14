@@ -6,27 +6,16 @@ date: 2008-07-25 17:49:16
 
 title: Luchd-saidheans air laigse aig HIV lorg
 
-image: /images/2008-07-25-luchd-saidheans-air-laigse-aig-hiv-lorg.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2008-07-25-luchd-saidheans-air-laigse-aig-hiv-lorg.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
   - An t-Saoghal
 
-
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Tha luchd-rannsachaidh ag obair aig Sgoil Slàinte Oilthigh Texas ag ràdh gu bheil iad air laigse aig HIV (Bhioras Dìon-slàinte Daonna) a lorg.
-
-<!--more-->
 
 Tha an laigse seo na pàirt de phròtain a tha riatanach do HIV airson grèim fhaighinn air ceallan.
 

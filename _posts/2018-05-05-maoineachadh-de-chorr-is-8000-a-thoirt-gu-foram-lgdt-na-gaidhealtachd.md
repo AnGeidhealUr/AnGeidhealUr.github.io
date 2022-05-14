@@ -6,27 +6,16 @@ date: 2018-05-05 11:31:54
 
 title: Maoineachadh de chòrr is £8000 a thoirt gu Fòram LCDT na Gàidhealtachd
 
-image: /images/2018-05-05-maoineachadh-de-chorr-is-8000-a-thoirt-gu-foram-lgdt-na-gaidhealtachd.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2018-05-05-maoineachadh-de-chorr-is-8000-a-thoirt-gu-foram-lgdt-na-gaidhealtachd.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
   - Alba
   
-
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Thèid maoineachadh de chòrr is £8000 a thoirt gu Fòram LGDT na Gàidhealtachd le Mhaoin a&#8217; Chrannchuir Mhòir airson tachartas _Proud Ness_ a chumail ann an Inbhir Nis san t-Sultain. A bharrachd air _Proud Ness_ thathar ag ràdh gum bi sreath de thachartasan nas lugha ann an àiteachan eile anns a&#8217; Ghàidhealtachd sna mìosan a leanas.
-
-<!--more-->
 
 Thuirt neach-labhairt an fòraim [ri Phink Saltire][1]:
 

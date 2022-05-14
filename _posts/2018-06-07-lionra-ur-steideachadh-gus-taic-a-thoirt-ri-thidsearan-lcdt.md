@@ -6,28 +6,16 @@ date: 2018-06-07 21:30:35
 
 title: Lìonra ùr stèideachadh gus taic a thoirt ri thidsearan LCDT+
 
-image: /images/2018-06-07-lionra-ur-steideachadh-gus-taic-a-thoirt-ri-thidsearan-lcdt.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2018-06-07-lionra-ur-steideachadh-gus-taic-a-thoirt-ri-thidsearan-lcdt.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
   - An Rìoghachd Aonaichte
   
-  
-
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Chaidh lìonra air loidhne ùr stèidheachadh an seachdain seo gus taic a thoirt ri thidsearan LCDT+ san Rìoghachd Aonaichte.
-
-<!--more-->
 
 Bidh [LGBTed][1] ag obair còmhla ri Ionad Charnegie aig Oilthigh Leeds Beckett agus oilthighean eile gus rannsachadh a cho-roinn mu dheidhinn tighinn a-mach nuair a thathar ag obair ann an sgoiltean agus oilthighean.
 

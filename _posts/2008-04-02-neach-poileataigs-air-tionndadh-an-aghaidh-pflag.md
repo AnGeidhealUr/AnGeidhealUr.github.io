@@ -6,28 +6,16 @@ date: 2008-04-02 10:59:53
 
 title: Neach-poileataigs air tionndadh an aghaidh PFLAG
 
-image: /images/2008-04-02-neach-poileataigs-air-tionndadh-an-aghaidh-pflag.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2008-04-02-neach-poileataigs-air-tionndadh-an-aghaidh-pflag.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
   - An t-Saoghal
   
-  
-
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Tha Riochdaire Sally Kern air tionndadh an aghaidh PFLAG an dèidh coinneamh dòchasach còmhla riutha seachdain seo chaidh.
-
-<!--more-->
 
 Thuirt PFLAG gun robh iad gu math toilichte leis a’ choinneamh eadar iad fhèin agus Riochdaire Kern agus gun robh iad dòchasach air còmhradh seasmhach stèidheachadh leatha.
 

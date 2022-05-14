@@ -6,27 +6,16 @@ date: 2018-04-19 13:39:27
 
 title: Pàrlamaid na h-Alba a’ toirt taic ri Lagh Thuring
 
-image: /images/2018-04-19-parlamaid-na-h-alba-a-toirt-taic-ri-lagh-thuring.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2018-04-19-parlamaid-na-h-alba-a-toirt-taic-ri-lagh-thuring.webp
 
 author: Crìstean MacMhìcheil
 
-comments: true
-
 categories:
-  - Alba
-  
+  - Alba  
 
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Dh&#8217;aontaich Pàrlamaid na h-Alba gu h-aon-ghuthach Diciadan ri prìomh-amasan an Historical Sexual Offences (Pardons and Disregards) (Scotland) Bill.
-
-<!--more-->
 
 A-nis thèid an reachdas dhan an ath-cheum &#8217;son atharrachaidhean a mholadh agus thathas an dùil gum bi e na lagh nas anmoiche air an t-samhradh.
 

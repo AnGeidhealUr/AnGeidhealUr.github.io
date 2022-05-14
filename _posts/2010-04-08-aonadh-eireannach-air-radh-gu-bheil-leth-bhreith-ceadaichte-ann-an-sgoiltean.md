@@ -6,29 +6,17 @@ date: 2010-04-08 13:18:35
 
 title: Aonadh Èireannach air ràdh gu bheil leth-bhreith ceadaichte ann an sgoiltean
 
-image: /images/2010-04-08-aonadh-eireannach-air-radh-gu-bheil-leth-bhreith-ceadaichte-ann-an-sgoiltean.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2010-04-08-aonadh-eireannach-air-radh-gu-bheil-leth-bhreith-ceadaichte-ann-an-sgoiltean.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
   - An t-Saoghal
   - Èirinn
   
-  
-
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Tha aonadh teagaisg Èireannach air ràdh gu bheil laghanan co-ionannachd a&#8217; toirt cead do sgoiltean cràbhach a bhith a&#8217; dèanamh leth-bhreith air tidsearan co-sheòrsach.
-
-<!--more-->
 
 Tha [INTO][1] (Irish National Teacher’s Organisation) ag ràdh gu bheil an _Employment Equality Act_ a’ toirt cead ri sgoiltean a chur tidsearan à dhreuchd air sgàth ’s gu bheil an dòigh-beatha aca a’ dol an aghaidh poileasaidh cràbhach nan sgoiltean.
 

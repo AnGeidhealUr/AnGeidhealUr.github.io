@@ -6,27 +6,16 @@ date: 2008-04-08 18:10:07
 
 title: Cardiff an dùil ri fèis-pròise a chumail am bliadhna
 
-image: /images/2008-04-08-cardiffan-duil-ri-feis-proise-a-chumail-am-bliadhna.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2008-04-08-cardiffan-duil-ri-feis-proise-a-chumail-am-bliadhna.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
   - An t-Saoghal
   
-
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Thèid coinneamh a chumail an seachdain seo gus deasbad a dhèanamh air fèis-pròise a chumail ann an Cardiff.
-
-<!--more-->
 
 Thathar an dòchas gum bi an fhèis seo a&#8217; tachairt an àite Mardi Gras a chaidh a chur dheth am-bliadhna air sgàth &#8217;s trioblaidean ionmhais
 

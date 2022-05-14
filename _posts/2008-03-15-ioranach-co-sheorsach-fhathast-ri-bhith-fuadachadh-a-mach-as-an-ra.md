@@ -6,26 +6,16 @@ date: 2008-03-15 11:17:37
 
 title: Iorànach co-sheòrsach fhathast ri bhith fuadachadh a-mach às an RA
 
-image: /images/2008-03-15-ioranach-co-sheorsach-fhathast-ri-bhith-fuadachadh-a-mach-as-an-ra.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2008-03-15-ioranach-co-sheorsach-fhathast-ri-bhith-fuadachadh-a-mach-as-an-ra.webp
 
 author: Crìstean MacMhìcheil
 
-comments: true
 categories:
   - An t-Saoghal
   
-
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Tha gnìomhaichean LCDTE ag ràdh gum bu chòir do Riaghaltas Bhreatainn ath-sgrùdadh a dhèanamh air cùisean-lagha aig Iorànach co-sheòrsach eile as dèidh do chùis Medhi Kazemi allsachadh.
-
-<!--more-->
 
 Thuirt Rùnaire na Dùthcha Jacqui Smith gum bu chòir do ath-shùil a bhith a’ toirt air chùis Medhi Kazemi air sgàth ’s an suidheachadh ùr aige.
 

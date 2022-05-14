@@ -6,27 +6,16 @@ date: 2018-06-19 10:52:16
 
 title: BPA SNP a’ càineadh Bile nan Eucoirean Feise
 
-image: /images/2018-06-19-bpa-snp-a-caineadh-bile-nan-eucoirean-feise.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2018-06-19-bpa-snp-a-caineadh-bile-nan-eucoirean-feise.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
   - Alba
   
-
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Tha John Mason BPA air a bhith a’ càineadh lagh ùr a chitheas mathanas a thoirt do dhaoine co-sheòrsach agus dà-sheòrsach a chaidh an dìteadh fo laghan eachdraidheil.
-
-<!--more-->
 
 Thèid mathanas a thoirt gu fèin-ghluasadach dhan a h-uile daoine a chaidh a dhìteadh fo na seann laghan co-dhiubh ma tha iad beò no marbh.
 

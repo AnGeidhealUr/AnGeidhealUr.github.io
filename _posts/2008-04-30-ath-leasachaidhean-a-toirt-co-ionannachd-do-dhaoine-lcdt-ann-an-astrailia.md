@@ -6,27 +6,16 @@ date: 2008-04-30 18:15:28
 
 title: Ath-leasachaidhean a’ toirt co-ionannachd do dhaoine LCDT ann an Astràilia
 
-image: /images/2008-04-30-ath-leasachaidhean-a-toirt-co-ionannachd-do-dhaoine-lcdt-ann-an-astrailia.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2008-04-30-ath-leasachaidhean-a-toirt-co-ionannachd-do-dhaoine-lcdt-ann-an-astrailia.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
   - An t-Saoghal
   
-
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Tha Riaghaltas na h-Astràilia air còrr &#8217;s 100 ath-leasachaidhean a dhèanamh gus còirichean co-ionann a thoirt do dhaoine LCDT.
-
-<!--more-->
 
 Tha buidheann LCDT air fàilte a chur air na leasachaidhean seo ach tha iad cuideachd gan càineadh air sgàth &#8217;s nach eil iad a&#8217; dèanamh pòsaidhean aon-sheòrsach laghail.
 

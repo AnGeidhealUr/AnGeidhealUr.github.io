@@ -6,29 +6,17 @@ date: 2010-02-22 21:04:46
 
 title: Deasbad mu companasan-catharra san Eilean Mhanainn
 
-image: /images/2010-02-22-deasbad-mu-companasan-catharra-san-eilean-mhanainn.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2010-02-22-deasbad-mu-companasan-catharra-san-eilean-mhanainn.webp
 
 author: Crìstean MacMhìcheil
 
-comments: true
-
 categories:
   - An Rìoghachd Aonaichte
-  - An t-Saoghal
-  - An t-Saoghal
-  
+  - An t-Saoghal  
 
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Thathar gu bhith a&#8217; deasbad Bile Companasan-catharra anns an House of Keys a-màireach.
-
-<!--more-->
 
 Ma bhios e soirbheachail thèid còirichean co-ionann a thoirt do chàraidean co-sheòrsach agus leasbach &#8217;s a th&#8217; aig càraidean phòsta.
 

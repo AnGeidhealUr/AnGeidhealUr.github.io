@@ -6,27 +6,16 @@ date: 2008-04-30 18:52:49
 
 title: Caismeachd-pròise Bhirmingham air a chur dheth
 
-image: /images/2008-04-30-caismeachd-proise-bhirmingham-air-a-chur-dheth.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2008-04-30-caismeachd-proise-bhirmingham-air-a-chur-dheth.webp
 
 author: Crìstean MacMhìcheil
 
-comments: true
-
 categories:
-  - An t-Saoghal
-  
+  - An t-Saoghal  
 
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Cha tèid caismeachd-pròise Bhirmingham air adhart am-bliadhna air sgàth &#8217;s trioblaidean ionmhais.
-
-<!--more-->
 
 An àite a&#8217; chaismeachd bidh Fèis-pròise 2008 a&#8217; fosgladh le taisbeanadh de bhuidhnean coimhearsnachd.
 

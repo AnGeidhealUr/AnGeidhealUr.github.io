@@ -6,27 +6,16 @@ date: 2009-04-05 19:02:10
 
 title: Sianar co-sheòrsach air am murt ann an Ioràc
 
-image: /images/2009-04-05-sianar-co-sheorsach-air-am-murt-ann-an-iorac.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2009-04-05-sianar-co-sheorsach-air-am-murt-ann-an-iorac.webp
 
 author: Crìstean MacMhìcheil
 
-comments: true
-
 categories:
   - An t-Saoghal
-  
 
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Tha dithis marbh ann an Sadr City, roinn Shiite dhe Bhaghdad, air sgàth &#8217;s clèir ionadail a dhìt co-sheòrsachd.
-
-<!--more-->
 
 Tha e air nochdadh cuideachd gun deach ceathrar a bharrachd a mhurt sa Mhàrt.
 

@@ -6,26 +6,16 @@ date: 2018-07-25 19:48:16
 
 title: Comhairle Obair Dheathain a’ rannsachadh sgaoileadh de bhileagan a dh’fhaodadh a bhith gràineil ri daoine LCDTE
 
-image: /images/2018-07-25-comhairle-obair-dheathain-a-rannsachadh-sgaoileadh-de-bhileagan-a-dhfhaodadh-a-bhith-graineil-ri-daoine-lcdte.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2018-07-25-comhairle-obair-dheathain-a-rannsachadh-sgaoileadh-de-bhileagan-a-dhfhaodadh-a-bhith-graineil-ri-daoine-lcdte.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
   - Alba
 
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Chaidh rannsachadh a chur air bhog le Comhairle Obair Dheathain an dèidh sgaoileadh de bhileagan a dh&#8217;fhaodadh a bhith gràineil ri daoine LCDTE.
-
-<!--more-->
 
 Tha bratach a&#8217; bhogha-frois a&#8217; nochdadh air beulaibh na bileig leis an tiotal &#8220;What come comes after pride&#8221; sgrìobhte air agus a-rèir an _Evening Times_ tha abairtean a leithid &#8220;_pride is something evil that comes from a person’s heart_&#8221; agus &#8220;_God sees pride the same way he sees so many other behaviours – as sinful_” a&#8217; nochdadh na broinn.
 

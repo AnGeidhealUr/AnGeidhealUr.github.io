@@ -6,28 +6,17 @@ date: 2009-05-26 19:29:09
 
 title: Casg air ministearan co-sheòrsach ùra fad dà bhliadhna
 
-image: /images/2009-05-26-casg-air-ministearan-co-sheorsach-ura-fad-da-bhliadhna.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2009-05-26-casg-air-ministearan-co-sheorsach-ura-fad-da-bhliadhna.webp
 
 author: Crìstean MacMhìcheil
 
-comments: true
-
 categories:
   - Alba
-  - An Rìoghachd Aonaichte
-  
+  - An Rìoghachd Aonaichte  
 
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Tha Eaglais na h-Alba air casg a chur air ministearan co-sheòrsach ùra fad dà bhliadhna.
-
-<!--more-->
 
 Chaidh an co-dhùnadh a dhèanamh dìreach dà latha as dèidh dhan Àrd-sheanadh bhòtadh 326-267 gus cead a thoirt ris an t-Urr. Scott Rennie a bhith na mhinistear aig Eaglais Chrois na Bànrighinn ann an Obar Dheathain, ged a tha e a&#8217; fuireach le companach fireannach.
 

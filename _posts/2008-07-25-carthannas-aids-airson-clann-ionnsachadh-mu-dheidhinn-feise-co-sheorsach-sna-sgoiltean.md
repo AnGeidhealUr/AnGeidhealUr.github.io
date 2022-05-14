@@ -6,28 +6,16 @@ date: 2008-07-25 18:31:20
 
 title: Carthannas AIDS airson clann ionnsachadh mu dheidhinn feise co-sheòrsach sna sgoiltean
 
-image: /images/2008-07-25-carthannas-aids-airson-clann-ionnsachadh-mu-dheidhinn-feise-co-sheorsach-sna-sgoiltean.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2008-07-25-carthannas-aids-airson-clann-ionnsachadh-mu-dheidhinn-feise-co-sheorsach-sna-sgoiltean.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
   - An Rìoghachd Aonaichte
   
-
-
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Tha an àireamh de bhalaich HIV+ air dùblachadh san 10 bliadhna mu dheireadh a-rèir figearan air fhoillseachadh le [Buidheann Dìon na Slàinte][1].
-
-<!--more-->
 
 An-uiridh dh&#8217;ionnsaich 251 balaich gun robh HIV orra an taca ri 128 ann an 1998.
 

@@ -6,27 +6,16 @@ date: 2009-11-04 18:45:31
 
 title: Còirichean co-ionann do leasbaich a’ sireadh seirbheisean IVF
 
-image: /images/2009-11-04-coirichean-co-ionann-do-leasbaich-a-sireadh-seirbheisean-ivf.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2009-11-04-coirichean-co-ionann-do-leasbaich-a-sireadh-seirbheisean-ivf.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
   - An Rìoghachd Aonaichte
 
-
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Thathar an dùil gun tèid cead a thoirt do leasbaich Albannach IVF a shireadh bho Seirbheis Nàiseanta na Slàinte.
-
-<!--more-->
 
 Thathar an dùil gum mòl buidheann comhairle an Riaghaltais gum bu chòir do cead a bhith aig leasbaich a bhith a&#8217; cleachdadh seirbheisean IVF air an SNS.
 

@@ -6,28 +6,17 @@ date: 2018-07-17 20:54:17
 
 title: Luchd-poilitigs co-sheòrsach airson reifreann eile air Brexit
 
-image: /images/2018-07-17-luchd-poilitigs-co-sheorsach-airson-reifreann-eile-air-brexit.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2018-07-17-luchd-poilitigs-co-sheorsach-airson-reifreann-eile-air-brexit.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
   - An Rìoghachd Aonaichte
   - An t-Saoghal
   
-
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Tha Justine Greening, BP ag iarraidh reifreann eile air Brexit agus i air ràdh gur e &#8220;_fudge_&#8221; a th' ann am molaidhean a' Phrìomhaire Theresa May.
-
-<!--more-->
 
 Bha a' Bh-Uas Ghreening air a bhith na Rùnaire an Fhoghlaim o chionn 2016 ach leig i a dreuchd às dèidh don chaibineat ath-shuidheachadh san Fhaoilleach am-bliadhna.
 

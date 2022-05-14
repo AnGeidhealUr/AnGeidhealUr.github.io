@@ -6,27 +6,16 @@ date: 2018-03-27 19:57:22
 
 title: A’ Chiad Fèis-pròise Tar-ghnèitheach ann an Alba
 
-image: /images/2018-03-27-a-chiad-feis-proise-tar-ghneitheach-ann-an-alba.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2018-03-27-a-chiad-feis-proise-tar-ghneitheach-ann-an-alba.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
   - Alba
   
-
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Thèid a' chiad Fèis Pròise Tar-ghnèitheach ann an Alba a chumail Disaithairne 31 Màrt 2018 eadar 12-5f.
-
-<!--more-->
 
 An tòiseach bidh caismeachd sìos a' Mhìle Rìoghail gu Pàrlamaid na h-Alba far am bi luchd-labhairt a' toirt òraid.
 

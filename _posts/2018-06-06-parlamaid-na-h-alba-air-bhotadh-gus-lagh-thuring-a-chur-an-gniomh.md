@@ -6,27 +6,16 @@ date: 2018-06-06 21:02:49
 
 title: Pàrlamaid na h-Alba air bhòtadh gus Lagh Thuring a chur an gnìomh
 
-image: /images/2018-06-06-parlamaid-na-h-alba-air-bhotadh-gus-lagh-thuring-a-chur-an-gniomh.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2018-06-06-parlamaid-na-h-alba-air-bhotadh-gus-lagh-thuring-a-chur-an-gniomh.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
   - Alba
   
-
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Tha Pàrlamaid na h-Alba air bhotadh gu h-aon-ghuthach airson lagh ùr a chur an gnìomh a chìthear mathanas oifigeil a thoirt do dhaoine co-sheòrsach agus dà-sheòrsach a chaidh an dìteadh fo laghan lethbhreith eachdraidheil.
-
-<!--more-->
 
 Thèid mathanas a thoirt gu fèin-ghluasadach dhan a h-uile daoine a chaidh a dhìteadh fo na seann laghan co-dhiubh ma tha iad beò no marbh.
 

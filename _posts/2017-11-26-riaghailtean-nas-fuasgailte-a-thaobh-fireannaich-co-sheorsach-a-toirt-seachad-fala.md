@@ -6,27 +6,16 @@ date: 2017-11-26 11:25:13
 
 title: Riaghailtean nas fuasgailte a thaobh fireannaich co-sheòrsach a’ toirt seachad fala
 
-image: /images/2017-11-26-riaghailtean-nas-fuasgailte-a-thaobh-fireannaich-co-sheorsach-a-toirt-seachad-fala.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2017-11-26-riaghailtean-nas-fuasgailte-a-thaobh-fireannaich-co-sheorsach-a-toirt-seachad-fala.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
   - Alba
 
-
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Tha Seirbheis Fala na h-Alba (SNBTS) air ràdh gun tèid na riaghailtean a thaobh fala a thoirt seachad atharrachadh a-màireach.
-
-<!--more-->
 
 Am-measg na h-atharrachaidhean bidh fireannaich co-sheòrsach/dà-sheòrsach comasach air fala a thoirt seachad mura h-eil iad air a bhith ri feise le fireannach eile sna trì mìosan roimhe.
 

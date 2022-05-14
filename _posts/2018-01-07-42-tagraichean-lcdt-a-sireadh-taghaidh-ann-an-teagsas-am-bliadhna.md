@@ -6,27 +6,16 @@ date: 2018-01-07 18:02:27
 
 title: 42 tagraichean LCDT+ a’ sireadh taghaidh ann an Teagsas am bliadhna
 
-image: /images/2018-01-07-42-tagraichean-lcdt-a-sireadh-taghaidh-ann-an-teagsas-am-bliadhna.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2018-01-07-42-tagraichean-lcdt-a-sireadh-taghaidh-ann-an-teagsas-am-bliadhna.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
   - An t-Saoghal
   
-
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 A-rèir an iris [OutSmart][1] tha co-dhiù 42 tagraichean LCDT+ a&#8217; sireadh taghaidh ann an Teagsas am bliadhna.
-
-<!--more-->
 
 Tha dithis dhe na tagraichean a&#8217; sireadh taghaidh mar Riaghladair, aonar mar bhall Àrd-chuirt Theagsais, triùir mar bhuill Seanadh Theagsais, deichnear mar bhuill Taigh Theagsais, ochdnar mar bhuill a&#8217; Mhór-dhàil agus dusan eile a&#8217; sireadh oifisean laghail eile.
 

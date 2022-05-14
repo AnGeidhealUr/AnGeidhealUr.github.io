@@ -6,28 +6,17 @@ date: 2009-01-29 19:55:46
 
 title: Caitligich Albannach air ràdh gu bheil co-sheòrsachd ag adhbharachadh bàis tràtha
 
-image: /images/2009-01-29-caitligich-albannach-air-radh-gu-bheil-co-sheorsachd-ag-adhbharachadh-bais-tratha.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2009-01-29-caitligich-albannach-air-radh-gu-bheil-co-sheorsachd-ag-adhbharachadh-bais-tratha.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
   - Alba
   - An Rìoghachd Aonaichte
-  
 
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Tha an Eaglais Chaitligeach ann an Alba air ionnsaigh a thoirt air daoine co-sheòrsach agus leasbaich a-rithist.
-
-<!--more-->
 
 &#8220;Tha an t-uamhas de fhianais ann a tha a&#8217; sealltainn gu bheil càirdeasan aon-sheòrsach neo-sheasmhach gu dualach agus gun tèid dùil-bheatha nan daoine a tha an sàs annta ìsleachadh,&#8221; arsa neach-labhairt an eaglais, Peter Kearney.
 

@@ -6,28 +6,16 @@ date: 2008-03-17 11:56:45
 
 title: Gearanan mu dheidhinn sanasan co-sheòrsach air an diùltadh
 
-image: /images/2008-03-17-gearanan-mu-dheidhinn-sanasan-co-sheorsach-air-an-diultadh.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2008-03-17-gearanan-mu-dheidhinn-sanasan-co-sheorsach-air-an-diultadh.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
   - An t-Saoghal
   
-  
-
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Tha an ASA (Advertising Standards Authority) ag ràdh nach eil iomairt sanasachaidh a’ bhuidheann Stonewall a’ dol an-aghaidh an còd aca.
-
-<!--more-->
 
 Chaidh sanasan a thaisbeanadh air 600 bùird-shanais air feadh Breatainn seachdain seo chaidh leis an abairt “_Some people are gay. Get over it!_”
 

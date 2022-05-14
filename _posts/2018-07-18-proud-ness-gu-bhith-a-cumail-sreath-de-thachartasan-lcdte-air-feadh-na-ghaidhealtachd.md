@@ -6,27 +6,16 @@ date: 2018-07-18 20:54:00
 
 title: Proud Ness gu bhith a’ cumail sreath de thachartasan LCDTE air feadh na Ghàidhealtachd
 
-image: /images/2018-07-18-proud-ness-gu-bhith-a-cumail-sreath-de-thachartasan-lcdte-air-feadh-na-ghaidhealtachd.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2018-07-18-proud-ness-gu-bhith-a-cumail-sreath-de-thachartasan-lcdte-air-feadh-na-ghaidhealtachd.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
   - Alba
   
-
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Chaidh a dhearbhadh le Fòram LCDTE na Gàidhealtachd an-diugh gun tèid fèis-pròise a chumail ann an Inbhir Nis 6mh An Dàmhair 2018.
-
-<!--more-->
 
 Tòisichidh an tachartas le caismeachd tron bhaile gus an ruig e Cùirt an Easbaig far a bhios stanndaichean fhiosrachaidh, ealain & ceàirdean, bùthan-obrach agus luchd-labhairt a&#8217; dèanamh òraidean agus bidh diosgo aig Taigh-òsta Mercure aig deireadh an latha.
 

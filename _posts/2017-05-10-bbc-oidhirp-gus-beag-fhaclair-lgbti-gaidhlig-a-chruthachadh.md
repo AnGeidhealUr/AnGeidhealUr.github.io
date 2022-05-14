@@ -6,29 +6,18 @@ date: 2017-05-10 16:00:13
 
 title: 'BBC: Oidhirp gus beag-fhaclair LGBTI Gàidhlig a chruthachadh'
 
-image: /images/2017-05-10-bbc-oidhirp-gus-beag-fhaclair-lgbti-gaidhlig-a-chruthachadh.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2017-05-10-bbc-oidhirp-gus-beag-fhaclair-lgbti-gaidhlig-a-chruthachadh.webp
 
 author: Crìstean MacMhìcheil
 
-comments: true
-
 categories:
-  
   - Gàidhlig
-
+  
 ---
-
-![]({{ site.baseurl }}/images/posts/)
 
 **Nochd an sgeulachd seo air a&#8217; BhBC an-diugh:-**
 
 Chaidh iarraidh air luchd-labhairt na Gàidhlig cuideachadh gus liosta de dh&#8217;fhaclan agus briathrachas LGBTI a chruthachadh sa chànan.
-
-<!--more-->
 
 Tha an iomairt ga cur air chois leis a&#8217; bhuidhinn Lìonra Co-ionnannachd, mar phàirt den obair àbhaistich aca, agus an dèidh thachartasan a chaidh a chumail sna h-Eileanan Siar o chionn ghoirid.
 

@@ -6,27 +6,16 @@ date: 2008-05-07 09:21:39
 
 title: Triùir ann an Eilean Lesbos a’ toirt buidheann LCDT gu lagh
 
-image: /images/2008-05-07-triuir-ann-an-eilean-lesbos-a-toirt-buidheann-lcdt-gu-lagh.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2008-05-07-triuir-ann-an-eilean-lesbos-a-toirt-buidheann-lcdt-gu-lagh.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
   - An t-Saoghal
   
-
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Tha triùir ann an Eilean Lesbos, a&#8217; Ghrèig, a&#8217; toirt buidheann LCDT gu lagh air sgàth &#8217;s gu bheil iad a&#8217; cleachdadh am facal &#8220;leasbach&#8221; anns an ainm aca.
-
-<!--more-->
 
 Tha iad ag ràdh gu bheil ainm a&#8217; bhuidheann _Homosexual and Lesbian Community of Greece_ a&#8217; dèanamh oilbheum dhaibh air sgàth &#8217;s gu bheil am facal Leasbach a&#8217; ciallachadh cuideigin à Eilean Lesbos seach boireann aig a bheil tarraing ri boireannaich eile.
 

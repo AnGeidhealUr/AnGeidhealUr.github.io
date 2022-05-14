@@ -6,27 +6,16 @@ date: 2009-03-13 22:11:34
 
 title: Deasbad mu dhaoine co-sheòrsach a’ toirt seachad fala
 
-image: /images/2009-03-13-deasbad-mu-dhaoine-co-sheorsach-a-toirt-seachad-fala.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2009-03-13-deasbad-mu-dhaoine-co-sheorsach-a-toirt-seachad-fala.webp
 
 author: Crìstean MacMhìcheil
 
-comments: true
-
 categories:
   - An Rìoghachd Aonaichte
-
-
+  
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Thèid ath-sgrùdadh a dhèanamh air an casg a th&#8217; air fireannaich co-sheòrsach agus dà-sheòrsach bho bhith a&#8217; toirt seachad fala.
-
-<!--more-->
 
 Chaidh an casg a chur an sàs anns na 1980an air sgàth eagail mun ghalair HIV.
 

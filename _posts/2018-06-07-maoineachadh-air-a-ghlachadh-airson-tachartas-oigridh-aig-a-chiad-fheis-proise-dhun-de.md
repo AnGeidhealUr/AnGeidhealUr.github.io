@@ -6,27 +6,16 @@ date: 2018-06-07 11:38:37
 
 title: Maoineachadh air a ghlachadh airson tachartas òigridh aig a’ chiad Fhèis Pròis Dhùn Dè
 
-image: /images/2018-06-07-maoineachadh-air-a-ghlachadh-airson-tachartas-oigridh-aig-a-chiad-fheis-proise-dhun-de.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2018-06-07-maoineachadh-air-a-ghlachadh-airson-tachartas-oigridh-aig-a-chiad-fheis-proise-dhun-de.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
   - Alba
   
-
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Chaidh maoineachadh de £2500 a ghlacadh leis a&#8217; bhuidheann-òigridh Purple Dragons gus tachartas òigridh a chumail mar phàirt dhen chiad Fhèis Pròis Dhùn Dè.
-
-<!--more-->
 
 Chaidh maoineachadh de £1500 a thoirt dhaibh le Dundee Youth Fund agus chaidh £1000 a bharrachd a thoirt dhaibh le LGBT Youth Scotland.
 

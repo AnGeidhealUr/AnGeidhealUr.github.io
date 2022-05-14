@@ -6,28 +6,16 @@ date: 2008-09-26 16:25:42
 
 title: Ceannard LCDT ga mhurt ann am Baghdad
 
-image: /images/2008-09-26-ceannard-lcdt-ga-mhurt-ann-am-baghdad.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2008-09-26-ceannard-lcdt-ga-mhurt-ann-am-baghdad.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
   - An t-Saoghal
   
-  
-
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Chaidh ceannard LCDT a mhurt ann am Baghdad, Ioràc an-dè.
-
-<!--more-->
 
 Tha an gnìomhaiche LCDT, Peter Tatchell, ag aithris gun deach Bashar, 27, a spreidheadh le peilearan nuair a bhrìs milisi a-steach dhan bhùth-borbair far an robh e.
 

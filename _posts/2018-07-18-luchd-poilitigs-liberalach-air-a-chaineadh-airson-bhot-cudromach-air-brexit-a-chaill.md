@@ -6,29 +6,17 @@ date: 2018-07-18 21:45:04
 
 title: Luchd-poilitigs Liberalach air a chàineadh airson bhòt cudromach air Brexit a chaill
 
-image: /images/2018-07-18-luchd-poilitigs-liberalach-air-a-chaineadh-airson-bhot-cudromach-air-brexit-a-chaill.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2018-07-18-luchd-poilitigs-liberalach-air-a-chaineadh-airson-bhot-cudromach-air-brexit-a-chaill.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
   - An Rìoghachd Aonaichte
   - An t-Saoghal
   
-  
-
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Chaidh dithis neach-poilitigs Libearalach a chàineadh Dimàirt as dèidh dhan bhòt cudromach air Brexit a chaill sa Phàirlamaid a&#8217; ciallachadh gun dh&#8217;fhuair atharrachaidhean nan Tòraidhean air plana Brexit tron Phàrlamaid le dìreach trì bhòtaichean.
-
-<!--more-->
 
 Nam measg chaidh Tim Farron a chàineadh o chionn &#8217;s gun robh a&#8217; dèanamh òraid aig Abaid Sherbourne co-cheangailte ris a&#8217; chonnspaid mu a bheachdan air fèise co-sheòrsach agus Crìosdaidheachd.
 

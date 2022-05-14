@@ -6,27 +6,16 @@ date: 2008-07-20 20:45:25
 
 title: Eadailteach air £80,000 fhaighinn air sgàth ’s gun do chiall e an cead-dràibhidh aige o chionn ’s gu bheil e co-sheòrsach
 
-image: /images/2008-07-20-eadailteach-air-80000-fhaighinn-air-sgath-s-gun-do-chiall-e-an-cead-draibhidh-aige-o-chionn-s-gu-bheil-e-co-sheorsach.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2008-07-20-eadailteach-air-80000-fhaighinn-air-sgath-s-gun-do-chiall-e-an-cead-draibhidh-aige-o-chionn-s-gu-bheil-e-co-sheorsach.webp
 
 author: Crìstean MacMhìcheil
 
-comments: true
-
 categories:
   - An t-Saoghal
-  
 
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Tha cùirt air Riaghaltas na h-Eadailt òrdachadh gus €100,000 (£80,000) a thoirt gu daoine co-sheòrsach a chiall an cead-dràibhidh aige o chionn &#8217;s an gnèitheachd aige.
-
-<!--more-->
 
 Ann an 2001 dh&#8217;innis Danib Giuffrida dha na h-ùghdarrasan gu bheil e co-sheòrsach fhàd &#8217;s a bha e a&#8217; dol tro deuchainn slàinte gus am b&#8217; urrainn dha ghabhail san airm.
 

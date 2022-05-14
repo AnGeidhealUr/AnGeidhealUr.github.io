@@ -6,26 +6,16 @@ date: 2008-04-06 21:21:39
 
 title: Coimhearsnachd LCDTE an dùil ri leth-bhreith anns a h-uile àite
 
-image: /images/2008-04-06-coimhearsnachd-lcdte-an-duil-ri-leth-bhreith-anns-a-h-uile-a-aite.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2008-04-06-coimhearsnachd-lcdte-an-duil-ri-leth-bhreith-anns-a-h-uile-a-aite.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
   - An Rìoghachd Aonaichte
 
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Chaidh sgrùdadh ùr fhoillseachadh le _Stonewall_ a tha a&#8217; sealltainn gu bheil an coimhearsnachd LCDTE an còmhnaidh an dùil ri leth-bhreith anns a h-uile àite.
-
-<!--more-->
 
 Bha còrr &#8217;s 1,600 daoine LCDTE a&#8217; gabhail pàirt anns a&#8217; chiad sgrùdadh LCDTE air an làrach-lìn _YouGov_ eadar 6mh-10mh An Dùbhlachd 2007.
 

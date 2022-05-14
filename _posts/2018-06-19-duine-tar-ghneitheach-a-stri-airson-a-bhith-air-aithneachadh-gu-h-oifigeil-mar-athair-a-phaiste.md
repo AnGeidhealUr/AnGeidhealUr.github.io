@@ -6,25 +6,16 @@ date: 2018-06-19 14:28:13
 
 title: Duine tar-ghnèitheach a’ strì airson a bhith air aithneachadh gu h-oifigeil mar athair a phàiste
 
-image: /images/2018-06-19-duine-tar-ghneitheach-a-stri-airson-a-bhith-air-aithneachadh-gu-h-oifigeil-mar-athair-a-phaiste.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2018-06-19-duine-tar-ghneitheach-a-stri-airson-a-bhith-air-aithneachadh-gu-h-oifigeil-mar-athair-a-phaiste.webp
 
 author: Crìstean MacMhìcheil
 
 categories:
   - An Rìoghachd Aonaichte
   
-
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Tha duine tar-ghnèitheach anns an Rìoghachd Aonaichte a’ strì airson a bhith air aithneachadh gu h-oifigeil mar athair a phàiste.
-
-<!--more-->
 
 Ged a bha gnè an duine air atharrachadh gu h-oifigeil mus do rugadh an leanabh, tha lagh Bhreatainn ag ràdh gum feum an neach a bheireas leanabh a bhith air a chlàradh air an teisteanas breith mar mhàthair.
 

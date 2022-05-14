@@ -6,24 +6,15 @@ date: 2009-05-19 16:34:27
 
 title: Nach toir sibh ur cuideachadh ris an t-Urr. Scott Rennie
 
-image: /images/2009-05-19-nach-toir-sibh-ur-cuideachadh-ris-an-t-urr-scott-rennie.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2009-05-19-nach-toir-sibh-ur-cuideachadh-ris-an-t-urr-scott-rennie.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
   - Alba
   - An Rìoghachd Aonaichte
-  
 
 ---
-
-![]({{ site.baseurl }}/images/posts/)
 
 Mar a bhios fios agaibh tha an t-Urr. Scott Rennie air a bhith a&#8217; strì airson an dreuchd aige a shàbhaladh as dèidh dhan eaglais a ràdh nach robh e ceadaichte a bhith ag obair air an son air sgàth &#8217;s gu bheil e co-sheòrsach.
 

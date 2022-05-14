@@ -6,29 +6,17 @@ date: 2008-04-23 16:59:00
 
 title: Riaghaltas Bhachrain airson clann co-sheòrsach gam peanasachadh
 
-image: /images/2008-04-23-riaghaltas-bhachrain-airson-clann-co-sheorsach-gam-peanasachadh.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2008-04-23-riaghaltas-bhachrain-airson-clann-co-sheorsach-gam-peanasachadh.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
   - An t-Saoghal
   
-  
-  
-
 ---
-
-![]({{ site.baseurl }}/images/posts/)
 
 Tha Riaghaltas Bhachrain a&#8217; dèanamh iomairt gus co-sheòrsachd a chur às dhan dhùthaich.
 
-<!--more-->
 
 Tha Buill Pàrlamaid air sreath de mholaidhean a chur an gnìomh gus co-sheòrsachd a chur às agus gu connspaideach tha na molaidhean seo ag òrdachadh luchd-teagaisg a chumail sùil air clann airson aomaidh co-sheòrsach agus a bhith gam peanasachadh mar sin.
 

@@ -6,27 +6,16 @@ date: 2008-04-09 12:51:01
 
 title: Barailean ri gràin-co-sheòrsachd a’ tathaich air gu BP Canadanach
 
-image: /images/2008-04-09-barailean-ri-grain-co-sheorsachd-a-tathaich-air-gu-bp-canadanach.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2008-04-09-barailean-ri-grain-co-sheorsachd-a-tathaich-air-gu-bp-canadanach.webp
 
 author: Crìstean MacMhìcheil
 
-comments: true
-
 categories:
   - An t-Saoghal
-  
 
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Tha ball pàrlamaid ann an Canada air leisgeul a dhèanamh as dèidh bhidio fhoillseachadh anns a thuirt e gun robh daoine co-sheòrsach &#8220;galarach&#8221;.
-
-<!--more-->
 
 Thuirt Tom Lukiwski, 56, na BhP airson na Tòraidhean ann an Saskatchewan, gun robh e &#8220;uabhasach duilich airson na faclan a thuirt mi 17 bliadhna air ais.&#8221;
 

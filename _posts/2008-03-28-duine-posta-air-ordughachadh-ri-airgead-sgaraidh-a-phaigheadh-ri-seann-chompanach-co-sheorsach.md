@@ -6,27 +6,16 @@ date: 2008-03-28 08:30:43
 
 title: Duine pòsta air òrdachadh ri airgead-sgaraidh a phàigheadh ri seann chompanach co-sheòrsach
 
-image: /images/2008-03-28-duine-posta-air-ordughachadh-ri-airgead-sgaraidh-a-phaigheadh-ri-seann-chompanach-co-sheorsach.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2008-03-28-duine-posta-air-ordughachadh-ri-airgead-sgaraidh-a-phaigheadh-ri-seann-chompanach-co-sheorsach.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
   - An t-Saoghal
   
-
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Tha cùirt ann am Braisil air ràdh gum feum duine airgead-sgaraidh a phàigheadh ri seann chompanach co-sheòrsach aige.
-
-<!--more-->
 
 Tha luach còrr ’s $450m (£225m) aig an Ameireaganach, a tha an duine a-nis a’ fuireach leis a bhean anns na Stàitean Aonaichte, agus a-rèir an cùirt feumaidh e còrr ’s $120m (£60m) a phàigheadh ris a’ Bhraisileach.
 

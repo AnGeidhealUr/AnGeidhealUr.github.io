@@ -6,27 +6,16 @@ date: 2008-03-29 09:58:46
 
 title: Neach-poileataigs aig a bheil gràin-co-sheòrsachd a’ coinneachadh le PFLAG
 
-image: /images/2008-03-29-neach-poileataigs-aig-a-bheil-grain-co-sheorsachd-a-coinneachadh-le-pflag.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2008-03-29-neach-poileataigs-aig-a-bheil-grain-co-sheorsachd-a-coinneachadh-le-pflag.webp
 
 author: Crìstean MacMhìcheil
 
-comments: true
-
 categories:
   - An t-Saoghal
-  
-  
+    
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Tha neach-poileataigs à Oklahoma, a tha ainmeil airson ag ràdh gu bheil daoine co-sheòrsach nan bagairtean nas motha ris na Stàitean Aonaichte na tha ceannaircich, air a bhith a’ coinneachadh le buidheann PFLAG (_Parents & Friends of Lesbians & Gays_).
-
-<!--more-->
 
 Thug a’ choimhearsnachd eadar-nàiseanta an àire do Riochdaire Sally Kern na bu tràithe a’ mhìos seo chaidh nuair a dh’fhoillsich am buidheann _Gay & Lesbian Victory Fund_ bhidio air YouTube a’ sealltainn Riochdaire Kern a’ toirt seachad òraid a bha ri gràin-co-sheòrsachd.
 

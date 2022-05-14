@@ -6,28 +6,17 @@ date: 2008-03-31 13:09:59
 
 title: Iorànach co-sheòrsach gu bhith a’ fuireach anns a’ Ghrèig
 
-image: /images/2008-03-31-ioranach-co-sheorsach-gu-bhith-a-fuireach-anns-a-ghreig.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2008-03-31-ioranach-co-sheorsach-gu-bhith-a-fuireach-anns-a-ghreig.webp
 
 author: Crìstean MacMhìcheil
 
-comments: true
-
 categories:
   - An t-Saoghal
-  - An t-Saoghal
   
-
 ---
-
-![]({{ site.baseurl }}/images/posts/)
 
 Tha gnìomhaichean LCDTE anns a’ Ghrèig a’ dèanamh subhachas an dèidh dhan Riaghaltas tèarmann a thoirt ri Iorànach co-sheòrsach a bha gu bhith a’ fuadach a-mach.
 
-<!--more-->
 
 Air ainmeachadh Alex gus a chumail sàbhailte air sgàth ’s gun robh e ga chur an grèim, ga bhualadh agus ga chur an cràdh air sgàth ’s gun robh e co-sheòrsach.
 

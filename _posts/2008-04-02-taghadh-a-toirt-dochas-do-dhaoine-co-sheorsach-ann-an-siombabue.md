@@ -6,27 +6,16 @@ date: 2008-04-02 10:20:12
 
 title: Taghadh a’ toirt dòchas do dhaoine co-sheòrsach ann an Sìombabue
 
-image: /images/2008-04-02-taghadh-a-toirt-dochas-do-dhaoine-co-sheorsach-ann-an-siombabue.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2008-04-02-taghadh-a-toirt-dochas-do-dhaoine-co-sheorsach-ann-an-siombabue.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
   - An t-Saoghal
   
-
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Tha daoine co-sheòrsach ann an Sìombabue an dòchas gum bi smachd Robert Mugabe a’ tighinn gu crìoch an seachdain seo.
-
-<!--more-->
 
 Tha Mugabe, 84, air a bhith a’ dèanamh geur-leanmhainn air a’ choimhearsnachd LCDT fad còrr ’s 25 bliadhna.
 

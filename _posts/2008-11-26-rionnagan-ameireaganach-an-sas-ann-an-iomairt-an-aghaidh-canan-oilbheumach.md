@@ -6,28 +6,16 @@ date: 2008-11-26 16:15:39
 
 title: Rionnagan Ameireaganach an-sàs ann an iomairt an-aghaidh cànan oilbheumach
 
-image: /images/2008-11-26-rionnagan-ameireaganach-an-sas-ann-an-iomairt-an-aghaidh-canan-oilbheumach.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2008-11-26-rionnagan-ameireaganach-an-sas-ann-an-iomairt-an-aghaidh-canan-oilbheumach.webp
 
 author: Crìstean MacMhìcheil
 
-comments: true
-
 categories:
   - An t-Saoghal
-  
-  
 
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Chaidh iomairt ùr a chur air bhog anns na Stàitean Aonaichte gus sgoilearan a theagasg mu dheidhinn am buaidh a tha aig cànan oilbheumach air daoine LCDTE.
-
-<!--more-->
 
 Mar phàirt dhen iomairt thèid sanasan ùra fhoillseachadh air 33,000 stèiseanan air feadh na Stàitean a&#8217; toirt a-steach t.bh., radio, pàipearan-naidheachd, irisean agus an t-eadar-lìon.
 

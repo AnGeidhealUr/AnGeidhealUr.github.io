@@ -6,28 +6,18 @@ date: 2009-11-04 17:05:17
 
 title: 'CUNNTAS-BEACHD: Am b’ fheàrr leibh sgeulachdan ùra Naidheachdan Pinc gu làitheil no gach seachdain?'
 
-image: /images/2009-11-04-cunntas-beachd-am-b-fhearr-leibh-sgeulachdan-ura-naidheachdan-pinc-gu-laitheil-no-gach-seachdain.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2009-11-04-cunntas-beachd-am-b-fhearr-leibh-sgeulachdan-ura-naidheachdan-pinc-gu-laitheil-no-gach-seachdain.webp
 
 author: Crìstean MacMhìcheil
 
-comments: true
-
 categories:
   - Blog
-
+  
 ---
-
-![]({{ site.baseurl }}/images/posts/)
 
 Am b&#8217; fheàrr leibh sgeulachdan ùra Naidheachdan Pinc gu làitheil neo gach seachdain?
 
 Cuiribh fios gu [Naidheachdan Pinc air post-d][1] air neo gu [@NaidheachdanPnc air Twitter][2].
-
-<!--more-->
 
 AIR A DHEASACHADH 3 Am Faoilleach 2018
 

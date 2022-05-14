@@ -6,27 +6,16 @@ date: 2008-03-27 08:52:10
 
 title: Duine trom air bruidhinn a-mach an aghaidh Seirbheis Slàinte claon-breitheach
 
-image: /images/2008-03-27-duine-trom-air-bruidhinn-a-mach-an-aghaidh-seirbheis-slainte-claon-breitheach.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2008-03-27-duine-trom-air-bruidhinn-a-mach-an-aghaidh-seirbheis-slainte-claon-breitheach.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
   - An t-Saoghal
 
-
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Tha duine tar-ghnèitheach à Portland, Oregon air ràdh anns a’ cholbh aige anns an iris co-sheòrsach _The Advocate_ gu bheil e trom.
-
-<!--more-->
 
 A bharrachd air seo tha Thomas Beatie ag ràdh gu bheil doctairean agus ionadan slàinte air a bhith a’ dèanamh lethbhreith na aghaidh air sgàth ’s an leatrom.
 

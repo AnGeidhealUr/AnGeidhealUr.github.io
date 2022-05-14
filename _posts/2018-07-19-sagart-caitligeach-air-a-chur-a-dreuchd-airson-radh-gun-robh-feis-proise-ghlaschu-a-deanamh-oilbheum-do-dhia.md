@@ -6,28 +6,16 @@ date: 2018-07-19 21:15:00
 
 title: Sagart Caitligeach air a chur à dreuchd airson ràdh gun robh fèis-pròise Ghlaschu a’ dèanamh oilbheum do Dhia
 
-image: /images/2018-07-19-sagart-caitligeach-air-a-chur-a-dreuchd-airson-radh-gun-robh-feis-proise-ghlaschu-a-deanamh-oilbheum-do-dhia.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2018-07-19-sagart-caitligeach-air-a-chur-a-dreuchd-airson-radh-gun-robh-feis-proise-ghlaschu-a-deanamh-oilbheum-do-dhia.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
   - Alba
   
-  
-
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Chaidh an sagart Caitligeach Mark Morris a chur à dreuchd le Oilthigh Cailleannach Ghlaschu as dèidh dha ràdh gun robh fèis-pròise Ghlaschu a&#8217; dèanamh oilbheum do Dhia.
-
-<!--more-->
 
 Bha mìltean de dhaoine an-làthair aig an cruinneachadh bliadhnail LCDTE sa Ghlaschu Disathairne seo chaidh.
 

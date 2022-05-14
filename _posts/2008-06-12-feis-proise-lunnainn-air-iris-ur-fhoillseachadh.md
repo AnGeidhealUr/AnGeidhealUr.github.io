@@ -6,27 +6,16 @@ date: 2008-06-12 12:57:36
 
 title: Fèis-pròise Lunnainn air iris ùr fhoillseachadh
 
-image: /images/2008-06-12-feis-proise-lunnainn-air-iris-ur-fhoillseachadh.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2008-06-12-feis-proise-lunnainn-air-iris-ur-fhoillseachadh.webp
 
 author: Crìstean MacMhìcheil
 
-comments: true
-
 categories:
-  - An t-Saoghal
-  
+  - An t-Saoghal  
 
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Tha [Fèis-pròise Lunnainn][1] air iris ùr fhoillseachadh an còis an caismeachd fhèin leis an dùil barrachd daoine a tharraing ris an tachartas am-bliadhna.
-
-<!--more-->
 
 Thuirt Emma Hands, Iar-chathraiche Fèis-pròise Lunnainn, gu bheil an iris uabhasach cudromach dhan bhuidheann.
 

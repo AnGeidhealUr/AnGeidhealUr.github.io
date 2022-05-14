@@ -6,28 +6,16 @@ date: 2008-04-09 09:08:35
 
 title: Buidheann God Hates Fags gu bhith a’ caill na h-eaglais aca
 
-image: /images/2008-04-09-buidheann-god-hates-fags-gu-bhith-a-caill-na-h-eaglais-aca.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2008-04-09-buidheann-god-hates-fags-gu-bhith-a-caill-na-h-eaglais-aca.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
   - An t-Saoghal
   
-  
-
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Tha breitheamh feadarail anns na Stàitean Aonaichte ag ràdh gum bu chòir dhan Westboro Baptist Church agus na h-oifisean aig Phelps-chartered Law a bhith air an toirt air falbh bhon luchd-seilbh aca gus càin de $5m a phàigheadh.
-
-<!--more-->
 
 Tha an eaglais stèidhichte ann an Topeka, Kansas agus tha iad air tòrr làraichean-lìn a chruthachadh a leithid GodHatesFags.com agus GodHatesAmerica.com a tha a&#8217; dìteadh daoine LCDT, Muslamaich, Iùdhaich agus Caitligich Romanach.
 

@@ -6,29 +6,17 @@ date: 2008-03-28 11:48:48
 
 title: Bàrd connspaideach a’ fuireach air curraicealam na h-Èirinn
 
-image: /images/2008-03-28-bard-connspaideach-a-fuireach-air-curraicealam-na-h-eirinn.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2008-03-28-bard-connspaideach-a-fuireach-air-curraicealam-na-h-eirinn.webp
 
 author: Crìstean MacMhìcheil
 
-comments: true
-
 categories:
   - An t-Saoghal
-  
   - Èirinn
   
-
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Tha an _An Chomhairle Náisiúnta Curaclaim agus Measúnachta_ (An Comhairle Nàiseanta Curraicealaim agus Measaidh) ann an Èirinn ag ràdh gum bi obraichean Cathal Ó Searcaigh a’ fuireach air curraicealam na h-Èirinn ged a tha am bàrd fo amharas gun do ghabh e brath air balaich ann an Neapàl.
-
-<!--more-->
 
 Thuirt Mary Hanafin, Ministear an Fhoghlaim:
 

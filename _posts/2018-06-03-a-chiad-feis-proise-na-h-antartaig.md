@@ -6,27 +6,16 @@ date: 2018-06-03 15:23:59
 
 title: A’ Chiad Fèis-pròise na h-Antartaig
 
-image: /images/2018-06-03-a-chiad-feis-proise-na-h-antartaig.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2018-06-03-a-chiad-feis-proise-na-h-antartaig.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
   - An t-Saoghal
   
-
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Thathar an dùil gun tèid a&#8217; chiad fèis pròis na h-Antartaig a chumail an t-seachdain-sa.
-
-<!--more-->
 
 Tha buidheann de 10 daoine LGDT+ air tòiseachadh ag ullachadh airson a&#8217; chiad fèis pròise riamh aca, le bhith a&#8217; togail dealbh dhen bhuidheann taobh a-muigh an stèisean aca aig Stèisean MacMhurchaidh &#8211; timcheall air 850 mìle air falbh bhon Phòla a Deas.
 

@@ -6,27 +6,16 @@ date: 2018-03-26 20:41:08
 
 title: Casg air tar-ghnèithich ann an seirbheisean armailteach nan Stàitean Aonaichte
 
-image: /images/2018-03-26-casg-air-tar-ghneithich-ann-an-seirbheisean-armailteach-nan-staitean-aonaichte.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2018-03-26-casg-air-tar-ghneithich-ann-an-seirbheisean-armailteach-nan-staitean-aonaichte.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
   - An t-Saoghal
   
-
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
  Chaidh a dhearbhadh le Ceann-suidhe nan Stàitean Aonaicte Donald Trump gu bheil casg air a chuid as motha de thar-ghnèithich le mì-rian ghnèitheach bho sheirbheis armailteach.
-
- <!--more-->
 
  A-rèir an aithris aige chaidh am poileasaidh ùr seo leasachadh mar thoradh air sgrùdadh farsaing a rinn ceannardan armailteach agus sìobhalta. A bharrachd air an aithris chaidh meòrachadn bho Rùnaire an Dìon James Mattis fhòillseachadh far an do dh'innis e gu Trump gu bheil cunnartain mòra ann a bhith a' toirt cead do thar-ghnèithich a bhith a' gabhail anns na feachdan armailteach air sgàth 's gum feumadh iad a bhith saor bho shreath de riaghailtean inntinneil, corporra agus gnèitheach agus gum faodadh iad bacadh a chur air ullachadh agus co-ionnannachd an aonaid agus droch-bhuaidh a thoirt air èifeachdas na feachdan armailteach.
 

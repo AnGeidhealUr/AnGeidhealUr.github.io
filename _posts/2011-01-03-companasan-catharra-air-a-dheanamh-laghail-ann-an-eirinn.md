@@ -6,28 +6,17 @@ date: 2011-01-03 13:09:22
 
 title: Companasan-catharra air a dhèanamh laghail ann an Èirinn
 
-image: /images/2011-01-03-companasan-catharra-air-a-dheanamh-laghail-ann-an-eirinn.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2011-01-03-companasan-catharra-air-a-dheanamh-laghail-ann-an-eirinn.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
   - An t-Saoghal
   - Èirinn
   
-
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Chaidh laghan ùra a chur an gnìomh ann an Èirinn Disathairne gus companasan-catharra a dhèanamh laghail anns an dùthaich.
-
-<!--more-->
 
 A dh&#8217;aindeoin seo tha cuid anns a&#8217; choimhearsnachd LCDT Èireannach air an achd a chàineadh air sgàth &#8217;s gum feumar gach càraid tagradh a chur a-steach co-dhiù trì mìos ro-làimh ma bhios iad airson cead fhaighinn bhon Riaghaltas agus air sgàth &#8217;s nach eil an achd a&#8217; toirt còirichean co-ionann do phàrantan co-sheòrsach.
 

@@ -6,30 +6,19 @@ date: 2008-03-28 09:09:59
 
 title: Droch-làimhseachadh de dhaoine a’ sireadh tèarmann na ghaoid air cliù an Rìoghachd Aonaichte
 
-image: /images/2008-03-28-droch-laimhseachadh-de-dhaoine-a-sireadh-tearmann-na-ghaoid-air-cliu-an-rioghachd-aonaichte.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2008-03-28-droch-laimhseachadh-de-dhaoine-a-sireadh-tearmann-na-ghaoid-air-cliu-an-rioghachd-aonaichte.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
   - An Rìoghachd Aonaichte
   - An t-Saoghal
   
-
 ---
-
-![]({{ site.baseurl }}/images/posts/)
 
 Tha coimisean a chaidh a stèidheachadh gus poileasaidhean tèarmann anns an Rìoghachd Aonaichte sgrùdadh ag ràdh nach eil na poileasaidhean cho àrd ’s a bu chòir dhaibh a bhith airson dùthaich “sìobhaltach”.
 
-<!--more-->
-
-Ach tha <span id="result_box" class="short_text" lang="gd" tabindex="-1"><span class="">Buidheann nan Crìochan & In-imrich</span></span> (_Border & Immigration Agency_) ag ràdh gu bheil iad a’ làimhseachadh daoine a’ sireadh tèarmann le “cùram agus truas”.
+Ach tha Buidheann nan Crìochan & In-imrich (_Border & Immigration Agency_) ag ràdh gu bheil iad a’ làimhseachadh daoine a’ sireadh tèarmann le “cùram agus truas”.
 
 Tha an àireamh de dhaoine a’ sireadh tèarmann anns an Rìoghachd Aonaichte air a bhith a’ tuiteam anns na bliadhnaichean mu dheireadh agus cha robh ach 23, 000 ga sireadh an-uiridh.
 

@@ -6,27 +6,17 @@ date: 2008-04-21 14:39:07
 
 title: Eilean Mhanainn air dreachd bhile a dhèanamh gus còirichean co-ionann a thoirt ri daoine tar-ghnèitheach
 
-image: /images/2008-04-21-eilean-mhanainn-air-dreachd-bhile-a-dheanamh-gus-coirichean-co-ionann-a-thoirt-ri-tar-ghneithich.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2008-04-21-eilean-mhanainn-air-dreachd-bhile-a-dheanamh-gus-coirichean-co-ionann-a-thoirt-ri-tar-ghneithich.webp
 
 author: Crìstean MacMhìcheil
 
 categories:
   - An Rìoghachd Aonaichte
   - An t-Saoghal
-  - An t-Saoghal
-  
 
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Tha Eilean Mhanainn air dreachd bhile fhoillseachadh a bhios ag aithneachadh daoine tar-ghnèitheach gu h-oifigeil.
-
-<!--more-->
 
 A-rèir an _Gender Recognition Bill 2008_ thèid còirichean co-ionann a thoirt ri daoine a tha air an gnè atharrachadh agus aig a bheil Teisteanas Aithne Gnè.
 

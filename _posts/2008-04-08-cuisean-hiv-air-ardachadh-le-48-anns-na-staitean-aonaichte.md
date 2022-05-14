@@ -6,26 +6,16 @@ date: 2008-04-08 18:01:37
 
 title: 'Cùisean HIV air àrdachadh le 48% anns na Stàitean Aonaichte'
 
-image: /images/2008-04-08-cuisean-hiv-air-ardachadh-le-48-anns-na-staitean-aonaichte.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2008-04-08-cuisean-hiv-air-ardachadh-le-48-anns-na-staitean-aonaichte.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
   - An t-Saoghal
 
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Chaidh aithisg fhoillseachadh leis an [Ionad airson Smachd a chumail air Tinneasan][1] (an CDC) a tha a&#8217; sealltainn gu bheil cùisean HIV air àrdachadh le 48% anns na Stàitean Aonaichte eadar 2005-2006.
-
-<!--more-->
 
 Tha na figearan a&#8217; sealltainn gun robh 35,537 cùisean HIV ann an 2005 ach bha seo air àrdachadh gu 52,878 cùisean ann an 2006.
 

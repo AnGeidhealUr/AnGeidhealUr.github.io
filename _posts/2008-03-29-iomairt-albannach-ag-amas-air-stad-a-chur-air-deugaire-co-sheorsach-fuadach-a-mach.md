@@ -6,11 +6,7 @@ date: 2008-03-29 09:22:09
 
 title: Iomairt Albannach ag amas air stad a chur air deugaire co-sheòrsach fuadach a-mach
 
-image: /images/2008-03-29-iomairt-albannach-ag-amas-air-stad-a-chur-air-deugaire-co-sheorsach-fuadach-a-mach.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2008-03-29-iomairt-albannach-ag-amas-air-stad-a-chur-air-deugaire-co-sheorsach-fuadach-a-mach.webp
 
 author: Crìstean MacMhìcheil
 
@@ -19,14 +15,9 @@ categories:
   - An Rìoghachd Aonaichte
   - An t-Saoghal
   
-
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Chaidh iomairt a stèidheachadh gus deugaire co-sheòrsach, a tha gu bhith a’ fuadach a-mach às an Rìoghachd Aonaichte, a shàbhaladh.
-
-<!--more-->
 
 Tha JoJo Jako Yakob, 19, gu bhith a’ fuadach a-mach às an Rìoghachd Aonaichte air ais gu Siria, ach tha e ag ràdh gun tèid a chur gu bàs ma thilleas e air ais dhan dùthaich.
 

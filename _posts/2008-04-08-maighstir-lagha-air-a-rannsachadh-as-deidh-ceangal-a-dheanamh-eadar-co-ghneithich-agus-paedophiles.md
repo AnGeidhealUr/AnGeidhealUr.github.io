@@ -6,28 +6,17 @@ date: 2008-04-08 17:21:20
 
 title: Maighstir lagha air a rannsachadh as dèidh ceangal a dhèanamh eadar daoine co-sheòrsach agus paedophiles
 
-image: /images/2008-04-08-maighstir-lagha-air-a-rannsachadh-as-deidh-ceangal-a-dheanamh-eadar-co-ghneithich-agus-paedophiles.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2008-04-08-maighstir-lagha-air-a-rannsachadh-as-deidh-ceangal-a-dheanamh-eadar-co-ghneithich-agus-paedophiles.webp
 
 author: Crìstean MacMhìcheil
 
-comments: true
-
 categories:
-  - An Rìoghachd Aonaichte
-  
-  
+  - An Rìoghachd Aonaichte  
 
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Chaidh rannsachadh a thòiseachadh air sgàth &#8217;s gun do rinn maighstir lagha ceangal eadar daoine co-sheòrsach agus _paedophiles_ air prògram aithriseach anns a&#8217; Chuimrigh.
 
-<!--more-->
 
 Bha Mgr Byron Butler a&#8217; bruidhinn air am prògram aithriseach _Week In Week Out_ air BBC Wales nuair a thuirt e:
 

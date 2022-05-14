@@ -6,28 +6,17 @@ date: 2009-05-25 12:25:09
 
 title: 'BBC Alba: Deasbad a’ leantainn mu Mhinistearan gèidh'
 
-image: /images/2009-05-25-bbc-alba-deasbad-a-leantainn-mu-mhinistearan-geidh.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2009-05-25-bbc-alba-deasbad-a-leantainn-mu-mhinistearan-geidh.webp
 
 author: Crìstean MacMhìcheil
 
-comments: true
-
 categories:
   - Alba
-  - An Rìoghachd Aonaichte
-  
+  - An Rìoghachd Aonaichte  
 
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 **Chaidh seo a thogail bho làrach-lìn a&#8217; BhBC. Airson tuilleadh fiosrachaidh tadhal air [Deasbad a&#8217; leantainn mu Mhinistearan gèidh][1].**
-
-<!--more-->
 
 Leanaidh an deasbad aig Àrd-Sheanadh Eaglais na h-Alba Diluain air am bu chòir do dhaoine a tha gu fosgailte ann an càirdeasan gèidh a bhith ceadaichte àrd-oifisean a bhith aca san Eaglais.
 

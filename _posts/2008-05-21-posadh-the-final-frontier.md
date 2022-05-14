@@ -6,28 +6,16 @@ date: 2008-05-21 11:19:46
 
 title: Pòsadh… ‘the Final Frontier’
 
-image: /images/2008-05-21-posadh-the-final-frontier.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2008-05-21-posadh-the-final-frontier.webp
 
 author: Crìstean MacMhìcheil
 
-comments: true
-
 categories:
-  - An t-Saoghal
-  
-  
+  - An t-Saoghal  
 
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Tha George Takei air fhoillseachadh air an làrach-lìn aige gu bheil e an dùil a chompanach, Brad Altman, a phòsadh.
-
-<!--more-->
 
 Tha iad nam measg iomadach càraidean LCDT, a leithid Ellen DeGeneres agus Portia de Rossi a tha airson pòsadh as dèidh dha Àrd-chùirt Chalifornia pòsaidhean LCDT a dhèanamh laghail anns an stàit.
 

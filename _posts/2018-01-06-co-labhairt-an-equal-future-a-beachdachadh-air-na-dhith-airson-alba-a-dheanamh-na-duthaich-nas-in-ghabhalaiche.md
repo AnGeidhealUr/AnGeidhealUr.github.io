@@ -6,27 +6,16 @@ date: 2018-01-06 16:58:46
 
 title: Co-labhairt “An Equal Future?” a’ beachdachadh air na dhìth airson Alba a dhèanamh na dùthaich nas in-ghabhalaiche
 
-image: /images/2018-01-06-co-labhairt-an-equal-future-a-beachdachadh-air-na-dhith-airson-alba-a-dheanamh-na-duthaich-nas-in-ghabhalaiche.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2018-01-06-co-labhairt-an-equal-future-a-beachdachadh-air-na-dhith-airson-alba-a-dheanamh-na-duthaich-nas-in-ghabhalaiche.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
   - Alba
   
-
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Tha [Òigridh LGDT na h-Alba](https://www.lgbtyouth.org.uk/) agus [Clann ann an Alba](https://childreninscotland.org.uk/) gu bhith a’ cumail co-labhairt gus beachdachadh air na dhìth airson Alba a dhèanamh na dùthaich nas in-ghabhalaiche.
-
-<!--more-->
 
 Thèid an co-labhairt “An Equal Future?” a chumail 1 An Gearran 2018 mar phàirt den mhìos air eachdraidh LGBT agus mar phàirt de Bliadhna na h-Òigridh 2018.
 

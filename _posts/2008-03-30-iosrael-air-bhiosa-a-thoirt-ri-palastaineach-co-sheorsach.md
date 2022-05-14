@@ -6,27 +6,16 @@ date: 2008-03-30 11:24:35
 
 title: Iosrael air bhìosa a thorit ri Palastaineach co-sheòrsach
 
-image: /images/2008-03-30-iosrael-air-bhiosa-a-thoirt-ri-palastaineach-co-sheorsach.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2008-03-30-iosrael-air-bhiosa-a-thoirt-ri-palastaineach-co-sheorsach.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
   - An t-Saoghal
   
-
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Tha Iosrael air bhìosa a thoirt ri Palastaineach co-sheòrsach air sgàth ’s gun robh e ann an cunnart anns a’ Bhruach an Iar.
-
-<!--more-->
 
 Tha an duine gun ainm an dùil ris a’ chompanach aige fhaicinn a-rithist ann an Tel Aviv.
 

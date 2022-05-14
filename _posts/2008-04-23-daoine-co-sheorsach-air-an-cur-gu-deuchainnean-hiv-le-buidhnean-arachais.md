@@ -6,27 +6,16 @@ date: 2008-04-23 18:33:50
 
 title: Daoine co-sheòrsach air an cur gu deuchainnean HIV le buidhnean àrachais
 
-image: /images/2008-04-23-daoine-co-sheorsach-air-an-cur-gu-deuchainnean-hiv-le-buidhnean-arachais.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2008-04-23-daoine-co-sheorsach-air-an-cur-gu-deuchainnean-hiv-le-buidhnean-arachais.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
   - An Rìoghachd Aonaichte
 
-
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Chaidh sgrùdadh a dhèanamh le [Compass IFA][1], buidheann a tha a&#8217; toirt comhairle do dhaoine co-sheòrsach a thaobh ionmhais, a tha a&#8217; sealltainn gu bheil na buidhnean àrachais [Legal & General][2] agus [AEGON][3] fhathast a&#8217; cur daoine co-sheòrsach gu deuchainnean HIV mus faigh iad àrachas slàinte.
-
-<!--more-->
 
 Ach thuirt Lesley MacPherson, Ceannard nam Meadhannan Corporra aig AEGON:
 

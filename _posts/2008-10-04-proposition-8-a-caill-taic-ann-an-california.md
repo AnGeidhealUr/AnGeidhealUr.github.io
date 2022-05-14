@@ -6,27 +6,16 @@ date: 2008-10-04 13:35:18
 
 title: Proposition 8 a’ caill taic ann an California
 
-image: /images/2008-10-04-proposition-8-a-caill-taic-ann-an-california.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2008-10-04-proposition-8-a-caill-taic-ann-an-california.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
   - An t-Saoghal
   
-
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Tha cunntas-bheachd ùr a&#8217; sealltainn gu bheil Proposition 8 a&#8217; caill taic ann an California.
-
-<!--more-->
 
 Bha briathrachas an tagraidh air a dheasachadh san t-Iuchar
 

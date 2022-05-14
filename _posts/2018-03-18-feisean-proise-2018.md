@@ -6,28 +6,18 @@ date: 2018-03-18 16:27:45
 
 title: Fèisean Pròise 2018
 
-image: /images/2018-03-18-feisean-proise-2018.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2018-03-18-feisean-proise-2018.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
   - Alba
   - An t-Saoghal
-  
 
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
  Seo agaibh liosta de dh&#8217;fhèisean Pròise am-bliadhna. Fàgaibh beachd gu h-ìosal ma tha sibh eòlach air fear a tha a dhìth.
 
- <!--more-->
 
 ## **Am Màrt** •
 

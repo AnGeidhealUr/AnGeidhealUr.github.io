@@ -8,26 +8,14 @@ title: Làrach-lìn air a chàineadh airson faighneachd dhan luchd-cleachdaidh m
 
 image: /images/2008-04-09-larach-lin-air-a-chaineadh-airson-faighneachd-dhan-luchd-cleachdaidh-mun-gneitheachd-aca.webp
 
-image-caption:
-
-image-licence:
-
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
   - An t-Saoghal
   
-  
-
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Chaidh bacadh a chur air làrach-lìn, a tha a&#8217; toirt seachad seirbheis gus companaich flat a lorg, le cùirt anns na Stàitean Aonaichte air sgàth &#8217;s gun robh an làrach-lìn a&#8217; cur ceistean air na buill mu dheidhinn an gnèitheachd aca.
-
-<!--more-->
 
 Chaidh _Roommates.com_ a chàineadh le Comhairle an Taigheadas Cothromach (_Fair Housing Council_) ann an Gleann San Fernando agus ann an San Francisco air sgàth &#8217;s gun robh e riantanach airson buill a bhith ag ràdh nan robh iad co-sheòrsach.
 

@@ -6,14 +6,14 @@ date: 2008-03-14 17:44:38
 
 title: Càraid leasbach làn-thoilichte le ceathrar san aon bhreith
 
+image: /images/posts/2008-03-14-caraid-leasbach-lan-thoilichte-le-ceathrar-san-aon-bhreith.webp
+
 author: Crìstean MacMhìcheil
 
 categories:
   - An t-Saoghal
 
 ---
-
-![]({{ site.baseurl }}/images/posts/2008-03-14-caraid-leasbach-lan-thoilichte-le-ceathrar-san-aon-bhreith.webp)
 
 Tha càraid leasbach a tha ag obair airson Roinn Poileas Irvine ann an Siorrachd Orains, California làn-thoilichte le ceathrar san aon bhreith, dithis bhalach agus dithis nighean.
 

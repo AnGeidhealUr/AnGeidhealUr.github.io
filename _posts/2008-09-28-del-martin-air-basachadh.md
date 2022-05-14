@@ -6,27 +6,16 @@ date: 2008-09-28 11:45:00
 
 title: Del Martin air bàsachadh
 
-image: /images/2008-09-28-del-martin-air-basachadh.webp
-
-image-caption:
-
-image-licence:
+image: /images/posts/2008-09-28-del-martin-air-basachadh.webp
 
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
   - An t-Saoghal
   
-
 ---
 
-![]({{ site.baseurl }}/images/posts/)
-
 Chaochail Del Martin, gnìomhaiche leasbach air leth cudromach, aois 87, ann an San Francisco aig dheireadh an Lùnastal.
-
-<!--more-->
 
 ‘S ann anns na 1950an a thoisich i ag obair airson co-ionannachd LCDT.
 
