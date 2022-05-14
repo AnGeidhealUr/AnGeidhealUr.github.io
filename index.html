@@ -39,11 +39,11 @@ title: Naidheachdan
         <ul class="pagination justify-content-center">
           {% if paginator.next_page %}
           <li class="page-item active">
-              <a class="page-link" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Nas sìne</a>
+              <a class="page-link" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}"><i class="fa fa-arrow-circle-left"></i>  Nas sìne</a>
             </li>
           {% else %}
             <li class="page-item disabled">
-              <span class="page-link">&laquo; Nas sìne</span>
+              <span class="page-link"><i class="fa fa-arrow-circle-left"></i>  Nas sìne</span>
             </li>
           {% endif %}
           
@@ -64,11 +64,11 @@ title: Naidheachdan
           
           {% if paginator.previous_page %}
             <li class="page-item active">
-              <a class="page-link" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">Nas ùire &raquo;</a>
+              <a class="page-link" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">Nas ùire <i class="fa fa-arrow-circle-right"></i></a>
             </li>
           {% else %}
             <li class="page-item disabled">
-              <span class="page-link">Nas ùire &raquo;</span>
+              <span class="page-link">Nas ùire <i class="fa fa-arrow-circle-right"></i></span>
             </li>
           {% endif %}
 
