@@ -1,37 +1,14 @@
 ---
-
 layout: post
-
 date: 2021-04-03
-
 title: Tagraiche Sealtainneach ga chàineadh
-
 image: /images/2021-04-03-tagraiche-sealtainneach-ga-chaineadh.webp
-
-image-caption:
-
-image-licence:
-
 author: Crìstean MacMhìcheil
-
-comments: true
-
 categories:
     - Alba
-    
-    
-
-twitter: https://www.twitter.com/AnGeidhealUr/status/1378368067898634243
-
-instagram: https://www.instagram.com/p/CNNV5I1L23O/
-
-facebook: https://www.facebook.com/AnGeidhealUr/posts/3953518638003996
-
 ---
 
 Tha tagraiche neo-eisimeileach à Shealtainn fo chàineadh as dèidh dha ràdh gum faodadh an galar sgaoilte COVID-19 a bhith na thoradh pòsadh aon-sheòrsach a dhèanamh laghail.
-
-<!--more-->
 
 Bidh Peter Tait a’ seasamh airson sgìre Shealtainn ann an taghadh Pàrlamaid na h-Alba an ath mhìos.
 

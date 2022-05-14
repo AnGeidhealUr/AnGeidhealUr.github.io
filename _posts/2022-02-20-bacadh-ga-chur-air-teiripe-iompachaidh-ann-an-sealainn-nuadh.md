@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Bacadh ga chur air teiripe iompachaidh ann an Sealainn Nuadh
 date: 2022-02-20 13:40
-category: An t-Saoghal
+title: Bacadh ga chur air teiripe iompachaidh ann an Sealainn Nuadh
 image: /images/posts/2022-02-20-bacadh-ga-chur-air-teiripe-iompachaidh-ann-an-sealainn-nuadh.webp
 author: Crìstean MacMhìcheil
+categories:
+	- An t-Saoghal
 ---
 
 ![]({{ site.baseurl }}/images/posts/2022-02-20-bacadh-ga-chur-air-teiripe-iompachaidh-ann-an-sealainn-nuadh.webp)

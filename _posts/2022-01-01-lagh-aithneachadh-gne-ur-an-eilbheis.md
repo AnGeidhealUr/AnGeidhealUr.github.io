@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Lagh aithneachadh gnè ùr an Eilbheis
 date: 2022-01-01
-category: An t-Saoghal
+title: Lagh aithneachadh gnè ùr an Eilbheis
 image: /images/posts/2022-01-01-lagh-aithneachadh-gne-ur-an-eilbheis.webp
 author: Crìstean MacMhìcheil
+categories:
+	- An t-Saoghal
 ---
 
 ![]({{ site.baseurl }}/images/posts/2022-01-01-lagh-aithneachadh-gne-ur-an-eilbheis.webp)

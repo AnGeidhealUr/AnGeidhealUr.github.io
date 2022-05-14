@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Criomagan Naidheachd na Seachdain
 date: 2022-04-22
-category: Criomagan
+title: Criomagan Naidheachd na Seachdain
 image: /images/posts/criomagan.webp
 author: Crìstean MacMhìcheil
+categories:
+	- Criomagan
 ---
 
 ![]({{ site.baseurl }}/images/posts/criomagan.webp)
