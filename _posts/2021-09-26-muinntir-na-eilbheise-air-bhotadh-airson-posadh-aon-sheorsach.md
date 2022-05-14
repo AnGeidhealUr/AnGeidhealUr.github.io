@@ -1,11 +1,18 @@
 ---
+
 layout: post
+
 date: 2021-09-26 20:15
+
 title: Muinntir na h-Eilbheise air bhòtadh airson pòsadh aon-sheòrsach
+
 image: /images/2021-09-26-muinntir-na-eilbheise-air-bhotadh-airson-posadh-aon-sheorsach.webp
+
 author: Crìstean MacMhìcheil
+
 categories:
 	- An t-Saoghal
+
 ---
 
 Tha cha mhòr dà thrian de luchd-bhòtaidh anns an Eilbheis air bhòtadh airson pòsadh aon-sheòrsach a dhèanamh laghail san dùthaich.
