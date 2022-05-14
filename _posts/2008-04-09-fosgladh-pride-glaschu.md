@@ -23,7 +23,7 @@ Ma tha sibh airson dol cuiribh fios ro-làimh le bhith a&#8217; clàradh aig [ww
 
 [pride@prideglasgow.co.uk][2]
 
-<img class="alignnone size-full wp-image-97" title="Pride Glaschu" src="https://i1.wp.com/s3.media.squarespace.com/production/303409/11165291/naidheachdanpinc/wp-content/uploads/2008/04/pride-launch-invite.webp?resize=500%2C706" alt="Pride Glaschu" width="500" height="706" data-recalc-dims="1" />
+![](/images/posts/2008-04-09-fosgladh-pride-glaschu.webp){:class="post-image"}
 
  [1]: http://www.prideglasgow.co.uk/register "Làrach-lìn Pride Glaschu"
  [2]: mailto:pride@prideglasgow.co.uk "Cuir post-d ri Pride Glaschu"
