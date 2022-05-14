@@ -7,7 +7,15 @@ layout: default
   <div class="row">
     {% for post in paginator.posts %}   
       <div class="col-md-2">
-        <p class="p-0 my-1 mx-0" style="text-align: right"><span class="post-meta"><small>{{ post.date }}</time></small></span></p>
+        <p class="p-0 my-1 mx-0" style="text-align: right"><span class="post-meta"><small>
+          {% assign month_index = page.date | date: "%-m" | minus: 1 %}
+          {% assign month = site.data.gaelic.months[month_index] %}
+          
+          <time datetime="{{ page.date | date_to_xmlschema }}">
+              {{ page.date | date: "%-d" }} {{ month }} {{ page.date | date: "%Y" }}
+          </time>
+          
+          </small></span></p>
       </div>
       <div class="col-md-10">
         <p style="font-family: Lemonada"><a href="{{site.baseurk}}{{ post.url }}">{{ post.title }}</a></p>
