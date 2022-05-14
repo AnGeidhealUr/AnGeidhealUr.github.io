@@ -6,7 +6,7 @@ date: 2022-03-03 14:00
 
 title: Bile ga thoirt a-steach do Phàrlamaid na h-Alba a tha ag amas air a dhèanamh nas fhasa do phearsachan an aithne ghnè laghail atharrachadh
 
-image: /images/posts/2022-03-03-bile-ga-thoirt-a-steach-do-pharlamaid-na-h-alba-a-tha-ag-amas-air-a-dheanamh-nas-fhasa-do-phearsachan-an-aithne-ghne-laghail-atharrachadh.jpg
+image: /images/posts/2022-03-03-bile-ga-thoirt-a-steach-do-pharlamaid-na-h-alba-a-tha-ag-amas-air-a-dheanamh-nas-fhasa-do-phearsachan-an-aithne-ghne-laghail-atharrachadh.webp
 
 author: Crìstean MacMhìcheil
 
