@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Tha [Pink Saltire](https://pinksaltire.com/), seirbheis naidheachd LCDT na h-Alba, air an iomairt ùr, [The Scottish Pride Fund](https://scotpride.org/), a chur air bhog gus taic ionmhais a thoirt do dh’eagraichean fèisean-pròise air feadh na h-Alba.
 
 <!--more-->

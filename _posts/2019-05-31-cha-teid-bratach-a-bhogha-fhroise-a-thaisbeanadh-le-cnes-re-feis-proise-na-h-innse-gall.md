@@ -23,6 +23,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Tha Comhairle nan Eilean Siar air dearbhadh nach tèid bratach a’ bhogha-fhroise a thaisbeanadh taobh a-muigh nan oifisean aca ann an Steòrnabhagh rè Fèis-pròise na h-Innse Gall a bhios a’ dol air adhart sa bhaile a-màireach.
 
 <!--more-->

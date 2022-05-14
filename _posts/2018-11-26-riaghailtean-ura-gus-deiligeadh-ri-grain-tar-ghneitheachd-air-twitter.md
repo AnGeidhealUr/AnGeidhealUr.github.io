@@ -21,6 +21,8 @@ categories:
   
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Tha Twitter air na riaghailtean aca ùrachadh gus dèiligeadh ri daoine a tha ri gràin-tar-ghnèitheachd.
 
 <!--more-->

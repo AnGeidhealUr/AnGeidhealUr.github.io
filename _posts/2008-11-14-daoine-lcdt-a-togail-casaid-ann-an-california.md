@@ -23,6 +23,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Tha daoine LCDT air a bhith a&#8217; caismeachd air sràidean Chalifornia agus iad a&#8217; togail casaid as dèidh buaidhe Proposition 8.
 
 <!--more-->

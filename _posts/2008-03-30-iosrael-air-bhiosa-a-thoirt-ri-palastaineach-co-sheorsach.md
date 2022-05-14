@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Tha Iosrael air bhìosa a thoirt ri Palastaineach co-sheòrsach air sgàth ’s gun robh e ann an cunnart anns a’ Bhruach an Iar.
 
 <!--more-->

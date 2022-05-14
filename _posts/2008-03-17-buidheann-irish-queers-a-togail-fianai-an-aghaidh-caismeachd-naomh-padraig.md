@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Bha am buidheann _Irish Queers_ a’ togail fianais an aghaidh caismeachd Naomh Pàdraig ann an Nuadh Eabhrac an-diugh.
 
 <!--more-->

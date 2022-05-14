@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Tha Bun-sgoil Mharc-Innis ann an Inverness air leigeil le balaich is nigheanan a bhith a&#8217; farpais ri chèile ann an rèisean latha-spòrs.
 
 <!--more-->

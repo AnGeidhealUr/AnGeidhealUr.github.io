@@ -23,6 +23,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Tha còrr &#8217;s 14,000 duine air na h-ainmean aca a chur ri trì athchuingean gus an taic aca a shealltainn airson Fèis-pròise Inbhir Nis.
 
 <!--more-->

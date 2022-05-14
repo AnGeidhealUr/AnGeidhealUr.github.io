@@ -27,6 +27,8 @@ facebook: https://www.facebook.com/AnGeidhealUr/posts/3183314391691095
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Tha a’ BhBC air duilleag-lìn atharrachadh gus fiosrachadh mu charthannasan a bheireas taic do dhaoine tar-ghnèitheach a thoirt air falbh.
 
 <!--more-->

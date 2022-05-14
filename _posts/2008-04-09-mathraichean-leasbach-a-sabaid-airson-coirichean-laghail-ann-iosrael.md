@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Tha màthraichean leasbach ann an Iosrael a&#8217; sabaid gus am bi iad air ainmeachadh air teisteanas breith an leanabh aca.
 
 <!--more-->

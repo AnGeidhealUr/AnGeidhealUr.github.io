@@ -23,6 +23,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Chaidh ainmeachadh leis an Riaghaltas Didòmhnaich gun tèid maoineachadh de £1 millean a bharrachd a thoirt dhan iomairt an aghaidh burraidheachd LCDT+ ann an sgoiltean.
 
 <!--more-->

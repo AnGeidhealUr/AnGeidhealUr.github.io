@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Tha Coimisiún na hÉireann um Chearta an Duine agus Comhionannas (Coimisean Èireannach airson Còirichean Daonna agus Co-ionannachd) air ràdh gum bu chòir do laghan a thaobh daoine tar-ghnèitheach agus teisteanasan-breith a bhith air an ath-leasachadh.
 
 <!--more-->

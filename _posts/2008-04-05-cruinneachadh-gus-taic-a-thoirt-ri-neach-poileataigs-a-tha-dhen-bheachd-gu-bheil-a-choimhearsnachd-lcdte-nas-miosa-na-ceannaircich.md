@@ -23,6 +23,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Chruinnich còrr &#8217;s mìle daoine ann an Oklahoma Diciadain gus taic a thoirt ri Riochdaire Sally Kern.
 
 <!--more-->

@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Tha a&#8217; Chrois Dhearg ann an Dùthaich na Tàidh air co-dhùnadh a dhèanamh gum bi iad a&#8217; gabhail ri lagh a bhios a&#8217; cur casg air daoine co-sheòrsach agus dà-sheòrsach bho bhith a&#8217; toirt seachad fala.
 
 <!--more-->

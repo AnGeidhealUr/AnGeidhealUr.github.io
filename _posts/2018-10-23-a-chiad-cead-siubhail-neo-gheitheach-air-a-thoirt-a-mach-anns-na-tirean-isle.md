@@ -23,6 +23,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Chaidh cead-siubhail neo-ghnèitheach (_gender neutral_) a thoirt a-mach anns Na Tìrean Ìsle airson a&#8217; chiad turas.
 
 <!--more-->

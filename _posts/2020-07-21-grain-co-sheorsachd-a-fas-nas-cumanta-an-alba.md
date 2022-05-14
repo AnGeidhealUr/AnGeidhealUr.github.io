@@ -28,6 +28,8 @@ facebook: https://www.facebook.com/AnGeidhealUr/posts/3212583162097551
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Tha figearan oifigeil bho Oifis a' Chrùin a' sealltainn gu bheil an àireamh de dh'eucoirean gràin air an adhbharachadh le gràin co-sheòrsachd ann an Alba aig an ìre as àirde a-riamh.
 
 <!--more-->

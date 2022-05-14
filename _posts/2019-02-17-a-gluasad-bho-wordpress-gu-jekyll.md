@@ -21,6 +21,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 O chionn 2008 tha An Gèidheal Ùr air a bhith na bhlog Wordpress (a' ruith grunn plugain treas-phàrtaidh) a tha mi air a bhith ag òstaireachd agus a' cumail suas leam fhèin.
 
 Dh'obraich e math gu leòr airson greis, ach tha mi air a bhith a' fàs sgìth le duilleagan slaodach, mearachdan frithealaiche, amannan far-loidhne agus ùrachaidhean a stàladh fad na h-ùine agus mar sin tha an làrach-lìn a-nis air gluasad bho Wordpress gu Jekyll.

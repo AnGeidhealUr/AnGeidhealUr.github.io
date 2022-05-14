@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Tha Roinn Stàit nan Stàitean Aonaichte ag ràdh nach urrainn gnìomhaiche AIDS cead-siubhail ùr fhaighinn air sgàth ’s gu bheil an ainm pòsta aige mì-laghail.
 
 <!--more-->

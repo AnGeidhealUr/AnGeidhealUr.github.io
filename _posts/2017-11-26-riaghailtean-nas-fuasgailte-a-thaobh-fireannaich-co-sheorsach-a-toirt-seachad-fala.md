@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Tha Seirbheis Fala na h-Alba (SNBTS) air ràdh gun tèid na riaghailtean a thaobh fala a thoirt seachad atharrachadh a-màireach.
 
 <!--more-->

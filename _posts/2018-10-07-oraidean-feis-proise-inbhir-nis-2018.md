@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Bhidiothan dhe na h-òraidean aig Fèis-pròise Inbhir Nis 2018.
 
 <!--more-->

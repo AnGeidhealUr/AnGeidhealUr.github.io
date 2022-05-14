@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Tha dithis bhall-phàrlamaid Làbarach air plana a chur an gnìomh a dh&#8217;fhaodadh pòsadh aon-sheòrsach a dhèanamh laghail ann an Èirinn a Tuath.
 
 <!--more-->

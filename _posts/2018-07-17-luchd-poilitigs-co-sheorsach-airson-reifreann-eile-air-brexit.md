@@ -23,6 +23,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Tha Justine Greening, BP ag iarraidh reifreann eile air Brexit agus i air ràdh gur e &#8220;_fudge_&#8221; a th' ann am molaidhean a' Phrìomhaire Theresa May.
 
 <!--more-->

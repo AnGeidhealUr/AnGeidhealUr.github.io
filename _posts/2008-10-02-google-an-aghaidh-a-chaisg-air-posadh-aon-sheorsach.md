@@ -23,6 +23,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Tha Google air ràdh gu bheil iad an aghaidh a&#8217; chaisg air pòsadh aon-sheòrsach ann an California.
 
 <!--more-->

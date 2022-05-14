@@ -23,6 +23,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 **Chaidh seo a thogail bho làrach-lìn a&#8217; BhBC. Airson tuilleadh fiosrachaidh tadhal air [Deasbad a&#8217; leantainn mu Mhinistearan gèidh][1].**
 
 <!--more-->

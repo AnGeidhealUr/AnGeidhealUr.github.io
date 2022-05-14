@@ -21,6 +21,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Tha am pàipear-naidheachd Ugandach _Rolling Stone_ air liosta de dhaoine co-sheòrsach san dùthaich agus na dealbhan aca fhoillseachadh.
 
 <!--more-->

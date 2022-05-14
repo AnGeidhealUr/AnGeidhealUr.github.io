@@ -21,6 +21,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Chaidh càineadh a dhèanamh air an taigh-seinnse The Office ann an Lìte mu phostair oilbheumach a th&#8217; anns na taighean-beaga aca.
 
 <!--more-->

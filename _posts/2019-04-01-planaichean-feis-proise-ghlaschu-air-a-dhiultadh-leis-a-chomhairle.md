@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Tha [Glasgow Life](https://www.glasgowlife.org.uk/) air dearbhadh nach tèid Fèis-pròise Ghlaschu a chumail aig Taigh-tasgaidh Taobh na h-Aibhne am-bliadhna air sgàth 's suim airgid a tha fhathast ri phàigheadh ris a' chomhairle airson tachartasan roimhe.
 
 <!--more-->

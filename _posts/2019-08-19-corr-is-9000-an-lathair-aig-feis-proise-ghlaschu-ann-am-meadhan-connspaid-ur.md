@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Thathar a’ meas gun robh còrr ‘s 9,000 duine an lathair aig Fèis-pròise Ghlaschu an-dè.
 
 <!--more-->

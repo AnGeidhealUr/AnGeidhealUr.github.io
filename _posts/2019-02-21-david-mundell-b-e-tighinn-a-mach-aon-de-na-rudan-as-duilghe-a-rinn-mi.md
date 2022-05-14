@@ -21,6 +21,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Tha David Mundelll BP, air ràdh gum b' e tighinn a-mach aon de na rudan as duilghe a rinn e.
 
 <!--more-->

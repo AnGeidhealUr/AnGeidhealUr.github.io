@@ -29,6 +29,8 @@ facebook: https://www.facebook.com/1644824018873481/posts/3379683898720809/
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Tha ministearan ann an Èirinn a Tuath air dearbhadh gu bheil iad airson casg a chur air teiripe iompachadh co-sheòrsachd.
 
 <!--more-->

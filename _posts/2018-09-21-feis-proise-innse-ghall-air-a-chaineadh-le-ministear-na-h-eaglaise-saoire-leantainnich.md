@@ -23,6 +23,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Tha Ministear na h-Eaglaise Saoire Leantainnich air iomradh a thoirt air a&#8217; chiad fèis-pròise anns na h-Eileanan an Iar mar &#8220;duilich agus nàireach&#8221;.
 
 <!--more-->

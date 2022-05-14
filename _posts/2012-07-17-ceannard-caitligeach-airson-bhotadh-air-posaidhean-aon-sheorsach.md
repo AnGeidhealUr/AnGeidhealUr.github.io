@@ -23,6 +23,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Tha ceannard Eaglais Chaitligeach na h-Alba air iarraidh gun tèid bhòt a chumail ann an Alba a thaobh pòsadh càraidean aon-sheòrsach.
 
 <!--more-->

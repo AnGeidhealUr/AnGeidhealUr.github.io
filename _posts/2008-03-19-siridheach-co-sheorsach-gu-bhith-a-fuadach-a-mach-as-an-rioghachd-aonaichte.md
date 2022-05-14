@@ -24,6 +24,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Tha deugaire Siridheach gu bhith a’ fuadach a-mach às an Rìoghachd Aonaichte air sgàth ’s gun do dhiùlt Rùnaire na Dùthcha an iarrtas aige airson tèarmann poileataigeach.
 
 <!--more-->

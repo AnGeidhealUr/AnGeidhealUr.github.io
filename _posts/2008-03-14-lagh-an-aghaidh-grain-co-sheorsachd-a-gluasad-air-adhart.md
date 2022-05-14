@@ -6,25 +6,16 @@ date: 2008-03-14 10:30:13
 
 title: Lagh an-aghaidh gràin-co-sheòrsachd a’ gluasad air adhart
 
-image: /images/2008-03-14-lagh-an-aghaidh-grain-co-sheorsachd-a-gluasad-air-adhart.webp
-
-image-caption:
-
-image-licence:
-
 author: Crìstean MacMhìcheil
-
-comments: true
 
 categories:
   - An t-Saoghal
   
-
 ---
 
-Chaidh deasbad a chumail ann an Taigh nam Morairean seachdain seo chaidh mu dheidhinn lagh ùr a bhios a’ ciallachadh gum bi gràin-co-sheòrsachd (_Homophobia_) mì-laghail.
+![]({{ site.baseurl }}/images/posts/2008-03-14-lagh-an-aghaidh-grain-co-sheorsachd-a-gluasad-air-adhart.webp)
 
-<!--more-->
+Chaidh deasbad a chumail ann an Taigh nam Morairean seachdain seo chaidh mu dheidhinn lagh ùr a bhios a’ ciallachadh gum bi gràin-co-sheòrsachd (_Homophobia_) mì-laghail.
 
 A bharrachd air seo tha an Riaghaltas airson an lagh seo a bhith a’ dèanamh sgaradh eadar co-sheòrsachd (_Homosexuality_) agus _paedophilia_.
 

@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Tha [HIV Scotland](https://www.hiv.scot/) agus [Waverley Care](https://www.waverleycare.org/) air seirbheis ùr a cur air bhog gus deuchainnean HIV a thabhann tron phost.
 
 <!--more-->

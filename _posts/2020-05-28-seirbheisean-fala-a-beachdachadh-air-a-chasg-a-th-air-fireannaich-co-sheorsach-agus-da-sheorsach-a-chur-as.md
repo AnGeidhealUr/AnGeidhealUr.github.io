@@ -29,6 +29,8 @@ facebook: https://www.facebook.com/AnGeidhealUr/posts/3067242893298246
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Tha [Gay Star News ag aithris](https://www.gaystarnews.com/article/uk-may-lift-its-gay-and-bi-blood-donation-ban-this-year/) gu bheil seirbheisean fala na RA a' beachdachadh air a’ chasg a th’ air fireannaich co-sheòrsach agus dà-sheòrsach bho bhith a’ toirt seachad fala a chur às ro dheireadh na bliadhna.
 
 <!--more-->

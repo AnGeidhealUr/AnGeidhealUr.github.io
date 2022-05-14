@@ -23,6 +23,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
  Tha mi air leth toilichte a bhith ag obair comhla ri Pink Saltire gus barrachd den t-susbaint aca a thabhann tro mheadhan na Gàidhlig!
 
  <!--more-->

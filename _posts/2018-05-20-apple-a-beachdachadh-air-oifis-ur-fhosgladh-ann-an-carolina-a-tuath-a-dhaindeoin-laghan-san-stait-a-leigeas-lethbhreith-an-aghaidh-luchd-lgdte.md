@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Tha dithis oifigearan riaghaltais à Carolina a Tuath air a ràdh gu bheil Apple a&#8217; beachdachadh air oifis corporra mòr fhosgladh anns an stàit &#8211; a dh&#8217;aindeoin laghan san stàit a leigeas lethbhreith an aghaidh coimhearsnachd LGDTE na stàite.
 
 <!--more-->

@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Tha bhiocair anns An Eaglais Shasannach air ràdh air a&#8217; bhlòg aige gum bu chòir rabhadh slàinte a bhith air stampadh air daoine LCDT.
 
 <!--more-->

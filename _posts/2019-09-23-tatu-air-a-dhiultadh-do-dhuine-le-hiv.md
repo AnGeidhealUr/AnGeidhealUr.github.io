@@ -21,6 +21,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Tha a' BhBC ag aithris gu bheil bùth tatù ann an Dùn Dè air duine a dhiùltadh air sgàth 's gu bheil HIV air.
 
 <!--more-->

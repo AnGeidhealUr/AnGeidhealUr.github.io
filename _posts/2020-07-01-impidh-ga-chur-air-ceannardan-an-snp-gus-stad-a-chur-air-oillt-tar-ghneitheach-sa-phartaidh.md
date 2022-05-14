@@ -28,6 +28,8 @@ facebook: https://www.facebook.com/AnGeidhealUr/posts/3156015527754315
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Tha Mhàiri Black air dùbhlan a thoirt do Cheannardan an SNP as dèidh do bhall neo-bhìnearaidh a bhruidhinn mu dheidhinn oillt-tar-ghnèitheach sa phàrtaidh.
 
 <!--more-->

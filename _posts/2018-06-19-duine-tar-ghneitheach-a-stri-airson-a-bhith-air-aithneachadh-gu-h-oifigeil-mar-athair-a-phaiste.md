@@ -20,6 +20,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Tha duine tar-ghnèitheach anns an Rìoghachd Aonaichte a’ strì airson a bhith air aithneachadh gu h-oifigeil mar athair a phàiste.
 
 <!--more-->

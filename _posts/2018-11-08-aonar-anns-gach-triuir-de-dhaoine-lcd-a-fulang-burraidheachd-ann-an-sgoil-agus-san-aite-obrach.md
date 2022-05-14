@@ -23,6 +23,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Tha aonar anns gach triùir de dhaoine leasbach, co-sheòrsach agus dà-sheòrsach a dh&#8217;fhulaing burraidheachd nuair a bha iad ann an sgoil cuideachd a&#8217; fulaing burraidheachd san àite-obrach a-rèir sgrùdadh ùr bho [Oilthigh Anglia Ruskin][1].
 
 <!--more-->

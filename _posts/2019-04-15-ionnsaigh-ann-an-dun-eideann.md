@@ -21,6 +21,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Tha [STV News](https://stv.tv/news/east-central/1437007-drag-artist-attacked-on-street-in-early-morning-attack/) ag aithris gu bheil am Poileas a’ rannsachadh ionnsaigh air fireannach, 40, ann an Dùn Èideann.
 
 <!--more-->

@@ -21,6 +21,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Chaidh ainmeachadh gun tèid an lagh atharrachadh ann an Èirinn a Tuath gus am bi fireannaich co-sheòrsach agus dà-sheòrsach comasach air fuil a thoirt seachad cho fhad ’s nach eil iad air a bhith ri feise le fireannach eile fad trì mìosan.
 
 <!--more-->

@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Chaidh caismeachd pròise a chumail san Òban an-dè airson a’ chiad turas a-riamh.
 
 <!--more-->

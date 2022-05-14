@@ -23,6 +23,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Bha Prìomh Mhinistear na h-Alba, Nicola Sturgeon aig ceann na caismeachd aig Fèis-pròise Ghlaschu an-dè.
 
 <!--more-->

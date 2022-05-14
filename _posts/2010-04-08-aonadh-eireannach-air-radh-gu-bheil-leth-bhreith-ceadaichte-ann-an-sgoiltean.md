@@ -24,6 +24,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Tha aonadh teagaisg Èireannach air ràdh gu bheil laghanan co-ionannachd a&#8217; toirt cead do sgoiltean cràbhach a bhith a&#8217; dèanamh leth-bhreith air tidsearan co-sheòrsach.
 
 <!--more-->

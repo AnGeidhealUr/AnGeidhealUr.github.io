@@ -23,6 +23,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Tha lagh ùr gus brìgh eucoirean gràineil leasachadh a bhith a&#8217; toirt a-steach gràin-co-sheòrsachd air gluasad air adhart ann an Alba.
 
 <!--more-->

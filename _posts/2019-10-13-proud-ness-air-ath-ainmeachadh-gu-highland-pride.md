@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Tha eagraichean Fèis-pròise Inbhir Nis air ainmeachadh gun tèid am buidheann aca ath-ainmeachadh gu Highland Pride gus coimhearsnachd LCDT+ na sgìre air fad aithneachadh.
 
 <!--more-->

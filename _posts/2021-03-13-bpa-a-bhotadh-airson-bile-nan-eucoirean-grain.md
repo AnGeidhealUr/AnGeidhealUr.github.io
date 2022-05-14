@@ -15,6 +15,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Bhòt Buill Pàrlamaid na h-Alba Diardaoin airson gabhail ri Bile nan Eucoirean Gràin.
 
 Is e amas an lagh buidhnean so-leònte a dhìon bho dhìmeas mar thoradh aois, ciorram, creideamh, taobhadh feise, dearbh-aithne tar-ghnèitheach agus atharrachaidhean ann am feartan gnè.

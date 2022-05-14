@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Fhad ’s a tha gnìomhaichean LCDTE ann an Èirinn a’ feitheamh ri chluinntinn molaidhean an Riaghaltas airson càraidean aon-sheòrsach aithneachadh gu h-oifigeil, tha cunntas-bheachd ùr a’ sealltainn gu bheil a’ mhòr-chuid ann an Èirinn air a shon.
 
 <!--more-->

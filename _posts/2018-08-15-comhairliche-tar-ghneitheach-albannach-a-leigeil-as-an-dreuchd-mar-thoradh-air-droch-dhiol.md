@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Tha an aon comhairliche tar-ghnèitheach ann an Alba air ainmeachadh gum bidh iad a&#8217; leigeil às chuid dhe na dreuchdan aca mar thoradh air &#8220;sreath de dhroch dhìol guineach agus seasmhach&#8221; a&#8217; toirt a-steach bagairtean bàis.
 
 <!--more-->

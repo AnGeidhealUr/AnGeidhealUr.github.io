@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Tha dithis marbh ann an Sadr City, roinn Shiite dhe Bhaghdad, air sgàth &#8217;s clèir ionadail a dhìt co-sheòrsachd.
 
 <!--more-->

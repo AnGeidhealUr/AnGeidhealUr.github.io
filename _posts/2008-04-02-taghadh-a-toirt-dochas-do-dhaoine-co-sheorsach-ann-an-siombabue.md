@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Tha daoine co-sheòrsach ann an Sìombabue an dòchas gum bi smachd Robert Mugabe a’ tighinn gu crìoch an seachdain seo.
 
 <!--more-->

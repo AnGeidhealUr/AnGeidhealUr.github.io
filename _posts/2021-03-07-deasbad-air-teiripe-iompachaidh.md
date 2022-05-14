@@ -15,6 +15,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Bidh BPan ann an Taigh nan Cumantan a’ deasbad Diluain teiripe iompachaidh a dhèanamh mì-laghail san Rìoghachd Aonaichte.
 
 Bidh an deasbad ri fhaicinn air YouTube aig: [https://youtu.be/vl38dzzn1wc](https://youtu.be/vl38dzzn1wc).

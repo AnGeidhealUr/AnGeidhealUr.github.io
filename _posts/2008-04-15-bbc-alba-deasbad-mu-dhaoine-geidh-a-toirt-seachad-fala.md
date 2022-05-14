@@ -20,6 +20,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Nochd an sgeulachd seo air [làrach-lìn a&#8217; BhBC][1] na bu tràithe:-
 
 **Thèid ath-chuinge airson cead a thoirt do dhaoine gèidh ann an Alba fuil a thoirt seachad a dheasbad anns a&#8217; Phàrlamaid Dimàirt.**

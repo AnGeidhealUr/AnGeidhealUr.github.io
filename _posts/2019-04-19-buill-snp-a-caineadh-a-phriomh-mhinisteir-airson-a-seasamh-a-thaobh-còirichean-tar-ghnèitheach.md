@@ -22,6 +22,8 @@ categories:
     
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Chaidh teachdaireachdan a fhoillseachadh air loidhne anns a bheil triùir BPA SNP a’ càineadh seasamh a’ Phrìomh Mhinistear, Nicola Sturgeon, a thaobh  còirichean tar-ghnèitheach  agus ath-leasachaidhean air an Achd Aithne Gnè.
 
 <!--more-->

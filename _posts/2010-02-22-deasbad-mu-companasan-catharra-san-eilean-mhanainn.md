@@ -24,6 +24,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Thathar gu bhith a&#8217; deasbad Bile Companasan-catharra anns an House of Keys a-màireach.
 
 <!--more-->

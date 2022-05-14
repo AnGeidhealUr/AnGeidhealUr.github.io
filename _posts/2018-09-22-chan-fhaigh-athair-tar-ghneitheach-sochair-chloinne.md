@@ -21,6 +21,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Chan fhaigh athair tar-ghnèitheach sochair-chloinne air sgàth &#8217;s nach eil e airson a bhith clàraichte mar mhàthair air teisteanas breith an leanaibh.
 
 <!--more-->

@@ -23,6 +23,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Tha Riaghaltas na h-Alba air ràdh gum bi iad a’ dol air adhart le planaichean gus laghan a thaobh dearbh-aithne ghnèitheach ath-leasachadh as dèidh gun do chur Riaghaltas Bhreatainn dàil air na planaichean acasan.
 
 <!--more-->

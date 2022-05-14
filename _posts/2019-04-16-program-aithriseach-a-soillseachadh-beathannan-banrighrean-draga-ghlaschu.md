@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Thèid prògram aithriseach ùr a shealltainn air BBC Scotland a-nochd (10f) a bheireas sùil air beathannan triùir banrighrean-draga ann an Glaschu.
 
 <!--more-->

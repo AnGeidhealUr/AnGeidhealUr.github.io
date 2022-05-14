@@ -23,6 +23,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Tha còrr &#8217;s 115 buidhnean còirichean daonna air cuideam a chur air an Èipheit air sgàth casaidean HIV.
 
 <!--more-->

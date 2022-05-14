@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Thèid a' chiad Fèis Pròise Tar-ghnèitheach ann an Alba a chumail Disaithairne 31 Màrt 2018 eadar 12-5f.
 
 <!--more-->

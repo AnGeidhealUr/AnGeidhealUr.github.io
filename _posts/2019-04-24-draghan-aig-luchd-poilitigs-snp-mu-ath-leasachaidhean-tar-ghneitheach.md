@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Tha còig-deug neach-poilitigs an SNP air draghan a thogail mu phlanaichean Riaghaltas na h-Alba airson Achd Aithne Gnè ath-leasachadh.
 
 <!--more-->

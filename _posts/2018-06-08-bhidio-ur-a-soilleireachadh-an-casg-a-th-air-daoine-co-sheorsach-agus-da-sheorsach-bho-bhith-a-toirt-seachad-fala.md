@@ -21,6 +21,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Tha an iomairtiche airson còirichean LCDTE+, Peter Tatchell, air bhidio a sgaoileadh air YouTube gus an casg a th&#8217; air daoine co-sheòrsach agus dà-sheòrsach bho bhith a&#8217; toirt seachad fala a shoillearachadh.
 
 <!--more-->

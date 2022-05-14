@@ -20,6 +20,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 B&#8217; ann air an 6mh den Chèitean 1868 a thàinig am facal &#8220;homosexuality&#8221; gu bith.
 
 <!--more-->

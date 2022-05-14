@@ -21,6 +21,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Tha Eminem (Marshall Bruce Mathers III) gu bhith a&#8217; riochdachadh Sir Elton John ann am film ùr mu dheidhinn beatha an seinneadair co-sheòrsach.
 
 <!--more-->

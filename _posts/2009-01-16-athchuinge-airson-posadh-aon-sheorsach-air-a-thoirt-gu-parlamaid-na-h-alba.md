@@ -24,6 +24,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Chaidh iomairt ùr a chur air bhog ann am [Pàrlamaid na h-Alba][1] Dimàirt gus cead pòsaidh slàn a thoirt do dhaoine LCDT.
 
 <!--more-->

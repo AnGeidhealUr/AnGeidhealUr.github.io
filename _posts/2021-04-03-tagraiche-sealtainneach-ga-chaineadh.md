@@ -15,6 +15,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Tha tagraiche neo-eisimeileach à Shealtainn fo chàineadh as dèidh dha ràdh gum faodadh an galar sgaoilte COVID-19 a bhith na thoradh pòsadh aon-sheòrsach a dhèanamh laghail.
 
 Bidh Peter Tait a’ seasamh airson sgìre Shealtainn ann an taghadh Pàrlamaid na h-Alba an ath mhìos.

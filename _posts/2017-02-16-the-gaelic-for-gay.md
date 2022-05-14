@@ -22,4 +22,6 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Tha Dr. Emily McEwan air post inntinneach a sgrìobhadh air a&#8217; blog aice: <a href="http://gaelic.co/gay-gaelic/" target="_blank" rel="noopener noreferrer">Gaelic Revitalization: The Gaelic for Gay</a>.

@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Tha coimhearsnachd beag anns a&#8217; Chuimrigh air tighinn còmhla gus fèis-pròise a phlanadh airson 1mh t-Sultain 2018.
 
 <!--more-->

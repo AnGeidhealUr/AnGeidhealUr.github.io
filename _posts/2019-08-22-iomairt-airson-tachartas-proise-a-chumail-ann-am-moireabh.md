@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Chaidh iomairt a stèidheachadh gus fèis-pròise a chumail ann am Moireabh an ath-bhliadhna.
 
 <!--more-->

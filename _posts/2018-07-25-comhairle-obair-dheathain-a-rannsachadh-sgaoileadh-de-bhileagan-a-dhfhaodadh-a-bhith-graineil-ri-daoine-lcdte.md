@@ -21,6 +21,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Chaidh rannsachadh a chur air bhog le Comhairle Obair Dheathain an dèidh sgaoileadh de bhileagan a dh&#8217;fhaodadh a bhith gràineil ri daoine LCDTE.
 
 <!--more-->

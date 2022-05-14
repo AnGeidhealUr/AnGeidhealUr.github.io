@@ -24,6 +24,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Postairean Gàidhlig ann an stoidhle an iomairt "Some People are Gay" le Stonewall.
 
 <!--more-->

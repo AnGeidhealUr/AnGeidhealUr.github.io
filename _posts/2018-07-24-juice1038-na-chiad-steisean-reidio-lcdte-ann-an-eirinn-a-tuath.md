@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Tòisichidh [Juice1038][1] a&#8217; craoladh bho phrìomh-bhaile Èirinn a Tuath air 4mh An Lùnastal, an aon latha ri Fèis-pròise Bheul Feirste.
 
 <!--more-->

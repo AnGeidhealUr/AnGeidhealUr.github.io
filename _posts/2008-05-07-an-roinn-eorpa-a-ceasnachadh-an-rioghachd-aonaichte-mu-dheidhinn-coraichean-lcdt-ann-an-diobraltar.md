@@ -23,6 +23,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Tha Riaghaltas na Bhreatainn air innse do Chomhairle na h-Eòrpa gu bheil iad a&#8217; coimhead air còirichean LCDT leasachadh ann an Diobraltar.
 
 <!--more-->

@@ -24,6 +24,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Tha bile ùr gus an t-Eilean Mhanainn a thoirt gu ìre an Rìoghachd Aonaichte a-thaobh poileasaidhean gnè air faighinn tron a&#8217; chiad ceum dhen Chomhairle Lagha.
 
 <!--more-->

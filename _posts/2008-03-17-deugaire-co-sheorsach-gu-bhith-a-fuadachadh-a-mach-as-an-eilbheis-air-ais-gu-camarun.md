@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Tha deugaire co-sheòrsach gu bhith a’ fuadachadh a-mach às an Eilbheis air ais gu Camarun far am b’ urrainn dha a bhith ga chur an greim agus ga dhìteadh gu peanas corparra.
 
 <!--more-->

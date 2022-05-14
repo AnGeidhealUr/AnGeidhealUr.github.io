@@ -24,6 +24,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Chaidh dithis neach-poilitigs Libearalach a chàineadh Dimàirt as dèidh dhan bhòt cudromach air Brexit a chaill sa Phàirlamaid a&#8217; ciallachadh gun dh&#8217;fhuair atharrachaidhean nan Tòraidhean air plana Brexit tron Phàrlamaid le dìreach trì bhòtaichean.
 
 <!--more-->

@@ -23,6 +23,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Thèid coinneamh a chumail gus deasbad ma bhios ministear co-sheòrsach ann an Obair Dheathain comasach air obair airson an eaglais.
 
 <!--more-->

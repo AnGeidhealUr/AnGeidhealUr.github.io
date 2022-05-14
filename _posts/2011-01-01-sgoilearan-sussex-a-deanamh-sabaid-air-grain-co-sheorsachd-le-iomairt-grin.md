@@ -20,6 +20,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Tha sgoilearan aig Sgoil Bhedales, faisg air Petersfield air iomairt a chur air bhonn gus sabaid a&#8217; dèanamh air gràin air deugairean co-sheòrsach.
 
 <!--more-->

@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Tha Àrd-chùirt Chalifornia air bhòtadh gus cumail ri Proposition 8, an iomairt a chur casg air pòsadh aon-sheòrsach anns an stàit.
 
 <!--more-->

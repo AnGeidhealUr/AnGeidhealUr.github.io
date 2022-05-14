@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 A-rèir an iris [OutSmart][1] tha co-dhiù 42 tagraichean LCDT+ a&#8217; sireadh taghaidh ann an Teagsas am bliadhna.
 
 <!--more-->

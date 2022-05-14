@@ -23,6 +23,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Thathar an dùil gun tèid Leo Varadkar, 38 a thaghadh mar ceannard am pàrtaidh poilitigeach Fine Gael.
 
 <!--more-->

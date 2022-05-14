@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Bu chòir do chlann cho òg ri 12 a bhith comasach air gnè atharrachadh air an teisteanas breith aca gun taic phàrant, a-rèir Coimiseanair Cloinne is Òigridh na h-Alba.
 
 <!--more-->

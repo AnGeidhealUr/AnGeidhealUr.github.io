@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Chaidh Ryan Houghton, tagraiche taghaidh Obar Dheathain a Tuath, a chur à rèim le Pàrtaidh Tòraidheach na h-Alba as dèidh dha puist an-aghaidh nam Muslamach, an-aghaidh nan Iùdhach agus an-aghaidh nan co-sheòrsach a sgrìobhadh ann am fòram air loidhne.
 
 <!--more-->

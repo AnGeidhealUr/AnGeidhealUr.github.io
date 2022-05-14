@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Chuir Attorney General Edmund G. “Jerry” Brown, Jr., iongnadh air a h-uile duine ann an California nuair thug e bharail laghail do Àrd-chùirt Chalifornia an aghaidh Proposition 8. Bidh dleastanas àbhaisteach aig an Attorney General an lagh a’ dìon. Thuirt Attorney General Brown, a b’ àbhaist a bhith na riaghladair e fhèin (1975-1983), gu nach eil comas aig bhòt an t-sluaigh sam bith a chur às don còraichean bun-reachdail coltach ri co-ionnanachd nan daoine. ‘S e seo argamaid laghail caran nas làidire na h-argamaid a rinn na luchd-dùbhlain eile.
 
 <!--more-->

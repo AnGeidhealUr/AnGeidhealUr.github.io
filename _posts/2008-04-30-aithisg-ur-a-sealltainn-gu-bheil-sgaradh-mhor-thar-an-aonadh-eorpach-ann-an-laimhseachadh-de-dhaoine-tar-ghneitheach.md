@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Tha [Comann Eadar-nàiseanta Leasbach agus Co-sheòrsach][1] (ILGA) air aithisg ùr fhoillseachadh a tha a&#8217; sealltainn gu bheil sgaradh mhòr thar an Aonadh Eòrpach ann an làimhseachadh de dhaoine tar-ghnèitheach.
 
 <!--more-->

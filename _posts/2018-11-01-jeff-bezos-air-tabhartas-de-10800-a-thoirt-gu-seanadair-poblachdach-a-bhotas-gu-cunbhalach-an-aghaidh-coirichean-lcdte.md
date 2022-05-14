@@ -23,6 +23,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Tha Jeff Bezos, Ceannard [Amazon][1], air tabhartas de $10,800 a thoirt gu Seanadair Poblachdach a tha air bhòtadh gu cunbhalach an aghaidh còirichean LCDTE+.
 
 <!--more-->

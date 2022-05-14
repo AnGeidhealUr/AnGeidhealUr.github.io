@@ -21,6 +21,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Tha fireannach, 18, fo chasaid ionnsaigh a thoirt air deugair tar-ghnèitheach ann an Àird Rosain anns an t-Samhain.<!--more-->[^1]
 
 

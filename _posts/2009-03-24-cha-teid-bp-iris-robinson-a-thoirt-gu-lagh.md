@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Cha tèid Iris Robinson, BP à Èirinn a Tuath, a thoirt gu lagh leis a&#8217; phoileas airson moladh gur e tinneas-inntinn a th&#8217; ann an co-sheòrsachd agus coimeas a dhèanamh eadar daoine co-sheòrsach agus _paedophiles_.
 
 <!--more-->

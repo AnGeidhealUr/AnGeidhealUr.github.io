@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Tha ionad-rannsachaidh anns na Stàitean Aonaichte air ràdh gu bheil còrr &#8217;s 18,000 daoine air phòsadh ann an California o chionn 17mh dhen t-Òg-mhios 2008 nuair a rinn na h-ùghdarrasan pòsadh aon-sheòrsach na lagh.
 
 <!--more-->

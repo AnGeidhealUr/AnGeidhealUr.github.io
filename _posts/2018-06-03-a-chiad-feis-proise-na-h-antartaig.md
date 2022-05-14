@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Thathar an dùil gun tèid a&#8217; chiad fèis pròis na h-Antartaig a chumail an t-seachdain-sa.
 
 <!--more-->

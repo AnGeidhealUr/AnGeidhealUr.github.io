@@ -23,6 +23,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Tha doctairean bho Cholaiste Rìoghail Leigheas agus Slàinte Chloinne ([RCPCH][1]) air aontachadh gum bu chòir cùisean LCDT a bhith na phàirt &#8220;bunaiteach&#8221; de dh&#8217;fhoghlam chloinne.
 
 <!--more-->

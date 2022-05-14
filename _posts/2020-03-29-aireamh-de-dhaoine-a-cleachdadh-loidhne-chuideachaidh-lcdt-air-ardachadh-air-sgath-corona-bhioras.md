@@ -21,6 +21,8 @@ categories:
     
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Tha carthannas LCDT+ air aithris gu bheil iad air àrdachadh mòr fhaicinn anns an àireamh de dhaoine a' cleachdadh an loidhne-chuideachaidh aca bho thòisich daoine fuireach san taigh air sgàth Coròna-bhìoras.
 
 <!--more-->

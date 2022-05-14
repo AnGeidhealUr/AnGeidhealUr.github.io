@@ -23,6 +23,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Chaidh iomairt a chur an sàs air Facebook gus a&#8217; chiad ceann-suidhe co-sheòrsach a thaghadh ann an Èirinn.
 
 <!--more-->

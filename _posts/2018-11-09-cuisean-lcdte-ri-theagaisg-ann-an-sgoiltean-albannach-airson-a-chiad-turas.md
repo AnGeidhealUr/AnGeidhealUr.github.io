@@ -24,6 +24,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Chaidh ainmeachadh le Riaghaltas na h-Alba Diardaoin gun tèid cùisean LCDTE a theagaisg ann an leasanan sgoile airson a&#8217; chiad turas.
 
 <!--more-->

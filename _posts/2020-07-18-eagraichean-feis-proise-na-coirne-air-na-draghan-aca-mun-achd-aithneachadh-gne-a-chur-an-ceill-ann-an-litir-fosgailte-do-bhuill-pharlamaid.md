@@ -28,6 +28,8 @@ facebook: https://www.facebook.com/1644824018873481/posts/3204625096226691/
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Tha eagraichean Fèis-pròise na Còirne air litir a chur dhan a h-uile BP san Rìoghachd Aonaichte gus na draghan aca mun Achd Aithneachadh Gnè agus mu theiripe iompachadh co-sheòrsachd a chur an cèill.
 
 <!--more-->

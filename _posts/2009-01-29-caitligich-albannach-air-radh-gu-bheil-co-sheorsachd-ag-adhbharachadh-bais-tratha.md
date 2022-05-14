@@ -23,6 +23,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Tha an Eaglais Chaitligeach ann an Alba air ionnsaigh a thoirt air daoine co-sheòrsach agus leasbaich a-rithist.
 
 <!--more-->

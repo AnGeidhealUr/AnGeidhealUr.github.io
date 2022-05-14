@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
  Chaidh a dhearbhadh le Ceann-suidhe nan Stàitean Aonaicte Donald Trump gu bheil casg air a chuid as motha de thar-ghnèithich le mì-rian ghnèitheach bho sheirbheis armailteach.
 
  <!--more-->

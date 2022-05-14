@@ -24,6 +24,8 @@ tags:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Tha tagraiche taghaidh ann an Gleann Rathais air taic a’ Phàrtaidh Bhrexit a chall as dèidh dha cogadh a ghairm an-aghaidh na coimhearsnachd LCDTQ+.
 
 <!--more-->

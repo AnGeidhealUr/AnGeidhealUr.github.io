@@ -21,6 +21,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Tha [BBC News ag aithris](https://www.bbc.co.uk/news/uk-scotland-south-scotland-47291707) gu bheil eaglais ann an Dùn Phrìs a' beachdachadh air taighean ùra a leasachadh dhan choimhearsnachd LCDT air làrach Eaglais an Naoimh Bhrìghde.
 
 <!--more-->

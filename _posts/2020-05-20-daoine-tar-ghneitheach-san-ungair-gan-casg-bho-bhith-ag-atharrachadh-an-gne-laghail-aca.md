@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Tha pàrlamaid na h-Ungaire air bhòtadh airson lagh a chuireas casg air daoine tar-ghnèitheach an gnè aca atharrachadh air sgrìobhainnean oifigeil.
 
 <!--more-->

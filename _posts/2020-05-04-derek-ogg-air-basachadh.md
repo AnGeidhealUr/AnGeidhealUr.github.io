@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Tha Derek Ogg, an neach-lagha a stiùir an iomairt gus maitheanas a thoirt do dh’fhireannaich gèidh agus dà-sheòrsach a chaidh a dhìteadh airson eucoirean feise ann an Alba, air bàsachadh aig aois 65.
 
 <!--more-->

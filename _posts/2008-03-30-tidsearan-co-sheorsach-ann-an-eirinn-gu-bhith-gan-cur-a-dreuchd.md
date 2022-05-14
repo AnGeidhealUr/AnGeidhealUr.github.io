@@ -24,6 +24,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Tha tidsearan co-sheòrsach ann an Èirinn gu bhith gan cur à dreuchd air sgàth ’s gu bheil an gnèitheachd aca a’ dol an aghaidh poileasaidh creideamh nan sgoiltean.
 
 <!--more-->

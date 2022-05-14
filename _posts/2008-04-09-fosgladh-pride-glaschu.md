@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Bu tòigh le Fèis-pròise Ghlaschu fàilte a chur air a h-uile duine a bhios airson tighinn ris am fosgladh aca.
 
 <!--more-->

@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Tha [Òigridh LGDT na h-Alba](https://www.lgbtyouth.org.uk/) agus [Clann ann an Alba](https://childreninscotland.org.uk/) gu bhith a’ cumail co-labhairt gus beachdachadh air na dhìth airson Alba a dhèanamh na dùthaich nas in-ghabhalaiche.
 
 <!--more-->

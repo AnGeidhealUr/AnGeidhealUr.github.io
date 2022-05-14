@@ -19,8 +19,9 @@ comments: true
 categories:
     - Alba
     
-
 ---
+
+![]({{ site.baseurl }}/images/posts/)
 
 Is e pod-chraoladh ùr a th’ ann an _50 Years of Activism_ a bhios a’ toirt sùil air beathannan daoine LCDT+ nas sìne na 50 bliadhna a dh’aois ann an Alba.
 

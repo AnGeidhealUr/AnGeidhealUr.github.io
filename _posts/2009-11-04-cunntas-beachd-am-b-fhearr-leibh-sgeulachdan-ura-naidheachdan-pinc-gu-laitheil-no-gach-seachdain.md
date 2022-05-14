@@ -21,6 +21,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Am b&#8217; fheàrr leibh sgeulachdan ùra Naidheachdan Pinc gu làitheil neo gach seachdain?
 
 Cuiribh fios gu [Naidheachdan Pinc air post-d][1] air neo gu [@NaidheachdanPnc air Twitter][2].

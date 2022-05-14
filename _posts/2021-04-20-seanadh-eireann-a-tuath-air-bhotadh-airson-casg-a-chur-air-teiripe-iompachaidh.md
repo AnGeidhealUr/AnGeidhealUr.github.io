@@ -15,6 +15,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Tha Seanadh Èireann a Tuath air bhòtadh an-diugh airson casg a chur air teiripe iompachaidh co-sheòrsachd.
 
 Bhòt 59 airson a ghluasad agus 24 na aghaidh.

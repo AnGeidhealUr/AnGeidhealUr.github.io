@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Thathar an dùil gun tèid cead a thoirt do leasbaich Albannach IVF a shireadh bho Seirbheis Nàiseanta na Slàinte.
 
 <!--more-->

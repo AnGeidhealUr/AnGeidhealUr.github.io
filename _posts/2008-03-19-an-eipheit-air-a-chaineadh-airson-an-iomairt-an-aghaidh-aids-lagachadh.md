@@ -23,6 +23,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Tha _Amnesty International_ agus _Human Rights Watch_ ag ràdh gu bheil Riaghaltas an Èipheit “aineolach mu dheidhinn HIV agus gu bheil iad a’ coimhead air le claon-bharail” an dèidh barrachd casaidean airson “habitual debauchery.”
 
 <!--more-->

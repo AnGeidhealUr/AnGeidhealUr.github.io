@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Thèid an ceathramh _[Scottish Queer International Film Festival (SQIFF)][1]_ a thilleadh a Ghlaschu 5mh &#8211; 9mh An Dùbhlachd.
 
 <!--more-->

@@ -23,6 +23,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Chaidh Leo Varadkar a thaghadh mar cheannard am pàrtaidh poilitigeach Fine Gael an-diugh agus e a-nis gu bhith a chiad Prìomhaire (Taoiseach) co-sheòrsach ann an eachdraidh na h-Èirinn.
 
 <!--more-->

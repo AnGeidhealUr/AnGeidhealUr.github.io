@@ -23,6 +23,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
  Seo agaibh liosta de dh&#8217;fhèisean Pròise am-bliadhna. Fàgaibh beachd gu h-ìosal ma tha sibh eòlach air fear a tha a dhìth.
 
  <!--more-->

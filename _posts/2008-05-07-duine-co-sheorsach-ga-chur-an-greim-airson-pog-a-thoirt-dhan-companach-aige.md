@@ -23,6 +23,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Tha duine co-sheòrsach air a bhith ga chur an grèim anns na h-Eileanan Caimean airson pòg a thoirt dhan companach aige fhad &#8217;s a bha iad air saor-làithean anns a&#8217; Mhuir Charaibeach.
 
 <!--more-->

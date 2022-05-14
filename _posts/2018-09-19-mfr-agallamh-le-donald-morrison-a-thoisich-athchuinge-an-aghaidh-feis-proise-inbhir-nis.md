@@ -23,6 +23,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Seo agaibh agallamh a rinn _MFR_ / _Bauer Radio Scotland_ le Donald Morrison, fear a thòisich athchuinge an-aghaidh Fèis-pròise Inbhir Nis air sgàth, mar a chanas e, &#8220;adhbharan bìoballach, diadhaidh agus moralta&#8221;.
 
 <!--more-->

@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Chaidh ainmeachadh Diardaoin gun tèid a&#8217; chiad fèis-pròise a-riamh a chumail anns na h-Eileanan an Iar 6mh Dàmhair.
 
 <!--more-->

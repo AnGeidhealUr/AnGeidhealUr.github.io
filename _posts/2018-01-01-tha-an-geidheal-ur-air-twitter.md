@@ -21,6 +21,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Ma tha sibh airson cumail suas leis an naidheachd as ùire bhuainn faodaidh sibh gar leantainn air Twitter thall aig [@AnGeidhealUr][1].
 
  [1]: https://www.twitter.com/AnGeidhealUr

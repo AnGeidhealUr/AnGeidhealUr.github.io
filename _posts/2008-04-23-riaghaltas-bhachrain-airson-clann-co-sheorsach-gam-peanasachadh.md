@@ -24,6 +24,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Tha Riaghaltas Bhachrain a&#8217; dèanamh iomairt gus co-sheòrsachd a chur às dhan dhùthaich.
 
 <!--more-->

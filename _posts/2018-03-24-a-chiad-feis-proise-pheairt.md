@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
  Thèid a' chiad Fèis-pròise a chumail ann an Siorrachd Pheairt Disathairne 11 Lùnastal 2018.
 
  <!--more-->

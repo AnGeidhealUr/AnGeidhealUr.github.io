@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Tha Colin McAllister agus Justin Ryan air phòsadh ann an seirbheis dìomhair aig an Oifis Chlàraidh Chelsea ann an Glaschu.
 
 <!--more-->

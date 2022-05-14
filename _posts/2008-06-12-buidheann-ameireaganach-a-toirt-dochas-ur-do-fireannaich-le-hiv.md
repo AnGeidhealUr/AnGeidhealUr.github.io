@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Tha fireannaich HIV+ anns na Stàitean Aonaichte a&#8217; cur dòchas anns a&#8217; bhuidheann [Growing Generations][1] a tha ag ràdh gum faod iad a bhith nam pàrantan.
 
 <!--more-->

@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 **Nochd an sgeulachd seo air a&#8217; BhBC an-diugh:-**
 
 Chaidh iarraidh air luchd-labhairt na Gàidhlig cuideachadh gus liosta de dh&#8217;fhaclan agus briathrachas LGBTI a chruthachadh sa chànan.

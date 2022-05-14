@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Chaidh ainmeachadh gum bi Fèis-pròise Iúr Cinn Trá (_Newry_) a&#8217; toirt aoigheachd dha Fhèis-pròise an Rìoghachd Aonaichte 2019.
 
 <!--more-->

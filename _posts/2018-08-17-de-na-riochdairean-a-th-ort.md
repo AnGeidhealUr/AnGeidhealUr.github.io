@@ -23,6 +23,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Seo agaibh ceangal gu deasbad gu math inntinneach le Anna NicNeacail (<a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/axnicho" data-mentioned-user-id="15308501"><s>@</s><b>axnicho</b></a>) agus Michael Bauer (<a class="twitter-atreply pretty-link js-nav" dir="ltr" href="https://twitter.com/akerbeltz" data-mentioned-user-id="325868074"><s>@</s><b>akerbeltz</b></a>) mu bhriathrachas LCDTE agus gu h-àraid riochdairean freagarrach do dhaoine neo-bhìnearaidh:
 
 <https://transponderings.blog/2018/03/09/de-na-riochdairean-a-th-ort/>

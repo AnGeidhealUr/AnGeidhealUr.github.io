@@ -23,6 +23,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Chaidh an sagart Caitligeach Mark Morris a chur à dreuchd le Oilthigh Cailleannach Ghlaschu as dèidh dha ràdh gun robh fèis-pròise Ghlaschu a&#8217; dèanamh oilbheum do Dhia.
 
 <!--more-->

@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Thèid maoineachadh de chòrr is £8000 a thoirt gu Fòram LGDT na Gàidhealtachd le Mhaoin a&#8217; Chrannchuir Mhòir airson tachartas _Proud Ness_ a chumail ann an Inbhir Nis san t-Sultain. A bharrachd air _Proud Ness_ thathar ag ràdh gum bi sreath de thachartasan nas lugha ann an àiteachan eile anns a&#8217; Ghàidhealtachd sna mìosan a leanas.
 
 <!--more-->

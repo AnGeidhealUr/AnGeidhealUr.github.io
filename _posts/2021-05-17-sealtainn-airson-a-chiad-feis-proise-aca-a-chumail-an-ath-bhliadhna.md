@@ -15,6 +15,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Chaidh ainmeachadh gun tèid a’ chiad fèis-pròise a-riamh ann an Sealtainn a chumail san Ògmhios 2022.
 
 Cha deach fèis-pròise a chumail a-riamh anns na h-eileanan ged a tha grunn bhuidhnean LGBT air a bhith ann o chionn beagan bhliadhnaichean.

@@ -27,6 +27,9 @@ instagram: https://www.instagram.com/p/CEZciOug7Vu/
 facebook: https://www.facebook.com/AnGeidhealUr/posts/3325347517487781
 
 ---
+
+![]({{ site.baseurl }}/images/posts/)
+
 Tha màthair Albannach a’ sireadh òrdugh-bacaidh gus casg a chur air dotairean sìolachaidh sgrios a dhèanamh air sìol-ghinidh a nighean tar-ghnèitheach.
 
 <!--more-->

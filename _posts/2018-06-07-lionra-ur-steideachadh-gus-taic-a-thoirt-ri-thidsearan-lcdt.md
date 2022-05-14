@@ -23,6 +23,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Chaidh lìonra air loidhne ùr stèidheachadh an seachdain seo gus taic a thoirt ri thidsearan LCDT+ san Rìoghachd Aonaichte.
 
 <!--more-->

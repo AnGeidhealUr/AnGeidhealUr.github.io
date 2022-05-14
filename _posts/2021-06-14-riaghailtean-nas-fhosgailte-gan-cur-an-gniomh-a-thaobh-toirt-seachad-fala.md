@@ -16,6 +16,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Chaidh riaghailtean ùra a chur an gnìomh an-diugh a tha a’ ciallachadh nach tèid dàil a chur air fireannaich a tha air a bhith ri fèise le fireannach eile anns na 3 mìosan a dh’fhalbh bho bhith a’ toirt seachad fala.
 
 Tha na h-atharrachaidhean ùra, a tha a’ buntainn ris an Rìoghachd Aonaichte air fad, a’ ciallachadh gun tèid a h-uile tabhartaiche a mheasadh mar phearsachan air leth seachd mar bhuidhean farsaing.

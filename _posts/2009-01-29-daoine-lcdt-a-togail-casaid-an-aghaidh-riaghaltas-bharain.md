@@ -23,6 +23,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Tha daoine LCDT ann am Bachrain a&#8217; togail casaid an-aghaidh riaghaltas an dùthaich as dèidh dhaibh casg a chur air lìn-sòisealta LCDT.
 
 <!--more-->

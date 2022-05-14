@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Tha Eaglais na h-Alba air ceum nas dlùithe a ghluasad gus leigeil le ministearan pòsaidhean aon-sheòrsach a chumail.
 
 <!--more-->

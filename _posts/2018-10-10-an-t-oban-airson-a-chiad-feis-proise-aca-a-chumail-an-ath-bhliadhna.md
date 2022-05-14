@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Thèid fèis-pròise a chumail anns an t-Òban an ath-bhliadhna airson a&#8217; chiad turas a-riamh.
 
 <!--more-->

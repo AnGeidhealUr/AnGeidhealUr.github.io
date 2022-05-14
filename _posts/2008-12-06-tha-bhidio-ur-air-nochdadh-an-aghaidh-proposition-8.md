@@ -22,6 +22,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}/images/posts/)
+
 Chaidh bhidio ùr a chur air an làrach-lìn FunnyOrDie.com, a tha a’ togail fianais an aghaidh Proposition 8.
 
 <!--more-->
