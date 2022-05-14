@@ -6,7 +6,7 @@ date: 2008-03-18 16:55:18
 
 title: Michael Stipe air ràdh gu bheil e co-sheòrsach
 
-image: /images/2008-03-18-michael-stipe-air-radh-gu-bheil-e-co-sheorsach.webp
+image: /images/posts/2008-03-18-michael-stipe-air-radh-gu-bheil-e-co-sheorsach.webp
 
 author: Crìstean MacMhìcheil
 
