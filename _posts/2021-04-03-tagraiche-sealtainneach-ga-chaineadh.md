@@ -1,11 +1,18 @@
 ---
+
 layout: post
+
 date: 2021-04-03
+
 title: Tagraiche Sealtainneach ga chàineadh
+
 image: /images/2021-04-03-tagraiche-sealtainneach-ga-chaineadh.webp
+
 author: Crìstean MacMhìcheil
+
 categories:
     - Alba
+
 ---
 
 Tha tagraiche neo-eisimeileach à Shealtainn fo chàineadh as dèidh dha ràdh gum faodadh an galar sgaoilte COVID-19 a bhith na thoradh pòsadh aon-sheòrsach a dhèanamh laghail.

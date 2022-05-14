@@ -1,11 +1,18 @@
 ---
+
 layout: post
+
 date: 2022-01-12
+
 title: Lasachadh nan riaghailtean a thaobh fireannaich gèidh a’ toirt seachad fala san Fhraing agus sa’ Ghrèig
+
 image: /images/posts/2022-01-12-lasachadh-nan-riaghailtean-a-thaobh-fireannaich-geidh-a-toirt-seachad-fala-san-fhraing-agus-sa-ghreig.webp
+
 author: Crìstean MacMhìcheil
+
 categories:
 	- An t-Saoghal
+
 ---
 
 ![]({{ site.baseurl }}/images/posts/2022-01-12-lasachadh-nan-riaghailtean-a-thaobh-fireannaich-geidh-a-toirt-seachad-fala-san-fhraing-agus-sa-ghreig.webp)

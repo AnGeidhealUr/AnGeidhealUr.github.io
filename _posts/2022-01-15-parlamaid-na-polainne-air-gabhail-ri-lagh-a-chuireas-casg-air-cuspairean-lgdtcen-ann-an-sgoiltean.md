@@ -1,11 +1,18 @@
 ---
+
 layout: post
+
 date: 2022-01-15
+
 title: Pàrlamaid na Pòlainne air gabhail ri lagh a chuireas casg air cuspairean LGDTCEN+ ann an sgoiltean
+
 image: /images/posts/2022-01-15-parlamaid-na-polainne-air-gabhail-ri-lagh-a-chuireas-casg-air-cuspairean-lgdtcen-ann-an-sgoiltean.webp
+
 author: Crìstean MacMhìcheil
+
 categories:
 	- An t-Saoghal
+
 ---
 
 ![]({{ site.baseurl }}/images/posts/2022-01-15-parlamaid-na-polainne-air-gabhail-ri-lagh-a-chuireas-casg-air-cuspairean-lgdtcen-ann-an-sgoiltean.webp)

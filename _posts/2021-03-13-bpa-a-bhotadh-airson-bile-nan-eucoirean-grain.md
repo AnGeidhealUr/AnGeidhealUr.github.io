@@ -1,11 +1,18 @@
 ---
+
 layout: post
+
 date: 2021-03-13
+
 title: BPA a' bhòtadh airson Bile nan Eucoirean Gràin
+
 image: /images/2021-03-13-bpa-a-bhotadh-airson-bile-nan-eucoirean-grain.webp
+
 author: Crìstean MacMhìcheil
+
 categories:
     - Alba
+
 ---
 
 Bhòt Buill Pàrlamaid na h-Alba Diardaoin airson gabhail ri Bile nan Eucoirean Gràin.

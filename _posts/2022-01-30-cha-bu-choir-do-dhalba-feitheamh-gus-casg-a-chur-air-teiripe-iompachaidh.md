@@ -1,11 +1,18 @@
 ---
+
 layout: post
+
 date: 2022-01-30 14:45
+
 title: Cha bu chòir do dh’Alba feitheamh gus casg a chur air teiripe iompachaidh
+
 image: /images/posts/2022-01-30-cha-bu-choir-do-dhalba-feitheamh-gus-casg-a-chur-air-teiripe-iompachaidh.webp
+
 author: Crìstean MacMhìcheil
+
 categories:
 	- Alba
+
 ---
 
 ![]({{ site.baseurl }}/images/posts/2022-01-30-cha-bu-choir-do-dhalba-feitheamh-gus-casg-a-chur-air-teiripe-iompachaidh.webp)

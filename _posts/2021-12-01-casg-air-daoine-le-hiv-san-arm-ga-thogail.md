@@ -1,11 +1,18 @@
 ---
+
 layout: post
+
 date: 2021-12-01
+
 title: Casg air daoine le HIV san arm ga thogail
+
 image: /images/2021-12-01-casg-air-daoine-le-hiv-san-arm-ga-thogail.webp
+
 author: Crìstean MacMhìcheil
+
 categories:
 	- An t-Saoghal
+
 ---
 
 Tha Ministreachd an Dìon air ainmeachadh an-diugh, air Là AIDS na Cruinne, gun tog iad an casg a th’ air daoine le HIV bho seirbheis san arm.
