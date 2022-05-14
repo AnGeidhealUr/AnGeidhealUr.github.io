@@ -27,10 +27,6 @@ layout: default
             {% when '12' %}An Dùbhlachd
           {% endcase %}
           {{ post.date | date: "%Y" }}
-          {% if page.author %} •
-          <span itemprop="author" itemscope itemtype="http://schema.org/Person"
-            ><span itemprop="name">{{ page.author }}</span></span
-          >{% endif %}
         </p>
       </header>
       <div class="post-content" itemprop="articleBody">{{ content }}</div>
