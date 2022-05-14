@@ -8,8 +8,8 @@ layout: default
     {% for post in paginator.posts %}   
       <div class="col-md-2">
         <p class="p-0 my-1 mx-0" style="text-align: right"><span class="post-meta"><small>
-          {% assign m = post.date | date: "%m" %}
-          {{ post.date | date: "%-d" }}
+          {% assign m = post.date | date: "%-m" %}
+          {{ post.date | date: "%d" }}
           {% case m %}
             {% when '1' %}Am Faoilleach
             {% when '2' %}An Gearran
