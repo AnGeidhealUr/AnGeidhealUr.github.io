@@ -6,7 +6,7 @@ date: 2022-01-15
 
 title: Pàrlamaid na Pòlainne air gabhail ri lagh a chuireas casg air cuspairean LGDTCEN+ ann an sgoiltean
 
-image: /images/2022-01-15-parlamaid-na-polainne-air-gabhail-ri-lagh-a-chuireas-casg-air-cuspairean-lgdtcen-ann-an-sgoiltean.jpg
+image: /images/2022-01-15-parlamaid-na-polainne-air-gabhail-ri-lagh-a-chuireas-casg-air-cuspairean-lgdtcen-ann-an-sgoiltean.webp
 
 image-caption:
 
@@ -28,9 +28,9 @@ twitter:
 
 ---
 
-Tha Pàrlamaid na Pòlainne air gabhail ri lagh a thathar an dùil ri casg a chur air teagaisg chuspairean LGDTCEN+ ann an sgoiltean.
+![]({{ site.baseurl }}{{ page.image }})
 
-<!--more-->
+Tha Pàrlamaid na Pòlainne air gabhail ri lagh a thathar an dùil ri casg a chur air teagaisg chuspairean LGDTCEN+ ann an sgoiltean.
 
 Thuirt Ministear an Fhoghlaim, Przemyslaw Czarnek, gum bi an lagh ùr a’ toirt cumhachd do stiùireadairean-foghlaim stuth-teagaisg sam bith bho bhuidhnean a-muigh, leithid carthannasan, a thilg a-mach.
 

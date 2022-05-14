@@ -6,7 +6,7 @@ date: 2021-09-26 20:15
 
 title: Muinntir na h-Eilbheise air bhòtadh airson pòsadh aon-sheòrsach
 
-image: /images/2021-09-26-muinntir-na-eilbheise-air-bhotadh-airson-posadh-aon-sheorsach.jpg
+image: /images/2021-09-26-muinntir-na-eilbheise-air-bhotadh-airson-posadh-aon-sheorsach.webp
 
 image-caption:
 
@@ -26,9 +26,9 @@ twitter: https://www.twitter.com/AnGeidhealUr/status/1442206274758664193
 
 ---
 
-Tha cha mhòr dà thrian de luchd-bhòtaidh anns an Eilbheis air bhòtadh airson pòsadh aon-sheòrsach a dhèanamh laghail san dùthaich.
+![]({{ site.baseurl }}{{ page.image }})
 
-<!--more-->
+Tha cha mhòr dà thrian de luchd-bhòtaidh anns an Eilbheis air bhòtadh airson pòsadh aon-sheòrsach a dhèanamh laghail san dùthaich.
 
 Bhòt 64.1 sa cheud de luchd-bhòtaidh agus a h-uile gin de na 26 cantonaichean (sgìrean) air a shon.
 

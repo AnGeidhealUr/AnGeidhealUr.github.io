@@ -15,6 +15,8 @@ categories:
 
 ---
 
+![]({{ site.baseurl }}{{ page.image }})
+
 ‘S e Alba a’ chiad dùthaich san t-saoghal gus curraicealam a ghabhas a-steach cùisean leasbach, gèidh, dà-sheòrsach is tar-ghnèitheach a thoirt a-steach.
 
 Gheibh luchd-teagaisg cothrom air e-trèanadh aire a-thaobh cùisean LGDT+ agus pasgan de ghoireasan teagaisg in-ghabhalach air an làrach-lìn ùr http://lgbteducation.scot.
