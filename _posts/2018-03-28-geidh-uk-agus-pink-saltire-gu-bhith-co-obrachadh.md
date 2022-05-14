@@ -23,7 +23,19 @@ categories:
 
 <https://pinksaltire.com> Twitter: [@PinkSaltire][1] Facebook: [@PinkSaltire][2] Snapchat: PinkSaltire Post-d: <info@pinksaltire.com>
 
-## Mu Phink Saltire Tha Pink Saltire na na bhuidheann carthannais clàraichte Albannach (SCIO) agus air a liostadh air a&#8217; chlàr carthannais a tha air a chumail le Riaghladair Bhuidhnean Carthannais na h-Alba (OSCR). Chaidh a stèidheachadh ann an 2014 agus &#8217;s e buidheann co-ionannachd nàiseanta a th&#8217; ann, air a riaghladh agus air a ruith le daoine LGBT+. Tha sinn a&#8217; creidsinn gur e àite fìor mhath a th&#8217; ann an Alba airson a bhith ann an comann-sòisealta an-asgaidh agus fosgailte. Mar Albannaich, tha sinn a&#8217; faighinn buannachd bho raon reachdais a tha a&#8217; dìon ar còraichean daonna co-ionnan agus saorsa conaltraidh. Tha sinn cuideachd ag aithneachadh gu bheil an sgeulachd agus eòlas aig a h-uile duine eadar-dhealaichte ach fhathast cudromach &#8211; tha mòran againn fhathast a&#8217; faighinn eòlas air lethbhreith, claon-bhreith, burraidheachd no droch-dhìol agus tha sinn airson sin atharrachadh. Mar charthannais againn &#8217;s e ar n-amasan a bhith:
+## Mu Phink Saltire
+
+Tha Pink Saltire na na bhuidheann carthannais clàraichte Albannach (SCIO) agus air a liostadh air a&#8217; chlàr carthannais a tha air a chumail le Riaghladair Bhuidhnean Carthannais na h-Alba (OSCR).
+
+Chaidh a stèidheachadh ann an 2014 agus &#8217;s e buidheann co-ionannachd nàiseanta a th&#8217; ann, air a riaghladh agus air a ruith le daoine LGBT+.
+
+Tha sinn a&#8217; creidsinn gur e àite fìor mhath a th&#8217; ann an Alba airson a bhith ann an comann-sòisealta an-asgaidh agus fosgailte.
+
+Mar Albannaich, tha sinn a&#8217; faighinn buannachd bho raon reachdais a tha a&#8217; dìon ar còraichean daonna co-ionnan agus saorsa conaltraidh.
+
+Tha sinn cuideachd ag aithneachadh gu bheil an sgeulachd agus eòlas aig a h-uile duine eadar-dhealaichte ach fhathast cudromach &#8211; tha mòran againn fhathast a&#8217; faighinn eòlas air lethbhreith, claon-bhreith, burraidheachd no droch-dhìol agus tha sinn airson sin atharrachadh.
+
+Mar charthannais againn &#8217;s e ar n-amasan a bhith:
 
   * adhartachadh saoranachd agus leasachadh coimhearsnachd taobh a-staigh coimhearsnachd LGBT+ na h-Alba,
   * brosnachadh co-ionannachd agus iomadachd,
