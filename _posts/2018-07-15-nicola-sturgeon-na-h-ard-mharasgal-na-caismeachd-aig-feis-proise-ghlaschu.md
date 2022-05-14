@@ -25,19 +25,7 @@ Air thoiseach air an tachartas, thuirt Ms Sturgeon:
 
 &#8220;Tha mi toilichte a bhith air ainmeachadh mar a&#8217; chiad Àrd-Mharasgal urramach a-riamh aig Fèis-pròise Ghlaschu agus tha mi a&#8217; coimhead air adhart ri bhith a&#8217; gabhail pàirt anns a&#8217; chaismeachd leis na daoine òga LCDTE gus Bliadhna Òigridh na h-Alba a chomharrachadh.&#8221;
 
-<!--<div id='gallery-3' class='gallery galleryid-2522 gallery-columns-1 gallery-size-large'>
-  <dl class='gallery-item'>
-    <dt class='gallery-icon landscape'>
-      <img width="906" height="400" src="https://i2.wp.com/geidh.uk/wp-content/uploads/2018/07/Pride_Glasgow_2018-1.webp?resize=906%2C400&#038;ssl=1" class="attachment-large size-large" alt="" aria-describedby="gallery-3-2534" srcset="https://i2.wp.com/geidh.uk/wp-content/uploads/2018/07/Pride_Glasgow_2018-1.webp?resize=1024%2C452&ssl=1 1024w, https://i2.wp.com/geidh.uk/wp-content/uploads/2018/07/Pride_Glasgow_2018-1.webp?resize=300%2C132&ssl=1 300w, https://i2.wp.com/geidh.uk/wp-content/uploads/2018/07/Pride_Glasgow_2018-1.webp?resize=768%2C339&ssl=1 768w, https://i2.wp.com/geidh.uk/wp-content/uploads/2018/07/Pride_Glasgow_2018-1.webp?w=1280&ssl=1 1280w" sizes="(max-width: 906px) 100vw, 906px" data-recalc-dims="1" />
-    </dt>
-
-    <dd class='wp-caption-text gallery-caption' id='gallery-3-2534'>
-      Caismeachd Fèis-pròise Ghlaschu. Dealbh le STV News.
-    </dd>
-  </dl>
-
-  <br style="clear: both" />
-</div>-->
+![](/images/posts/2018-07-15-nicola-sturgeon-na-h-ard-mharasgal-na-caismeachd-aig-feis-proise-ghlaschu-02.webp){:class="post-image"}
 
 Ann an aithris ris na luchd-frithealaidh, thuirt i:
 
@@ -53,19 +41,7 @@ Cuideachd mhol i Blair Wilson, duine à Baile Nèill, Siorrachd Rinn Friù an Ea
 
 &#8220;Ach an àite a bhith a&#8217; falachadh, bhruidhinn e a-mach agus leig dhomh seo a ràdh; &#8217;s e na prionnsabalan agus na luachan de dh&#8217;urram, mhisneachd agus thruas a chaidh a thaisbeanadh leis an duine òg sin a bu chòir a bhith a&#8217; mìneachadh ar dùthcha. Agus mar sin Blair, tha sinn uile a&#8217; seasamh còmhla riut.&#8221;
 
-<!--<div id='gallery-4' class='gallery galleryid-2522 gallery-columns-1 gallery-size-large'>
-  <dl class='gallery-item'>
-    <dt class='gallery-icon landscape'>
-      <img width="640" height="345" src="https://i1.wp.com/geidh.uk/wp-content/uploads/2018/07/Blair_Wilson.webp?resize=640%2C345&#038;ssl=1" class="attachment-large size-large" alt="" aria-describedby="gallery-4-2543" srcset="https://i1.wp.com/geidh.uk/wp-content/uploads/2018/07/Blair_Wilson.webp?w=640&ssl=1 640w, https://i1.wp.com/geidh.uk/wp-content/uploads/2018/07/Blair_Wilson.webp?resize=300%2C162&ssl=1 300w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" />
-    </dt>
-
-    <dd class='wp-caption-text gallery-caption' id='gallery-4-2543'>
-      Dealbh de Bhlair Wilson às dèidh dha ionnsaidh a thoirt air.
-    </dd>
-  </dl>
-
-  <br style="clear: both" />
-</div>-->
+![](/images/posts/2018-07-15-nicola-sturgeon-na-h-ard-mharasgal-na-caismeachd-aig-feis-proise-ghlaschu-03.webp){:class="post-image"}
 
 Thuirt Alastair Mac a&#8217; Ghobhainn, Àrd-oifigear Fèis-pròise Ghlaschu:
 
