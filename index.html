@@ -6,10 +6,10 @@ layout: default
 <div class="home py-4 py-md-5">
   <div class="row">
     {% for post in paginator.posts %}   
-      <div class="col-md-4">
+      <div class="col-md-3">
         <p class="p-0 my-1 mx-0" style="text-align: right"><span class="post-meta"><small>{{ post.date | date: "%b %-d, %Y" }}</small></span></p>
       </div>
-      <div class="col-md-8">
+      <div class="col-md-9">
         <p style="font-family: Lemonada"><a href="{{site.baseurk}}{{ post.url }}">{{ post.title }}</a></p>
       </div>
     {% endfor %}
