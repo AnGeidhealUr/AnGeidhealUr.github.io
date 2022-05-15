@@ -34,8 +34,9 @@ Tha an iomairt a&#8217; buntainn ri foillseachadh de GLSEN&#8217;s 2007 National
 
 &#8216;S e &#8220;That&#8217;s gay&#8221; an abairt as cumanta a chluinneas tu anns na raon-cluiche san là an-diugh ach tha rannsachadh a&#8217; sealltainn nach eil a&#8217; mhòr-chuid eòlach air am buaidh a th&#8217; aig faclan mar seo air daoine eile.
 
-<p style="text-align: center;">
-</p>
+<div class="youtube-wrapper">
+  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/LrJrw5ZZfRU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
  [1]: http://www.glsen.org/
  [2]: http://www.adcouncil.org/
