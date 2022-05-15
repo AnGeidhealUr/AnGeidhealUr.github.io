@@ -33,5 +33,6 @@ Cuideachd ann an aithris ris a&#8217; BhBC thuirt e:
 
 Tha bhidio dhen òraid a rinn e aig an fhèis ri fhaicinn gu h-ìosal:-
 
-<p style="text-align: center;">
-</p>
+<div class="youtube-wrapper">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/kWNmqmPsrmE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
