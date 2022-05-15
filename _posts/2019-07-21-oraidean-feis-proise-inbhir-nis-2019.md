@@ -13,7 +13,9 @@ author: Crìstean MacMhìcheil
 categories:
   - Alba
   - Pròise
-  
+
+tags: [Proud Ness, Highland Pride, Inbhir Nis, Inverness, Pròis, Pride, òraidean, òraid, speeches, speech]
+
 ---
 
 Bhidio dhe na h-òraidean aig Fèis-pròise Inbhir Nis 2019.
