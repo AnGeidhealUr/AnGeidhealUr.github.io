@@ -23,5 +23,6 @@ Chaidh Proposition 8 aontachadh le luchd-bhòtaidh ann an California 4mh An t-S
 
 Tha daoine ainmeil a’ cluich anns a’ bhidio: Neil Patrick Harris, John C. Reilly, Margaret Cho agus Jack Black, a tha a’ cluich Ìosa. Aig an deireadh, tha Harris ag ràdh ris na daoine air gach taobh an deasbaid gum biodh pòsadh (agus sgaradh-pòsaidh) aon-sheòrsach na b’ fheàrr dhan eaconomaidh Ameireaganach — an deidh do Ìosa a dhìobradh a dhearbhadh dha na daoine chràbhaich ri argamaid an spioraid.
 
-<p style="text-align: center">
+<div class="youtube-wrapper">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/B_hyT7_Bx9o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
