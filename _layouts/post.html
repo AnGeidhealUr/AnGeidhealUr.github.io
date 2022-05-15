@@ -33,7 +33,9 @@ layout: default
         </p>
       </header>
       <div class="post-content" itemprop="articleBody">
-        <img src="{{ page.image }}" class="post-image">
+        {% if page.image %}
+          <img src="{{ page.image }}" class="post-image">
+        {% endif %}
         {{ content }}
       </div>
     </article>
