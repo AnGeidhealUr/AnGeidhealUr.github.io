@@ -11,11 +11,9 @@ image: /images/posts/posadh-aon-sheorsach.webp
 author: Crìstean MacMhìcheil
 
 categories:
-  - An Rìoghachd Aonaichte
   - An t-Saoghal
+  - An Rìoghachd Aonaichte
   - Poileataigs
- 
- tags: [pòsadh, marriage, co-ionannachd, equality, Bermuda, Cayman Islands, UK, Breatainn, An Rìoghachd Aonaichte] 
   
 ---
 
