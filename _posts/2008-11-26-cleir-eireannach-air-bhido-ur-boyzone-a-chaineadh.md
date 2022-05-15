@@ -28,5 +28,6 @@ B&#8217; e Boyzone a&#8217; chiad còmhlan-ciùil a chur càraid co-sheòrsach a
 
 Seo agaibh am bhidio-ciùil airson Better:
 
-<p style="text-align: center">
-</p>
+<div class="youtube-wrapper">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/NBpvEqDPc4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
