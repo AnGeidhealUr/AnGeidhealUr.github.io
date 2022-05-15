@@ -2,28 +2,31 @@
 
 layout: post
 
-date: 2022-03-16 18:00
+date: 2008-03-14 09:54:55
 
-title: Thèid gnè bith-eòlasach a shònrachadh do phearsachan neo-bhìnearaidh ann an Cunntas-sluaigh na h-Èireann
+title: Buidheann LCDT Grèigeach air beàrn a lorg ann an laghan pòsaidh
 
-image: /images/posts/daonaireamh_2022.webp
+image: /images/posts/2008-03-14-buidheann-lcdt-greigeach-air-bearn-a-lorg-ann-an-laghan-posaidh.webp
 
 author: Crìstean MacMhìcheil
 
 categories:
-  - Èirinn
-  - Poileataigs
- 
- tags: [] 
+  - An t-Saoghal
   
 ---
 
-Tha Príomh-Oifig Staidrimh na hÉireann (CSO) air dearbhadh gun tèid gnè bith-eòlasach a shònrachadh do phearsachan neo-bhìnearaidh ann an Cunntas-sluaigh na h-Èireann am bliadhna.
+Tha buidheann LCDT anns a’ Ghrèig [OLKE](http://www.olke.org/) a’ bagairt ùghdarrasan ionadail a thoirt gu lagh  air sgàth ’s nach eil iad deònach càraidean co-sheòrsach a phòsadh ged a lagan pòsaidh a’ mìneachadh pòsadh mar aonadh eadar daoine an àite duine agus bean.
 
-A-rèir reachdas an Aonaidh Eòrpach feumaidh an cunntas-sluaigh faighneachd mun gnè bith-eòlasach a th’ aig neach agus feumaidh an taghadh a bhith eadar boireannach no fireannach.
+Tha OLKE airson am beàrn seo a chur gu feum gus pòsaidhean aon-sheòrsach a chumail.
 
-Cha bhi cunntas-sluaigh na bliadhna seo a’ faighneachd mun dearbh-aithne gnè a th’ aig neach ach tha an CSO air ràdh gu bheil iad an dùil seo a chur ris an ath-thuras.
+Bidh Riaghaltas na Grèige a’ toirt còirichean ùra gu càraidean nach eil pòsta a dh’aithghearr ach chan eil e cinnteach ma bhios na coirichean seo a’ toirt a-steach càraidean co-sheòrsach.
 
-Tha stiùireadh oifigeil air an làrach-lìn aca a’ moladh gun cur neach tiog anns na dhà bhogsa mura h-eil iad airson aithneachadh mar bhoireannach no fireannach ach tha e cuideachd ag ràdh gun tèid gnè bith-eòlasach a shònrachadh dhaibh gu thuaireamach airson adhbharan staitistigeil.
+Thuirt neach-labhairt airson OLKE:
 
-Thèid Cunntas-sluaigh na h-Èireann a chumail air 3mh latha dhen Ghiblean.
+“Mura faigh sinn cead bho na h-ùghdarrasan ionadail, bidh sinn gan toirt ri lagh.”
+
+“Cha bu chòir bacadh a bhith oirnn.”
+
+“Tha an lagh a’ toirt iomradh air “daoine” an àite “duine agus bean”. ‘S mar sin bidh sinn a’ dol air adhart mar nach eil bacadh oirnn.”
+
+Ged a tha a’ Ghrèig na ball anns a t-Aonadh Eòrpach, chan eil a’ choimhearsnachd LCDT a’ faighinn a’ mhòr-chuid dhe na còirichean ’s a bhios iad anns na stàitean Eòrpach eile, mar eisimpleir aois aontaidh co-ionannachd.
