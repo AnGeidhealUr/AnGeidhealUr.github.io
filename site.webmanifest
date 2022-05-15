@@ -1,6 +1,7 @@
 {
     "name": "An Gèidheal Ùr",
     "short_name": "An Gèidheal Ùr",
+    "description": "A’ toirt thugaibh na naidheachdan LGDTCEN+ as ùire",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
@@ -15,5 +16,8 @@
     ],
     "theme_color": "#393a65",
     "background_color": "#393a65",
-    "display": "standalone"
+    "display": "standalone",
+    "orientation": "any",
+    "scope": "/",
+    "start_url": "/"
 }
