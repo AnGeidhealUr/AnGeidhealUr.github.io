@@ -26,4 +26,5 @@ Thuirt Mgr Morrison: &#8220;they thrust lewdness in the faces of men, women and 
 Tha còrr &#8217;s 700 duine air na h-ainmean aca a chur ri athchuinge Mgr Morrison &#8217;s tha iad ag iarraidh air a&#8217; Chomhairle cead a dhiùltadh airson an tachartas a dhol air adhart.
 
 <p style="text-align: center;">
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">A new man came into my life &amp; I can’t stop thinking about him today, ahead of tonight’s <a href="https://twitter.com/hashtag/ProudScotlandAwards?src=hash&amp;ref_src=twsrc%5Etfw">#ProudScotlandAwards</a> 🏳️‍🌈 <a href="https://t.co/QSE89W9aNT">pic.twitter.com/QSE89W9aNT</a></p>&mdash; Bryan Rutherford (@BryanRutherford) <a href="https://twitter.com/BryanRutherford/status/1134738420268445696?ref_src=twsrc%5Etfw">June 1, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </p>
