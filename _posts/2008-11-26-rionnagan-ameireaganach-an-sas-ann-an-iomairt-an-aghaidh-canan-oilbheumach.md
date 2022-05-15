@@ -13,6 +13,8 @@ author: Crìstean MacMhìcheil
 categories:
   - An t-Saoghal
 
+tags: [Wanda Sykes, Hilary Duff, GLSEN, Think b4 you speak, knock it off, That's so gay]
+
 ---
 
 Chaidh iomairt ùr a chur air bhog anns na Stàitean Aonaichte gus sgoilearan a theagasg mu dheidhinn am buaidh a tha aig cànan oilbheumach air daoine LCDTE.
