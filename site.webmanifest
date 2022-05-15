@@ -1,0 +1,19 @@
+{
+    "name": "An G\u00e8idheal\u00a0\u00d9r",
+    "short_name": "An G\u00e8idheal\u00a0\u00d9r",
+    "icons": [
+        {
+            "src": "/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#393a65",
+    "background_color": "#393a65",
+    "display": "standalone"
+}
