@@ -6,7 +6,7 @@ date: 2022-03-21 18:00
 
 title: Criomagan Naidheachd • 21 Am Màrt 2022
 
-image: /images/posts/
+image: 
 
 author: Crìstean MacMhìcheil
 
