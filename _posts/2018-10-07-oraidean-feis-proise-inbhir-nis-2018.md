@@ -17,14 +17,18 @@ categories:
 
 Bhidiothan dhe na h-òraidean aig Fèis-pròise Inbhir Nis 2018.
 
-<p style="text-align: center;">
-</p>
+<div class="youtube-wrapper">
+  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/0X3DkUCoVu8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
-<p style="text-align: center;">
-</p>
+<div class="youtube-wrapper">
+  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Hd4IvN4OW4Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
-<p style="text-align: center;">
-</p>
+<div class="youtube-wrapper">
+  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/x19jGnU5P8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
-<p style="text-align: center;">
-</p>
+<div class="youtube-wrapper">
+  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/vg1H0z4npBc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
